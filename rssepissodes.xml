@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>עדכון חדשות הבילד:</title>
+  <link>https://www.w3schools.com</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  <item>
+  <title>אריח חדש הכל באחד סגנון יס גו</title>
+  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  </item>
+  <item>
+  <title>התווספו שתי תפריטים חדשים לאריח סרטים דוקמנטרי והופעוות חיות  הכל באחד שודרג סופית</title>
+  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  </item>
+  <item>
+  <title>מהגירסה הבאה ויקטורי תוסר מהבילד יותר לא מתוחזקת כרגע יש את מנדו שמחליפה אותה ויש צורך בריל דבריד</title>
+  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  </item>
+</channel>
+
+</rss>
