@@ -15,6 +15,16 @@
   <link>https://www.w3schools.com/xml/xml_rss.asp</link>
   <description>שימו לב עלו פרקים חדשים</description>
   </item>
+  <item>
+  <title>הנגן שודרג והוכנס חיווי שפות במידה והכתובית תיהיה לא בשפה העברית אז יקפוץ כפתור אפשרות חיפוש כתובית בעברית וכמובן תקבלו חיווי  </title>
+  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  </item>
+    <item>
+  <title>ששפת הכתובית לא בעברית</title>
+  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+  <description>שימו לב עלו פרקים חדשים</description>
+  </item>
 </channel>
 
 </rss>
