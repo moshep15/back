@@ -1,6 +1,6 @@
 name="Pellucid Premium Ver 1"
 version="6.3"
-url="https://drive.google.com/file/d/1-s4BNlCXkR2ZMNcJXxRf_hagoJWzJ6rW/view"
+url="https://drive.google.com/open/d/1-s4BNlCXkR2ZMNcJXxRf_hagoJWzJ6rW"
 gui=" "
 kodi="17.6"
 theme="http://"
