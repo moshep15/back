@@ -48,4 +48,4 @@ icon="https://raw.githubusercontent.com/Kcat123/images/master/Icon-Pellucid-18.p
 fanart="https://raw.githubusercontent.com/Kcat123/images/master/fanart.jpg"
 preview="http://"
 adult="No"
-description="KodiCat - Pellucid 18 - 26.4 MB"
+description="KodiCat - Pellucid 18 - 71.4 MB"
