@@ -1,6 +1,6 @@
 name="Ghost - Android 18"
 version="4.0"
-url="https://send.magicode.me/send-file/file/c1b638102313903d2c986a701e91a5ed2808d8bd/download"
+url="https://send.magicode.me/send-file/file/45d7df5dab103c8d279878adedd934620898049b/download"
 gui=""
 kodi="17.6"
 theme="http://"
