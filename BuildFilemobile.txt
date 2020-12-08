@@ -1,4 +1,4 @@
-id="plugin.program.GhostWizard"
+id="plugin.program.KodiCatWizard"
 version="3.5"
 zip="https://kcat123.github.io/repo/"
 
