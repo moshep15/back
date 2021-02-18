@@ -1,8 +1,8 @@
 zip=" "
 
 name="Pellucid Premium Ver 1"
-version=" [COLOR limegreen]7.0[/COLOR] "
-url="https://drive.google.com/open?id="
+version=" [COLOR limegreen]13.6[/COLOR] "
+url="https://drive.google.com/open?id=1H1uVhO7ovcBdihxAZL2yw0bzF2vkGWC-"
 gui=""
 Kodi="17.6"
 theme="http://"
