@@ -17,7 +17,7 @@ zip=" "
 
 name="Pellucid Premium Ver 2"
 version=" [COLOR red]6.0[/COLOR] "
-url="https://drive.google.com/open?id=1RHeas6RdFrpMK0jAt78f3BHAXog0yzxX"
+url=" "
 gui=" "
 Kodi="18.9"
 theme="http://"
