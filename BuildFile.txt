@@ -11,7 +11,7 @@ fanart=" "
 preview="https://"
 adult="no"
 description=" "
-filesize="45"
+filesize="195"
 
 zip=" "
 
