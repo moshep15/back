@@ -1,8 +1,8 @@
 zip=" "
 
 name="Pellucid Premium Ver 1"
-version=" [COLOR limegreen]1.0[/COLOR] "
-url="https://drive.google.com/open?id=1XM1QV7nY1YiTR0cKiQIHQELgvRHttrfy"
+version=" [COLOR limegreen]1.1[/COLOR] "
+url="https://drive.google.com/open?id=1-XRm0IhuovCBQ1XHFVEEYQ6XnxS9lEtM"
 gui="https://raw.githubusercontent.com/moshep15/back/master/skin.phenomenal-new-13.0.zip"
 Kodi="18.9"
 theme="http://"
