@@ -17,7 +17,7 @@ zip=" "
 
 name="Pellucid Premium Ver 2"
 version=" [COLOR red]1.3[/COLOR] "
-url="https://drive.google.com/open?id=1jj0wdtR5rHfxe0nPLvFDXI_0Pyc9X5s0"
+url="https://drive.google.com/open?id=1erqO9Oks8r2jvJmEEHzNffkdedom_-07"
 gui="https://raw.githubusercontent.com/moshep15/back/master/skin.phenomenalkodinox18public.zip"
 Kodi="18.9"
 theme="http://"
