@@ -2,7 +2,7 @@ zip=" "
 
 name="Pellucid Premium Ver 1"
 version=" [COLOR limegreen]1.3[/COLOR] "
-url="https://drive.google.com/open?id=1FN2YinLYc9d_jAnZVX8rf6b62Na2UTqO"
+url="https://drive.google.com/open?id=1XU9UtOIqN1W9eJv1yl14SsxQv4hWBrmL"
 gui="https://raw.githubusercontent.com/moshep15/back/master/skin18eminence.zip"
 Kodi="18.9"
 theme="http://"
