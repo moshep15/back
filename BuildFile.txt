@@ -32,7 +32,7 @@ zip=" "
 
 name="Pellucid Premium Ver 3"
 version=" [COLOR orange]7.0[/COLOR] "
-url=" "
+url="https://drive.google.com/open?id=1bxacAZx3RSGFj0HizDpNZvIHQAIYgl4f"
 gui=" "
 Kodi="18.9"
 theme="http://"
