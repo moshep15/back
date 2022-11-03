@@ -1,0 +1,44 @@
+#EXTINF:-1 tvg-id="2684" tvg-logo="http://epg.it999.ru/img2/2684.png" group-title="SPORTS",Sport 1 Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium140/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2683" tvg-logo="http://epg.it999.ru/img2/2683.png" group-title="SPORTS",Sport 2 Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium141/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2719" tvg-logo="http://epg.it999.ru/img2/2719.png" group-title="SPORTS",Sport 3 Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium142/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2720" tvg-logo="http://epg.it999.ru/img2/2720.png" group-title="SPORTS",Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium143/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2682" tvg-logo="http://epg.it999.ru/img2/2682.png" group-title="SPORTS",Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium144/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="4312" tvg-logo="http://epg.it999.ru/img2/4312.png" group-title="SPORTS",Sport 5 PLUS Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium145/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3993" tvg-logo="http://epg.it999.ru/img2/3993.png" group-title="SPORTS",Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium146/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3994" tvg-logo="http://epg.it999.ru/img2/3994.png" group-title="SPORTS",Sport 5 Star Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy6/premium147/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3994" tvg-logo="http://epg.it999.ru/img2/3994.png" group-title="SPORTS",Sport 5 Gold Israel
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy1/premium148/tracks-v1a1/mono.m3u8
