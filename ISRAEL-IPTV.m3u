@@ -53,3 +53,7 @@ https://webudi.openhd.lol/ddy1/premium543/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudi.openhd.lol/ddy1/premium544/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="3994" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="Nature",Animal Planet
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy5/premium304/tracks-v1a1/mono.m3u8
