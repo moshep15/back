@@ -43,8 +43,13 @@ https://webudi.openhd.lol/ddy6/premium147/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudi.openhd.lol/ddy1/premium148/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://iili.io/mr9lJs.jpg" group-title="YES",YES MOBIES
+#EXTINF:-1 tvg-id="3994" tvg-logo="https://iili.io/mr9lJs.jpg" group-title="YES",YES MOVIES
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudi.openhd.lol/ddy1/premium543/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3994" tvg-logo="https://iili.io/mrdmLQ.jpg" group-title="YES",YES KIDS
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy1/premium544/tracks-v1a1/mono.m3u8
 
