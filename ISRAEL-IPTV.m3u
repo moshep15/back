@@ -57,3 +57,8 @@ https://webudi.openhd.lol/ddy1/premium544/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudi.openhd.lol/ddy5/premium304/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3994" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Yes_Comedy_logo.png" group-title="YES",Yes Comady
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddy1/premium545/tracks-v1a1/mono.m3u8
