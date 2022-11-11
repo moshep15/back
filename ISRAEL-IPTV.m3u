@@ -62,3 +62,8 @@ https://webudi.openhd.lol/ddy5/premium304/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webudi.openhd.lol/ddy1/premium545/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3994" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/640px-HOT3_2018_Logo.svg.png" group-title="HOT",HOT3
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webudi.openhd.lol/ddyx2/premium553/tracks-v1a1/mono.m3u8
