@@ -1,428 +1,261 @@
-#EXTINF:-1 tvg-id="2684" tvg-logo="http://epg.it999.ru/img2/2684.png" group-title="SPORTS",Sport 1 Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium140/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2683" tvg-logo="http://epg.it999.ru/img2/2683.png" group-title="SPORTS",Sport 2 Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium141/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2719" tvg-logo="http://epg.it999.ru/img2/2719.png" group-title="SPORTS",Sport 3 Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium142/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2720" tvg-logo="http://epg.it999.ru/img2/2720.png" group-title="SPORTS",Sport 4 Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium143/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2682" tvg-logo="http://epg.it999.ru/img2/2682.png" group-title="SPORTS",Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium144/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="4312" tvg-logo="http://epg.it999.ru/img2/4312.png" group-title="SPORTS",Sport 5 PLUS Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium145/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3993" tvg-logo="http://epg.it999.ru/img2/3993.png" group-title="SPORTS",Sport 5 Live Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium146/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="http://epg.it999.ru/img2/3994.png" group-title="SPORTS",Sport 5 Star Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy6/premium147/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="http://epg.it999.ru/img2/3994.png" group-title="SPORTS",Sport 5 Gold Israel
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy1/premium148/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://iili.io/mr9lJs.jpg" group-title="YES",YES MOVIES
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy1/premium543/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://iili.io/mrdmLQ.jpg" group-title="YES",YES KIDS
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy1/premium544/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="Nature",Animal Planet
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy5/premium304/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Yes_Comedy_logo.png" group-title="YES",Yes Comady
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddy1/premium545/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3994" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/640px-HOT3_2018_Logo.svg.png" group-title="HOT",HOT3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webudi.openhd.lol/ddyx2/premium553/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 1" ,YES Sport 1
-http://xiptv.vip:80/ali2022/2022ali/66240
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 2" ,YES Sport 2
-http://xiptv.vip:80/ali2022/2022ali/66239
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 3" ,YES Sport 3
-http://xiptv.vip:80/ali2022/2022ali/66238
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 4" ,YES Sport 4
-http://xiptv.vip:80/ali2022/2022ali/66237
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 5" ,YES Sport 5
-http://xiptv.vip:80/ali2022/2022ali/66236
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 5 Plus" ,YES Sport 5 Plus
-http://xiptv.vip:80/ali2022/2022ali/66235
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 5 Live" ,YES Sport 5 Live
-http://xiptv.vip:80/ali2022/2022ali/66234
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 5 Stares" ,YES Sport 5 Stares
-http://xiptv.vip:80/ali2022/2022ali/66233
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Sport 5 Gold" ,YES Sport 5 Gold
-http://xiptv.vip:80/ali2022/2022ali/66232
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="ONE HD" ,ONE HD
-http://xiptv.vip:80/ali2022/2022ali/66231
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="ONE 2" ,ONE 2
-http://xiptv.vip:80/ali2022/2022ali/66230
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Movies Drama HD" ,YES Movies Drama HD
-http://xiptv.vip:80/ali2022/2022ali/66229
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Movies Action HD" ,YES Movies Action HD
-http://xiptv.vip:80/ali2022/2022ali/66228
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Movies Comedy HD" ,YES Movies Comedy HD
-http://xiptv.vip:80/ali2022/2022ali/66227
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES Movies Kids HD" ,YES Movies Kids HD
-http://xiptv.vip:80/ali2022/2022ali/66226
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES TV Action" ,YES TV Action
-http://xiptv.vip:80/ali2022/2022ali/66225
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES TV Drama HD" ,YES TV Drama HD
-http://xiptv.vip:80/ali2022/2022ali/66224
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES TV Comedy HD" ,YES TV Comedy HD
-http://xiptv.vip:80/ali2022/2022ali/66223
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Israeli Cinema FHD" ,YES-Israeli Cinema FHD
-http://xiptv.vip:80/ali2022/2022ali/66222
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Docu FHD" ,YES-Docu FHD
-http://xiptv.vip:80/ali2022/2022ali/66221
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-History FHD" ,YES-History FHD
-http://xiptv.vip:80/ali2022/2022ali/66220
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Disney FHD" ,YES-Disney FHD
-http://xiptv.vip:80/ali2022/2022ali/66219
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Discovery FHD" ,YES-Discovery FHD
-http://xiptv.vip:80/ali2022/2022ali/66218
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Disc.Science FHD" ,YES-Disc.Science FHD
-http://xiptv.vip:80/ali2022/2022ali/66217
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-National-Geographic FHD" ,YES-National-Geographic FHD
-http://xiptv.vip:80/ali2022/2022ali/66216
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Nat-Geo-Wild FHD" ,YES-Nat-Geo-Wild FHD
-http://xiptv.vip:80/ali2022/2022ali/66215
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Eurosport 1 FHD" ,YES-Eurosport 1 FHD
-http://xiptv.vip:80/ali2022/2022ali/66214
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-MTV FHD" ,YES-MTV FHD
-http://xiptv.vip:80/ali2022/2022ali/66213
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Channel 9 FHD" ,YES-Channel 9 FHD
-http://xiptv.vip:80/ali2022/2022ali/66211
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="Kan 11 IL" ,Kan 11 IL
-http://xiptv.vip:80/ali2022/2022ali/66210
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="12 Keshet IL" ,12 Keshet IL
-http://xiptv.vip:80/ali2022/2022ali/66209
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="13 Reshet IL" ,13 Reshet IL
-http://xiptv.vip:80/ali2022/2022ali/66208
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Channel 21" ,YES-Channel 21
-http://xiptv.vip:80/ali2022/2022ali/66207
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Channel 23" ,YES-Channel 23
-http://xiptv.vip:80/ali2022/2022ali/66206
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Kneest 33" ,YES-Kneest 33
-http://xiptv.vip:80/ali2022/2022ali/66205
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Kan 33 (Makan TV)" ,YES-Kan 33 (Makan TV)
-http://xiptv.vip:80/ali2022/2022ali/66204
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Channel-20" ,YES-Channel-20
-http://xiptv.vip:80/ali2022/2022ali/66203
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Channel66" ,YES-Channel66
-http://xiptv.vip:80/ali2022/2022ali/66202
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Hala TV  FHD" ,YES-Hala TV  FHD
-http://xiptv.vip:80/ali2022/2022ali/66201
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Kabbalah TV" ,YES-Kabbalah TV
-http://xiptv.vip:80/ali2022/2022ali/66200
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Hidabroot channel" ,YES-Hidabroot channel
-http://xiptv.vip:80/ali2022/2022ali/66199
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Hop ! FHD" ,YES-Hop ! FHD
-http://xiptv.vip:80/ali2022/2022ali/66198
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Disney Junior FHD" ,YES-Disney Junior FHD
-http://xiptv.vip:80/ali2022/2022ali/66197
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="Yes-TeenNick FHD" ,Yes-TeenNick FHD
-http://xiptv.vip:80/ali2022/2022ali/66196
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Zoom FHD" ,YES-Zoom FHD
-http://xiptv.vip:80/ali2022/2022ali/66195
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-VIVA FHD" ,YES-VIVA FHD
-http://xiptv.vip:80/ali2022/2022ali/66194
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Viva Plus FHD" ,YES-Viva Plus FHD
-http://xiptv.vip:80/ali2022/2022ali/66193
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Nickelodeon FHD" ,YES-Nickelodeon FHD
-http://xiptv.vip:80/ali2022/2022ali/66192
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-CBS Reality FHD" ,YES-CBS Reality FHD
-http://xiptv.vip:80/ali2022/2022ali/66191
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Good Life FHD" ,YES-Good Life FHD
-http://xiptv.vip:80/ali2022/2022ali/66190
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Music 24 Israel" ,YES-Music 24 Israel
-http://xiptv.vip:80/ali2022/2022ali/66189
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Classica FHD" ,YES-Classica FHD
-http://xiptv.vip:80/ali2022/2022ali/66188
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Animal Planet" ,YES-Animal Planet
-http://xiptv.vip:80/ali2022/2022ali/66187
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Home +" ,YES-Home +
-http://xiptv.vip:80/ali2022/2022ali/66186
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-VH1" ,YES-VH1
-http://xiptv.vip:80/ali2022/2022ali/66185
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Junior" ,YES-Junior
-http://xiptv.vip:80/ali2022/2022ali/66184
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Fashion" ,YES-Fashion
-http://xiptv.vip:80/ali2022/2022ali/66183
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-ID" ,YES-ID
-http://xiptv.vip:80/ali2022/2022ali/66182
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-TLC" ,YES-TLC
-http://xiptv.vip:80/ali2022/2022ali/66181
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Metv" ,YES-Metv
-http://xiptv.vip:80/ali2022/2022ali/66180
-#EXTINF:-1 group-title="Amos - اموس" tvg-name="YES-Kan Educational" ,YES-Kan Educational
-http://xiptv.vip:80/ali2022/2022ali/66179
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 SPORT HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 SPORT HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121832.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 GOLD HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 GOLD HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121833.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 PLUS HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 PLUS HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121834.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 3 HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 3 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121835.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES ONE2 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES ONE2 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121836.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES ONE FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES ONE FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121837.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT DIY IL" tvg-logo="" group-title="ISRAEL",AMOS | HOT DIY IL
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121838.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Nofesh tv" tvg-logo="" group-title="ISRAEL",AMOS | HOT Nofesh tv
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121839.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Reality iL" tvg-logo="" group-title="ISRAEL",AMOS | HOT Reality iL
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121840.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Style tv iL" tvg-logo="" group-title="ISRAEL",AMOS | HOT Style tv iL
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121841.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Zone HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Zone HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121843.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Yam Tichoni +" tvg-logo="" group-title="ISRAEL",AMOS | HOT Yam Tichoni +
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121844.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT TURKISH DRAMA 3" tvg-logo="" group-title="ISRAEL",AMOS | HOT TURKISH DRAMA 3
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121845.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT TURKISH DRAMA 2" tvg-logo="" group-title="ISRAEL",AMOS | HOT TURKISH DRAMA 2
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121846.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT TURKISH DRAMA 1" tvg-logo="" group-title="ISRAEL",AMOS | HOT TURKISH DRAMA 1
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121847.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT REAL" tvg-logo="" group-title="ISRAEL",AMOS | HOT REAL
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121849.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT LULI" tvg-logo="" group-title="ISRAEL",AMOS | HOT LULI
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121850.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT KIDS" tvg-logo="" group-title="ISRAEL",AMOS | HOT KIDS
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121851.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT HBO" tvg-logo="" group-title="ISRAEL",AMOS | HOT HBO
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121852.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Entertainment" tvg-logo="" group-title="ISRAEL",AMOS | HOT Entertainment
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121853.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Comedy Central HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Comedy Central HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121854.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Cinema 4 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Cinema 4 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121855.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Cinema 3 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Cinema 3 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121856.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Cinema 2 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Cinema 2 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121857.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT Cinema 1 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT Cinema 1 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121858.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT BOLLYSHOW" tvg-logo="" group-title="ISRAEL",AMOS | HOT BOLLYSHOW
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121860.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT BIDUR ISRAELI" tvg-logo="" group-title="ISRAEL",AMOS | HOT BIDUR ISRAELI
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121861.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT 8 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT 8 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121862.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT 3 HD" tvg-logo="" group-title="ISRAEL",AMOS | HOT 3 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121863.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | HOT VIVA PREMIUM" tvg-logo="" group-title="ISRAEL",AMOS | HOT VIVA PREMIUM
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121864.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES TV Drama" tvg-logo="" group-title="ISRAEL",AMOS | YES TV Drama
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121866.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Yes TV Comedy" tvg-logo="" group-title="ISRAEL",AMOS | Yes TV Comedy
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121867.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES TV Action" tvg-logo="" group-title="ISRAEL",AMOS | YES TV Action
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121868.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES National Geographic" tvg-logo="" group-title="ISRAEL",AMOS | YES National Geographic
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121869.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES Movies Action" tvg-logo="" group-title="ISRAEL",AMOS | YES Movies Action
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121870.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES  Discovery HD" tvg-logo="" group-title="ISRAEL",AMOS | YES  Discovery HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121871.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES  ch 23 HENICKETA" tvg-logo="" group-title="ISRAEL",AMOS | YES  ch 23 HENICKETA
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121872.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES  bollywood" tvg-logo="" group-title="ISRAEL",AMOS | YES  bollywood
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121873.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | SPORT 5 4K" tvg-logo="" group-title="ISRAEL",AMOS | SPORT 5 4K
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121874.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ONE 4K" tvg-logo="" group-title="ISRAEL",AMOS | ONE 4K
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121875.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Disc. Science" tvg-logo="" group-title="ISRAEL",AMOS | Disc. Science
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121876.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 11" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 11
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121877.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Animal planet" tvg-logo="" group-title="ISRAEL",AMOS | Animal planet
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121878.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | 24" tvg-logo="" group-title="ISRAEL",AMOS | 24
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121879.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Yam Tichoni" tvg-logo="" group-title="ISRAEL",AMOS | Yam Tichoni
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121880.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Yam Tichoni 25" tvg-logo="" group-title="ISRAEL",AMOS | Yam Tichoni 25
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121881.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | VIVA Plus" tvg-logo="" group-title="ISRAEL",AMOS | VIVA Plus
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121882.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | TURKISH DRAMA 2" tvg-logo="" group-title="ISRAEL",AMOS | TURKISH DRAMA 2
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121883.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | israel ciname" tvg-logo="" group-title="ISRAEL",AMOS | israel ciname
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121884.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | health tv" tvg-logo="" group-title="ISRAEL",AMOS | health tv
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121885.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Goodlife Ch" tvg-logo="" group-title="ISRAEL",AMOS | Goodlife Ch
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121886.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | EUROSPORT" tvg-logo="" group-title="ISRAEL",AMOS | EUROSPORT
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121888.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | E!" tvg-logo="" group-title="ISRAEL",AMOS | E!
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121889.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES ONE HD" tvg-logo="" group-title="ISRAEL",AMOS | YES ONE HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121890.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 STAR" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 STAR
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121891.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 LIVE" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 LIVE
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121892.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 4 HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 4 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121893.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 2 HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 2 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121894.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 1 HD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 1 HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121895.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ZOOM" tvg-logo="" group-title="ISRAEL",AMOS | ZOOM
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121896.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES ACTION HD" tvg-logo="" group-title="ISRAEL",AMOS | YES ACTION HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121897.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | VIVA" tvg-logo="" group-title="ISRAEL",AMOS | VIVA
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121898.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Travel HD" tvg-logo="" group-title="ISRAEL",AMOS | Travel HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121899.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | TLC" tvg-logo="" group-title="ISRAEL",AMOS | TLC
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121900.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Nickelodeon" tvg-logo="" group-title="ISRAEL",AMOS | Nickelodeon
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121901.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | NickTeen" tvg-logo="" group-title="ISRAEL",AMOS | NickTeen
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121902.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Nick Jr" tvg-logo="" group-title="ISRAEL",AMOS | Nick Jr
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121903.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | National Geo Wild" tvg-logo="" group-title="ISRAEL",AMOS | National Geo Wild
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121904.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Kan33" tvg-logo="" group-title="ISRAEL",AMOS | Kan33
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121907.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | E CHANELL" tvg-logo="" group-title="ISRAEL",AMOS | E CHANELL
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121908.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Hop" tvg-logo="" group-title="ISRAEL",AMOS | Hop
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121909.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | History Rus" tvg-logo="" group-title="ISRAEL",AMOS | History Rus
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121910.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | GoodLife" tvg-logo="" group-title="ISRAEL",AMOS | GoodLife
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121913.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Foody" tvg-logo="" group-title="ISRAEL",AMOS | Foody
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121914.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Food Network HD" tvg-logo="" group-title="ISRAEL",AMOS | Food Network HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121915.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Food Channel" tvg-logo="" group-title="ISRAEL",AMOS | Food Channel
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121916.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ID" tvg-logo="" group-title="ISRAEL",AMOS | ID
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121917.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Disney Jr" tvg-logo="" group-title="ISRAEL",AMOS | Disney Jr
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121918.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Disney HD" tvg-logo="" group-title="ISRAEL",AMOS | Disney HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121919.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | EURO SPORT 1" tvg-logo="" group-title="ISRAEL",AMOS | EURO SPORT 1
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121920.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YAM TICHONI +" tvg-logo="" group-title="ISRAEL",AMOS | YAM TICHONI +
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121922.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Baby TV" tvg-logo="" group-title="ISRAEL",AMOS | Baby TV
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121923.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | disney joiunr" tvg-logo="" group-title="ISRAEL",AMOS | disney joiunr
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121925.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Ch 24" tvg-logo="" group-title="ISRAEL",AMOS | Ch 24
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121927.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Junior" tvg-logo="" group-title="ISRAEL",AMOS | Junior
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121928.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | FOOD" tvg-logo="" group-title="ISRAEL",AMOS | FOOD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121929.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Israel Cinema" tvg-logo="" group-title="ISRAEL",AMOS | Israel Cinema
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121930.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 13" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 13
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121931.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 12" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 12
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121932.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 9" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 9
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121933.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 66" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 66
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121934.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ChANNEL 20" tvg-logo="" group-title="ISRAEL",AMOS | ChANNEL 20
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121935.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Movies DRAMA." tvg-logo="" group-title="ISRAEL",AMOS | yes Movies DRAMA.
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121936.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Movies ACTION." tvg-logo="" group-title="ISRAEL",AMOS | yes Movies ACTION.
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121937.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Movies Comedy" tvg-logo="" group-title="ISRAEL",AMOS | yes Movies Comedy
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121938.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Movies KIDS" tvg-logo="" group-title="ISRAEL",AMOS | yes Movies KIDS
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121939.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Viva PLUS" tvg-logo="" group-title="ISRAEL",AMOS | yes Viva PLUS
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121940.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Travel" tvg-logo="" group-title="ISRAEL",AMOS | yes Travel
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121941.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Teennick" tvg-logo="" group-title="ISRAEL",AMOS | Teennick
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121942.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes history" tvg-logo="" group-title="ISRAEL",AMOS | yes history
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121943.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes good life" tvg-logo="" group-title="ISRAEL",AMOS | yes good life
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121944.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Food" tvg-logo="" group-title="ISRAEL",AMOS | yes Food
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121945.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Drama HD" tvg-logo="" group-title="ISRAEL",AMOS | yes Drama HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121946.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Docu HD" tvg-logo="" group-title="ISRAEL",AMOS | yes Docu HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121947.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Discovery" tvg-logo="" group-title="ISRAEL",AMOS | yes Discovery
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121948.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | yes Comedy HD" tvg-logo="" group-title="ISRAEL",AMOS | yes Comedy HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121949.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ONE1  HD" tvg-logo="" group-title="ISRAEL",AMOS | ONE1  HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121950.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | ONE2  HD" tvg-logo="" group-title="ISRAEL",AMOS | ONE2  HD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121951.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 1 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 1 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121952.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 2 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 2 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121953.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 3 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 3 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121954.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 4 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 4 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121955.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 STAR FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 STAR FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121956.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 PLUS FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 PLUS FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121957.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 LIVE FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 LIVE FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121958.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121959.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | YES SPORT 5 GOLD FHD" tvg-logo="" group-title="ISRAEL",AMOS | YES SPORT 5 GOLD FHD
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121960.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMOS | Shopping" tvg-logo="" group-title="ISRAEL",AMOS | Shopping
-http://starshare.live:8080/live/k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2/so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1/121961.ts
+#EXTM3U
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,Keshet 12 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2329/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,Reshet 13 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2330/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2374/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,CHANNEL 9 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12238/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2331/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2700.png" tvg-id="2700" ,Channel 98 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2369/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,Kan 11 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2332/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2333/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2675" ,TeenNick IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2334/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-id="2678" ,Nick Jr IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2337/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,hop IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2338/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-id="2680" ,Home Plus IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2339/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2340/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,Sport 5 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2341/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-id="2974" ,Yes Israeli Cinema
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2342/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-id="4007" ,Yes DRAMA HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2343/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-id="2972" ,Yes DOCU HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2344/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-id="4021" ,Yes COMEDY HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2345/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-id="3999" ,Yes ACTION HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2346/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-id="2968" ,Yes Movies Comedy IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2348/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-id="2967" ,Yes Movies Kids IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2349/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-id="2966" ,Yes Movies Action IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2350/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-id="2965" ,Yes Movies Drama IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2351/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-id="2683" ,SPORT 2 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2352/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-id="2684" ,Sport 1 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2353/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2685" ,Hot HBO HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2354/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-id="2686" ,Good Life IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2355/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-id="2687" ,HOT cinema 4 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2356/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-id="2688" ,HOT cinema 1 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2357/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/325.png" tvg-id="2689" ,Discovery HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2358/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-id="2690" ,ZOOM IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2359/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-id="2691" ,Hot Zone
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2360/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-id="2692" ,Travel Channel IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2361/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-id="4312" ,Sport 5+ Live HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2362/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-id="4030" ,Harutz Hadramot Haturkiyot
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2363/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-id="2695" ,Hot Luli
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2364/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/4003.png" tvg-id="4003" ,Kids IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2365/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-id="2697" ,Junior IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2366/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-id="2698" ,HOT 3
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2367/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,Hop! Yaldut Israelit
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2368/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-id="2701" ,Baby IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2370/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-id="2702" ,HOT cinema 2 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2371/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-id="2703" ,HOT cinema 3 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2372/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-id="2704" ,ONE 2 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2373/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,Ego Total IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2376/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,Food Network IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2377/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,Health IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2378/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-id="2710" ,Entertainment IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2379/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2711.png" tvg-id="2711" ,Kan Elady
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2380/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2712.png" tvg-id="2712" ,Mekan 33
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2381/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-id="2713" ,Viva+ IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2382/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2714.png" tvg-id="2714" ,Yaldut IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2383/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2717.png" tvg-id="2717" ,i24 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2386/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-id="2718" ,VIVA IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2387/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-id="2719" ,Sport 3 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2388/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-id="2720" ,Sport 4 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2389/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4011.png" tvg-id="4011" ,Yamtihoni IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2390/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,Sport 5 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2391/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-id="2972" ,Yes Docu FHD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/7113/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-id="4313" ,Eurosport 2 HD
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/7203/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,DISNEY JR IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12206/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,EGO TOTAL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12207/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5015.png" tvg-id="5015" ,EXTREME IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12208/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,FOOD CHANNE IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12209/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,HEALTH CHANNEL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12210/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2716.png" tvg-id="2716" ,HIDABRUT IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12211/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,HOP CHILDHOOD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12213/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-id="2698" ,HOT3 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12214/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-id="2702" ,HOT CINEMA 2 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12215/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5023.png" tvg-id="5023" ,HOT8 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12216/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5024.png" tvg-id="5024" ,HOT COMEDY CENTRAL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12217/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-id="2687" ,HOT CINEMA 4 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12218/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-id="2710" ,HOT ENTERTAINMENT HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12219/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-id="2703" ,HOT CINEMA 3 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12220/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-id="2691" ,HOT ZONE HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12222/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5030.png" tvg-id="5030" ,HUMOR CHANNEL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12223/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4029.png" tvg-id="4029" ,LIFETIME HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12224/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2712.png" tvg-id="2712" ,MAKAN HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12225/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4028.png" tvg-id="4028" ,MUSIC 24 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12226/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-id="2678" ,NICK JR HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12228/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/4009.png" tvg-id="4009" ,NICK HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12229/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE 1 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12230/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-id="2704" ,ONE 2 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12231/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3994.png" tvg-id="3994" ,5 STARS HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12232/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-id="2718" ,VIVA HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12233/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-id="2713" ,VIVA+ IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12234/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4011.png" tvg-id="4011" ,YAM TIHONI HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12235/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,CHANNEL 12 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12236/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,KAN 11 IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12237/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-id="2701" ,BABY TV IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12239/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-id="2697" ,JUNIOR IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12240/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/325.png" tvg-id="2689" ,DISCOVERY CHANNEL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12241/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4307.png" tvg-id="4307" ,DISNEY CHANNEL HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12242/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4005.png" tvg-id="4005" ,E! IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12243/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,HOP HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12244/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-id="2688" ,HOT CINEMA 1 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12245/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-id="2695" ,LULI IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12246/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2677.png" tvg-id="2677" ,NATIONAL GEOGRAPHICS HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12247/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4311.png" tvg-id="4311" ,NET GEO_WILD HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12248/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-id="2684" ,SPORT 1 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12249/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-id="2683" ,SPORT 2 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12250/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-id="2719" ,SPORT 3 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12251/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-id="2720" ,SPORT 4 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12252/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,SPORT 5 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12253/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3992.png" tvg-id="3992" ,SPORT 5 GOLD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12254/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3993.png" tvg-id="3993" ,SPORT 5 LIVE HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12255/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-id="4312" ,SPORT 5 PLUS HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12256/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-id="2974" ,YES ISRAELI CINEMA IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12257/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-id="2972" ,YES DOCU HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12258/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4311.png" tvg-id="4311" ,NAT GEO WILD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12259/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,CHANNEL 13 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12260/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4296.png" tvg-id="4296" ,CHANNEL 20 HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12261/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4028.png" tvg-id="4028" ,CHANNEL 24 MUSIC HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12262/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4031.png" tvg-id="4031" ,HALA TV IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12264/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4014.png" tvg-id="4014" ,HISTORY HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12265/index.m3u8
+#EXTINF:-1 group-title="ערוצי ילדים" tvg-logo="http://epg.it999.ru/img/5070.png" tvg-id="5070" ,A+ HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12266/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5071.png" tvg-id="5071" ,BOLLYWOOD HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12267/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4314.png" tvg-id="4314" ,BOLLYSHOW HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12268/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4306.png" tvg-id="4306" ,KNESET CHANNE IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12269/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-id="2966" ,YES MOVIES ACTION HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12270/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-id="2968" ,YES MOVIES COMEDY HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12271/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-id="2965" ,YES MOVIES DRAMA HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12272/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-id="2967" ,YES MOVIES KIDS HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12273/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4023.png" tvg-id="4023" ,MTV MUSIC IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12274/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3994.png" tvg-id="3994" ,STARS IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12278/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-id="2692" ,TRAVEL CHANNEL IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12279/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-id="3999" ,YES TV ACTION HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12280/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-id="4021" ,YES TV COMEDY HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12281/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5087.png" tvg-id="5087" ,WIZ IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12283/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-id="4007" ,YES TV DRAMA HD IL
+http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12282/index.m3u8
