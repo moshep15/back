@@ -1,329 +1,198 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Hebrew's =====" tvg-logo="" group-title="",===== VIP Hebrew's =====
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5962
-#EXTINF:-1 tvg-ID="channel11.il" tvg-name="VIP IL: Kan11 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Kan11 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/18131
-#EXTINF:-1 tvg-ID="kan.il" tvg-name="VIP IL: Kan11 HD" tvg-logo="http://image.ibb.co/dJpKfn/kan11.png" group-title="Live: Hebrew",VIP IL: Kan11 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3298
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Makan HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Makan HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/40335
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Makan FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Makan FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/18132
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 9 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 9 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/40334
-#EXTINF:-1 tvg-ID="channel9.il" tvg-name="VIP IL: Channel 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",VIP IL: Channel 9
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6105
-#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 12 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19374
-#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16272
-#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 SD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 SD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/14596
-#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="VIP IL: Channel 13 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 13 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19375
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 13 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 13 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/20218
-#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="VIP IL: Channel 13 SD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 SD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3299
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 14 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 14 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16514
-#EXTINF:-1 tvg-ID="channel20.il" tvg-name="VIP IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: Channel 20
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3301
-#EXTINF:-1 tvg-ID="channelone.il" tvg-name="VIP IL: Channel 23 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 23 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19376
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 23 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 23 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/40771
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 24 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 24 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41254
-#EXTINF:-1 tvg-ID="music24.il" tvg-name="VIP IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Live: Hebrew",VIP IL: Channel 24
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3303
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Yam Tihoni" tvg-logo="https://image.ibb.co/dmS7T7/yamtihoni.png" group-title="Live: Hebrew",VIP IL: Yam Tihoni
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12031
-#EXTINF:-1 tvg-ID="channelone.il" tvg-name="VIP IL: Kan33" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Kan33
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/14595
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hala TV FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Hala TV FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19381
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: ONE 1 FHD P50" tvg-logo="" group-title="Live: Hebrew",VIP IL: ONE 1 FHD P50
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/83772
-#EXTINF:-1 tvg-ID="sportone.il" tvg-name="VIP IL: ONE 1 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 1 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/21903
-#EXTINF:-1 tvg-ID="sportone.il" tvg-name="VIP IL: ONE 1 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 1 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5956
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: ONE 2 FHD P50" tvg-logo="" group-title="Live: Hebrew",VIP IL: ONE 2 FHD P50
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/83773
-#EXTINF:-1 tvg-ID="sportone2.il" tvg-name="VIP IL: ONE 2 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 2 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25827
-#EXTINF:-1 tvg-ID="sportone2.il" tvg-name="VIP IL: ONE 2 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 2 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19104
-#EXTINF:-1 tvg-ID="sport1.il" tvg-name="VIP IL: YES SPORT1 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT1 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/20415
-#EXTINF:-1 tvg-ID="sport1.il" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT1 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5958
-#EXTINF:-1 tvg-ID="sport2.il" tvg-name="VIP IL: YES SPORT2 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT2 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/21901
-#EXTINF:-1 tvg-ID="sport2.il" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT2 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5957
-#EXTINF:-1 tvg-ID="sport3.il" tvg-name="VIP IL: YES SPORT3 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT3 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/21899
-#EXTINF:-1 tvg-ID="sport3.il" tvg-name="VIP IL: YES SPORT3 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT3 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/11471
-#EXTINF:-1 tvg-ID="sport4.il" tvg-name="VIP IL: YES SPORT4 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT4 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/21900
-#EXTINF:-1 tvg-ID="sport4.il" tvg-name="VIP IL: YES SPORT4 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT4 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/11472
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 4K" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5 4K
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/50637
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Sport 5 FHD P50" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5 FHD P50
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/83774
-#EXTINF:-1 tvg-ID="sport5.il" tvg-name="VIP IL: Sport 5 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/20416
-#EXTINF:-1 tvg-ID="sport5.il" tvg-name="VIP IL: Sport 5 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19813
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 SD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5 SD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41502
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Sport 5+ Live FHD P50" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5+ Live FHD P50
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/83775
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5+ Live FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Live FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25825
-#EXTINF:-1 tvg-ID="yesoh.il" tvg-name="VIP IL: Sport 5+ Live HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5+ Live HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16521
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Sport 5+ Stars FHD P50" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5+ Stars FHD P50
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/83776
-#EXTINF:-1 tvg-ID="5stars.il" tvg-name="VIP IL: Sport 5+ Stars FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Stars FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5955
-#EXTINF:-1 tvg-ID="starschannel.il" tvg-name="VIP IL: Sport 5+ Stars HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Stars HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25826
-#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="VIP IL: Sport 5 Plus FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 Plus FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/22315
-#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Live: Hebrew",VIP IL: Sport 5 Plus
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12823
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Live: Hebrew",VIP IL: Sport 5 Gold
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/11725
-#EXTINF:-1 tvg-ID="FoxSportHD.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Fox Sport HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3341
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Eurosport 1 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Eurosport 1 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19377
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Eurosport 2 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Eurosport 2 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19379
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Trace Spôrt Stars" tvg-logo="" group-title="Live: Hebrew",VIP IL: Trace Spôrt Stars
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/63091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Extreme Sports" tvg-logo="" group-title="Live: Hebrew",VIP IL: Extreme Sports
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19514
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Action FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Action FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45723
-#EXTINF:-1 tvg-ID="yesaction.il" tvg-name="VIP IL: YES TV Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/fTogo7/YESACTIONHD.png" group-title="Live: Hebrew",VIP IL: YES TV Action HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16517
-#EXTINF:-1 tvg-ID="yesaction.il" tvg-name="VIP IL: YES TV Action HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Action HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25833
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Comedy FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Comedy FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45725
-#EXTINF:-1 tvg-ID="yescomedy.il" tvg-name="VIP IL: YES TV Comedy HD [Multi-Sub]" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="Live: Hebrew",VIP IL: YES TV Comedy HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16518
-#EXTINF:-1 tvg-ID="yescomedy.il" tvg-name="VIP IL: YES TV Comedy HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Comedy HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25837
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Drama FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Drama FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45722
-#EXTINF:-1 tvg-ID="yesdrama.il" tvg-name="VIP IL: YES TV Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Live: Hebrew",VIP IL: YES TV Drama HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16520
-#EXTINF:-1 tvg-ID="yesdrama.il" tvg-name="VIP IL: YES TV Drama HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Drama HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25835
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Action FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Action FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45721
-#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: YES Movies Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Action HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16513
-#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: YES Movies Action HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Action HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25829
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Kids FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Kids FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45718
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES Movies Kids HD [Multi-Sub]" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Kids HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/60460
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Drama FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Drama FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45719
-#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: YES Movies Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16512
-#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: YES Movies Drama HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25828
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Comedy FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Comedy FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45720
-#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: YES Movies Comedy HD [Multi-Sub]" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Comedy HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16515
-#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: YES Movies Comedy HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Comedy HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25831
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES Docu FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Docu FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25832
-#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="VIP IL: YES Docu HD [Multi-Sub]" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16519
-#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="VIP IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25834
-#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="VIP IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD [Multi-Sub]
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/26119
-#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="VIP IL: YES Cinema HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Cinema HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16522
-#EXTINF:-1 tvg-ID="hot3.il" tvg-name="VIP IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Live: Hebrew",VIP IL: HOT 3 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6106
-#EXTINF:-1 tvg-ID="channel8.il" tvg-name="VIP IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Live: Hebrew",VIP IL: HOT 8 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/8141
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Senior" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Senior
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41501
-#EXTINF:-1 tvg-ID="hotzone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Live: Hebrew",VIP IL: HOT ZONE HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6107
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT HBO FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT HBO FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41504
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT HBO HD" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="Live: Hebrew",VIP IL: HOT HBO HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6110
-#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="VIP IL: HOT Cinema 1" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 1
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/23802
-#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="VIP IL: HOT Cinema 1 HD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 1 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6108
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 1 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 1 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/64397
-#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="VIP IL: HOT Cinema 2" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 2
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25821
-#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="VIP IL: HOT Cinema 2 HD" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 2 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5960
-#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="VIP IL: HOT Cinema 3" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 3
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25822
-#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="VIP IL: HOT Cinema 3 HD" tvg-logo="https://image.ibb.co/c5Fu87/HOTGOLDHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 3 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/5961
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 3 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 3 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/64339
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 2 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 2 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/64338
-#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="VIP IL: HOT Cinema 4" tvg-logo="[" group-title="Live: Hebrew",VIP IL: HOT Cinema 4
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25823
-#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="VIP IL: HOT Cinema 4 HD" tvg-logo="https://image.ibb.co/gfWZ87/HOTFUNHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 4 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6109
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 4 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 4 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/64340
-#EXTINF:-1 tvg-ID="hotcomedy.il" tvg-name="VIP IL: HOT Comedy Central HD" tvg-logo="https://image.ibb.co/m9EnT7/hotcomedycentralhd.png" group-title="Live: Hebrew",VIP IL: HOT Comedy Central HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6104
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Bidur" tvg-logo="https://image.ibb.co/erxVgS/hotentertainment.png" group-title="Live: Hebrew",VIP IL: HOT Bidur
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6102
-#EXTINF:-1 tvg-ID="hotbollywood.il" tvg-name="VIP IL: HOT Bollywood HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Bollywood HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/20368
-#EXTINF:-1 tvg-ID="hotbombay.il" tvg-name="VIP IL: HOT Bollyshow" tvg-logo="https://image.ibb.co/grF5Fn/hotbombay.png" group-title="Live: Hebrew",VIP IL: HOT Bollyshow
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12028
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Bollywood HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Bollywood HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/62379
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Big Brother 26 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Big Brother 26 FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41078
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Big Brother 26" tvg-logo="" group-title="Live: Hebrew",VIP IL: Big Brother 26
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/17205
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Classic FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Classic FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/58502
-#EXTINF:-1 tvg-ID="homeandfamily.il" tvg-name="VIP IL: Home Plus" tvg-logo="https://image.ibb.co/jGjbMS/HomePlus.png" group-title="Live: Hebrew",VIP IL: Home Plus
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6103
-#EXTINF:-1 tvg-ID="viva.il" tvg-name="VIP IL: VIVA" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Live: Hebrew",VIP IL: VIVA
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/14531
-#EXTINF:-1 tvg-ID="vivaplus.il" tvg-name="VIP IL: VIVA Plus" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Live: Hebrew",VIP IL: VIVA Plus
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6101
-#EXTINF:-1 tvg-ID="zoom.il" tvg-name="VIP IL: Zoom" tvg-logo="https://image.ibb.co/fsrj87/zOOM.png" group-title="Live: Hebrew",VIP IL: Zoom
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/8146
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: A+ Kids" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: A+ Kids
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/3340
-#EXTINF:-1 tvg-ID="hope.il" tvg-name="VIP IL: HOP" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Live: Hebrew",VIP IL: HOP
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16062
-#EXTINF:-1 tvg-ID="hotlollypop.il" tvg-name="VIP IL: HOP YALDUT" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Live: Hebrew",VIP IL: HOP YALDUT
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6114
-#EXTINF:-1 tvg-ID="disneychannel.il" tvg-name="VIP IL: Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Live: Hebrew",VIP IL: Disney HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/9574
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Live: Hebrew",VIP IL: Disney Jr
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/9575
-#EXTINF:-1 tvg-ID="nickelodeon.il" tvg-name="VIP IL: Nickelodeon" tvg-logo="" group-title="Live: Hebrew",VIP IL: Nickelodeon
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19515
-#EXTINF:-1 tvg-ID="nickjr.il" tvg-name="VIP IL: Nick Jr" tvg-logo="https://image.ibb.co/b5Jgo7/NickJr.png" group-title="Live: Hebrew",VIP IL: Nick Jr
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6113
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: NickTeen" tvg-logo="https://image.ibb.co/kA3svn/Nickelodeon.png" group-title="Live: Hebrew",VIP IL: NickTeen
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6112
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Baby TV" tvg-logo="https://image.ibb.co/dsvNvn/BabyTV.png" group-title="Live: Hebrew",VIP IL: Baby TV
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/6111
-#EXTINF:-1 tvg-ID="kidz.il" tvg-name="VIP IL: Yes Wiz" tvg-logo="https://image.ibb.co/f56Z87/logi.png" group-title="Live: Hebrew",VIP IL: Yes Wiz
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12035
-#EXTINF:-1 tvg-ID="luly.il" tvg-name="VIP IL: Luli" tvg-logo="https://preview.ibb.co/buiE87/lulitv.png" group-title="Live: Hebrew",VIP IL: Luli
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12034
-#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="VIP IL: JimJam" tvg-logo="[" group-title="Live: Hebrew",VIP IL: JimJam
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19512
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Logi" tvg-logo="" group-title="Live: Hebrew",VIP IL: Logi
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/34679
-#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="VIP IL: Junior" tvg-logo="https://image.ibb.co/dyZzan/Junior.png" group-title="Live: Hebrew",VIP IL: Junior
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/8143
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hero !" tvg-logo="" group-title="Live: Hebrew",VIP IL: Hero !
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/63093
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Turkish Dramas Plus FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Turkish Dramas Plus FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/34819
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Turkish Dramas 2" tvg-logo="" group-title="Live: Hebrew",VIP IL: Turkish Dramas 2
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/45726
-#EXTINF:-1 tvg-ID="mtv2.il" tvg-name="VIP IL: Knesset" tvg-logo="https://image.ibb.co/fpzzan/mikan.png" group-title="Live: Hebrew",VIP IL: Knesset
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12033
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: i 24" tvg-logo="http://image.ibb.co/eZDefn/i24.png" group-title="Live: Hebrew",VIP IL: i 24
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12299
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Fox Business HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Fox Business HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/42009
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Israel Shopping Channel" tvg-logo="" group-title="Live: Hebrew",VIP IL: Israel Shopping Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19513
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hidabroot Channel" tvg-logo="http://image.ibb.co/iecSY7/hidabroot.png" group-title="Live: Hebrew",VIP IL: Hidabroot Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/7343
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Animal planet" tvg-logo="" group-title="Live: Hebrew",VIP IL: Animal planet
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/35323
-#EXTINF:-1 tvg-ID="mtveurope.il" tvg-name="VIP IL: MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Live: Hebrew",VIP IL: MTV Isreal
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/9573
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: MTV Hits" tvg-logo="" group-title="Live: Hebrew",VIP IL: MTV Hits
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/42010
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: VH1" tvg-logo="" group-title="Live: Hebrew",VIP IL: VH1
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/42007
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: VH1 Classic" tvg-logo="" group-title="Live: Hebrew",VIP IL: VH1 Classic
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/42008
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: BBC entertainement" tvg-logo="" group-title="Live: Hebrew",VIP IL: BBC entertainement
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41503
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: DIY Channel FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: DIY Channel FHD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/23716
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: The Humor Channel" tvg-logo="" group-title="Live: Hebrew",VIP IL: The Humor Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/19380
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Fashion Isreal HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Fashion Isreal HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41252
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: TLC" tvg-logo="" group-title="Live: Hebrew",VIP IL: TLC
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/35322
-#EXTINF:-1 tvg-ID="eentertainment.il" tvg-name="VIP IL: E! Entertainment" tvg-logo="http://image.ibb.co/e0GbRS/entertainment.png" group-title="Live: Hebrew",VIP IL: E! Entertainment
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/14639
-#EXTINF:-1 tvg-ID="cbsreality.il" tvg-name="VIP IL: CBS Reality" tvg-logo="http://image.ibb.co/cBTqmS/cbsreality.png" group-title="Live: Hebrew",VIP IL: CBS Reality
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/14723
-#EXTINF:-1 tvg-ID="ego.il" tvg-name="VIP IL: Ego Total" tvg-logo="http://preview.ibb.co/fv3efn/egototal.png" group-title="Live: Hebrew",VIP IL: Ego Total
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12586
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: National Geographic HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: National Geographic HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/40774
-#EXTINF:-1 tvg-ID="natgeohd.il" tvg-name="VIP IL: National Geographic" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Live: Hebrew",VIP IL: National Geographic
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/9571
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: National Geo Wild HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: National Geo Wild HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/40775
-#EXTINF:-1 tvg-ID="natgeowild.il" tvg-name="VIP IL: National Geo Wild" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Live: Hebrew",VIP IL: National Geo Wild
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/7344
-#EXTINF:-1 tvg-ID="discovery.il" tvg-name="VIP IL: Discovery HD" tvg-logo="https://preview.ibb.co/k0UnT7/discoveryhd.png" group-title="Live: Hebrew",VIP IL: Discovery HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/7342
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Discovery Science" tvg-logo="" group-title="Live: Hebrew",VIP IL: Discovery Science
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/41253
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: ID" tvg-logo="" group-title="Live: Hebrew",VIP IL: ID
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/63092
-#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="VIP IL: Me TV" tvg-logo="" group-title="Live: Hebrew",VIP IL: Me TV
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/23122
-#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="VIP IL: History HD" tvg-logo="https://image.ibb.co/gcNkFn/History_HD.png" group-title="Live: Hebrew",VIP IL: History HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/8142
-#EXTINF:-1 tvg-ID="wiz.il" tvg-name="VIP IL: History" tvg-logo="" group-title="Live: Hebrew",VIP IL: History
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/22644
-#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="VIP IL: Food Channel" tvg-logo="https://image.ibb.co/nKHVgS/foodchannel.png" group-title="Live: Hebrew",VIP IL: Food Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/7341
-#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="VIP IL: Food Network HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Food Network HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/22645
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 14 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 14 HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/61503
-#EXTINF:-1 tvg-ID="healthchannel.il" tvg-name="VIP IL: Health Channel" tvg-logo="http://image.ibb.co/mi2GRS/healthchannel.png" group-title="Live: Hebrew",VIP IL: Health Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12032
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="https://image.ibb.co/mjJxT7/fineliving.png" group-title="Live: Hebrew",VIP IL: Fine Living
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12029
-#EXTINF:-1 tvg-ID="goodlifechannel.il" tvg-name="VIP IL: GoodLife" tvg-logo="https://image.ibb.co/bCrCvn/goodlife.png" group-title="Live: Hebrew",VIP IL: GoodLife
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/16283
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Lifetime" tvg-logo="https://image.ibb.co/fgBO1S/Lifetime.png" group-title="Live: Hebrew",VIP IL: Lifetime
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/12030
-#EXTINF:-1 tvg-ID="travelchannel.il" tvg-name="VIP IL: Travel HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Travel HD
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/25824
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Travel Channel" tvg-logo="https://image.ibb.co/iPQu87/Travel_Channel.png" group-title="Live: Hebrew",VIP IL: Travel Channel
-http://world-iptv.net:8080/nB67endsqnnr/ggUCmqySYZ22/7340
+#EXTINF:-1 tvg-id="" tvg-name="-= Israel =-" tvg-logo="" group-title="Israel",-= Israel =-
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/34345
+#EXTINF:-1 tvg-id="24.il" tvg-name="24 IL" tvg-logo="" group-title="Israel",24 IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38644
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="" group-title="Israel",Animal Planet HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103273
+#EXTINF:-1 tvg-id="yesbaby.il" tvg-name="Baby TV IL" tvg-logo="" group-title="Israel",Baby TV IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38648
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="Channel 11 FHD IL" tvg-logo="" group-title="Israel",Channel 11 FHD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38721
+#EXTINF:-1 tvg-id="12keshet.il" tvg-name="Channel 12 HD IL" tvg-logo="" group-title="Israel",Channel 12 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38724
+#EXTINF:-1 tvg-id="13reshet.il" tvg-name="Channel 13 HD IL" tvg-logo="" group-title="Israel",Channel 13 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38722
+#EXTINF:-1 tvg-id="channel20.il" tvg-name="Channel 20 HD IL" tvg-logo="" group-title="Israel",Channel 20 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38719
+#EXTINF:-1 tvg-id="" tvg-name="Channel 21 IL" tvg-logo="" group-title="Israel",Channel 21 IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38720
+#EXTINF:-1 tvg-id="" tvg-name="Channel 23 Henicketa IL" tvg-logo="" group-title="Israel",Channel 23 Henicketa IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38718
+#EXTINF:-1 tvg-id="24.il" tvg-name="Channel 24 IL" tvg-logo="" group-title="Israel",Channel 24 IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38717
+#EXTINF:-1 tvg-id="" tvg-name="Channel 66 HD IL" tvg-logo="" group-title="Israel",Channel 66 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103271
+#EXTINF:-1 tvg-id="channel9.il" tvg-name="Channel 9 HD IL" tvg-logo="" group-title="Israel",Channel 9 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38725
+#EXTINF:-1 tvg-id="discovery.il" tvg-name="Discovery HD IL" tvg-logo="" group-title="Israel",Discovery HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38632
+#EXTINF:-1 tvg-id="discoveryscience.il" tvg-name="Discovery Science IL" tvg-logo="" group-title="Israel",Discovery Science IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
+#EXTINF:-1 tvg-id="disneychannel.il" tvg-name="Disney HD IL" tvg-logo="" group-title="Israel",Disney HD IL
+#EXTVLCOPT:network-caching=1000
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38655
+#EXTINF:-1 tvg-id="juniorchannel.il" tvg-name="Disney Jr IL" tvg-logo="" group-title="Israel",Disney Jr IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38654
+#EXTINF:-1 tvg-id="eentertainment.il" tvg-name="E! Entertainment IL" tvg-logo="" group-title="Israel",E! Entertainment IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
+#EXTINF:-1 tvg-id="eurosport.il" tvg-name="Eurosport 1 HD IL" tvg-logo="" group-title="Israel",Eurosport 1 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103262
+#EXTINF:-1 tvg-id="eurosport2.il" tvg-name="Eurosport 2 HD IL" tvg-logo="" group-title="Israel",Eurosport 2 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103263
+#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Food Channel IL" tvg-logo="" group-title="Israel",Food Channel IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38622
+#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Food Network HD IL" tvg-logo="" group-title="Israel",Food Network HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38621
+#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Foody IL" tvg-logo="" group-title="Israel",Foody IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38628
+#EXTINF:-1 tvg-id="goodlifechannel.il" tvg-name="Good Life IL" tvg-logo="" group-title="Israel",Good Life IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38626
+#EXTINF:-1 tvg-id="" tvg-name="Hagiga Mizrahit IL" tvg-logo="" group-title="Israel",Hagiga Mizrahit IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103291
+#EXTINF:-1 tvg-id="" tvg-name="Hala TV HD IL" tvg-logo="" group-title="Israel",Hala TV HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103278
+#EXTINF:-1 tvg-id="healthchannel.il" tvg-name="Health Channel IL" tvg-logo="" group-title="Israel",Health Channel IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38627
+#EXTINF:-1 tvg-id="hidabrot.il" tvg-name="Hidabrut IL" tvg-logo="" group-title="Israel",Hidabrut IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38715
+#EXTINF:-1 tvg-id="historychannel.il" tvg-name="History Channel HD IL" tvg-logo="" group-title="Israel",History Channel HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38630
+#EXTINF:-1 tvg-id="" tvg-name="History Rus HD IL" tvg-logo="" group-title="Israel",History Rus HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103276
+#EXTINF:-1 tvg-id="" tvg-name="Home Plus IL" tvg-logo="" group-title="Israel",Home Plus IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38660
+#EXTINF:-1 tvg-id="hope.il" tvg-name="Hop IL" tvg-logo="" group-title="Israel",Hop IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38662
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="HOT 3 HD IL" tvg-logo="" group-title="Israel",HOT 3 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38674
+#EXTINF:-1 tvg-id="channel8.il" tvg-name="HOT 8 HD IL" tvg-logo="" group-title="Israel",HOT 8 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38664
+#EXTINF:-1 tvg-id="" tvg-name="Hot Bidur HD IL" tvg-logo="" group-title="Israel",Hot Bidur HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103275
+#EXTINF:-1 tvg-id="hotbollywood.il" tvg-name="HOT Bollywood HD IL" tvg-logo="" group-title="Israel",HOT Bollywood HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38665
+#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 1 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 1 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38671
+#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 2 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 2 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38670
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="HOT Cinema 3 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 3 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38669
+#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 4 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 4 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38668
+#EXTINF:-1 tvg-id="hotcomedy.il" tvg-name="HOT Comedy Central HD IL" tvg-logo="" group-title="Israel",HOT Comedy Central HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38667
+#EXTINF:-1 tvg-id="" tvg-name="HOT HBO HD IL" tvg-logo="" group-title="Israel",HOT HBO HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
+#EXTINF:-1 tvg-id="hotzone.il" tvg-name="HOT Zone HD IL" tvg-logo="" group-title="Israel",HOT Zone HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38673
+#EXTINF:-1 tvg-id="" tvg-name="ID HD IL" tvg-logo="" group-title="Israel",ID HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103274
+#EXTINF:-1 tvg-id="" tvg-name="Israel Cinema HD IL" tvg-logo="" group-title="Israel",Israel Cinema HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103272
+#EXTINF:-1 tvg-id="juniorchannel.il" tvg-name="Junior IL" tvg-logo="" group-title="Israel",Junior IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38645
+#EXTINF:-1 tvg-id="kan.il" tvg-name="Kan 11 HD IL" tvg-logo="" group-title="Israel",Kan 11 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38727
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime IL" tvg-logo="" group-title="Israel",Lifetime IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38625
+#EXTINF:-1 tvg-id="luly.il" tvg-name="Luli IL" tvg-logo="" group-title="Israel",Luli IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38647
+#EXTINF:-1 tvg-id="mtv.il" tvg-name="MTV HD IL" tvg-logo="" group-title="Israel",MTV HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38641
+#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" tvg-logo="" group-title="Israel",National Geo Wild IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38633
+#EXTINF:-1 tvg-id="natgeohd.il" tvg-name="National Geographic HD IL" tvg-logo="" group-title="Israel",National Geographic HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38634
+#EXTINF:-1 tvg-id="nickjr.il" tvg-name="Nick Jr IL" tvg-logo="" group-title="Israel",Nick Jr IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38652
+#EXTINF:-1 tvg-id="nickelodeon.il" tvg-name="Nickelodeon IL" tvg-logo="" group-title="Israel",Nickelodeon IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38653
+#EXTINF:-1 tvg-id="" tvg-name="NickTeen IL" tvg-logo="" group-title="Israel",NickTeen IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38651
+#EXTINF:-1 tvg-id="channelone.il" tvg-name="ONE 1 HD IL" tvg-logo="" group-title="Israel",ONE 1 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
+#EXTINF:-1 tvg-id="one2.il" tvg-name="ONE 2 HD IL" tvg-logo="" group-title="Israel",ONE 2 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
+#EXTINF:-1 tvg-id="" tvg-name="Shopping HD IL" tvg-logo="" group-title="Israel",Shopping HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103264
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="Sport 1 HD IL" tvg-logo="" group-title="Israel",Sport 1 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="Sport 1 IL" tvg-logo="" group-title="Israel",Sport 1 IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="Sport 2 HD IL" tvg-logo="" group-title="Israel",Sport 2 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="Sport 3 HD IL" tvg-logo="" group-title="Israel",Sport 3 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38709
+#EXTINF:-1 tvg-id="sport4.il" tvg-name="Sport 4 HD IL" tvg-logo="" group-title="Israel",Sport 4 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
+#EXTINF:-1 tvg-id="5plusgold.il" tvg-name="Sport 5 Gold IL" tvg-logo="" group-title="Israel",Sport 5 Gold IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38700
+#EXTINF:-1 tvg-id="sport5.il" tvg-name="Sport 5 HD IL" tvg-logo="" group-title="Israel",Sport 5 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
+#EXTINF:-1 tvg-id="5live.il" tvg-name="Sport 5 Live HD IL" tvg-logo="" group-title="Israel",Sport 5 Live HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38701
+#EXTINF:-1 tvg-id="5stars.il" tvg-name="Sport 5+ Stars HD IL" tvg-logo="" group-title="Israel",Sport 5+ Stars HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38703
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="Sport 5+ HD IL" tvg-logo="" group-title="Israel",Sport 5+ HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38702
+#EXTINF:-1 tvg-id="5sport4k.il" tvg-name="Sport 5 UHD 4K IL [Only On 4K Devices]" tvg-logo="" group-title="Israel",Sport 5 UHD 4K IL [Only On 4K Devices]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/59033
+#EXTINF:-1 tvg-id="teennick.il" tvg-name="Teen Nick IL" tvg-logo="" group-title="Israel",Teen Nick IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/36851
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD IL" tvg-logo="" group-title="Israel",TLC HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103277
+#EXTINF:-1 tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" tvg-logo="" group-title="Israel",Travel Channel HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38624
+#EXTINF:-1 tvg-id="viva.il" tvg-name="VIVA IL" tvg-logo="" group-title="Israel",VIVA IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38658
+#EXTINF:-1 tvg-id="vivaplus.il" tvg-name="VIVA Plus IL" tvg-logo="" group-title="Israel",VIVA Plus IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38657
+#EXTINF:-1 tvg-id="" tvg-name="Yam Tihoni IL" tvg-logo="" group-title="Israel",Yam Tihoni IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38656
+#EXTINF:-1 tvg-id="yes1.il" tvg-name="YES 1 HD IL [Multi-Sub]" tvg-logo="" group-title="Israel",YES 1 HD IL [Multi-Sub]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
+#EXTINF:-1 tvg-id="yes2.il" tvg-name="YES 2 HD IL" tvg-logo="" group-title="Israel",YES 2 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
+#EXTINF:-1 tvg-id="yes3.il" tvg-name="YES 3 HD IL" tvg-logo="" group-title="Israel",YES 3 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38694
+#EXTINF:-1 tvg-id="yes4.il" tvg-name="YES 4 HD IL" tvg-logo="" group-title="Israel",YES 4 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38692
+#EXTINF:-1 tvg-id="yes5.il" tvg-name="YES 5 HD IL" tvg-logo="" group-title="Israel",YES 5 HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
+#EXTINF:-1 tvg-id="yesaction.il" tvg-name="YES Action HD IL" tvg-logo="" group-title="Israel",YES Action HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38686
+#EXTINF:-1 tvg-id="" tvg-name="YES Childhood IL" tvg-logo="" group-title="Israel",YES Childhood IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103288
+#EXTINF:-1 tvg-id="yesisraelicinema.il" tvg-name="YES Cinema HD IL" tvg-logo="" group-title="Israel",YES Cinema HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38678
+#EXTINF:-1 tvg-id="yescomedy.il" tvg-name="YES Comedy HD IL" tvg-logo="" group-title="Israel",YES Comedy HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38684
+#EXTINF:-1 tvg-id="" tvg-name="YES Discovery HD IL" tvg-logo="" group-title="Israel",YES Discovery HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
+#EXTINF:-1 tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" tvg-logo="" group-title="Israel",YES Docu HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
+#EXTINF:-1 tvg-id="yesdrama.il" tvg-name="YES Drama HD IL" tvg-logo="" group-title="Israel",YES Drama HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
+#EXTINF:-1 tvg-id="" tvg-name="YES Food HD IL" tvg-logo="" group-title="Israel",YES Food HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103266
+#EXTINF:-1 tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action IL" tvg-logo="" group-title="Israel",YES Movies Action IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
+#EXTINF:-1 tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action HD IL" tvg-logo="" group-title="Israel",YES Movies Action HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103268
+#EXTINF:-1 tvg-id="yesmoviescomedy.il" tvg-name="YES Movies Comedy HD IL" tvg-logo="" group-title="Israel",YES Movies Comedy HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103269
+#EXTINF:-1 tvg-id="yesmoviesdrama.il" tvg-name="YES Movies Drama HD IL" tvg-logo="" group-title="Israel",YES Movies Drama HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103267
+#EXTINF:-1 tvg-id="yesmovieskids.il" tvg-name="YES Movies Kids HD IL" tvg-logo="" group-title="Israel",YES Movies Kids HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103270
+#EXTINF:-1 tvg-id="" tvg-name="YES ONE HD IL" tvg-logo="" group-title="Israel",YES ONE HD IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
+#EXTINF:-1 tvg-id="yestvaction.il" tvg-name="YES TV Action IL" tvg-logo="" group-title="Israel",YES TV Action IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103283
+#EXTINF:-1 tvg-id="yestvcomedy.il" tvg-name="YES TV Comedy IL" tvg-logo="" group-title="Israel",YES TV Comedy IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103284
+#EXTINF:-1 tvg-id="yestvdrama,il" tvg-name="YES TV Drama IL" tvg-logo="" group-title="Israel",YES TV Drama IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
+#EXTINF:-1 tvg-id="zoom.il" tvg-name="ZOOM IL" tvg-logo="" group-title="Israel",ZOOM IL
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38663
