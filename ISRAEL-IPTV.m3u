@@ -1,198 +1,153 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-= Israel =-" tvg-logo="" group-title="Israel",-= Israel =-
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/34345
-#EXTINF:-1 tvg-id="24.il" tvg-name="24 IL" tvg-logo="" group-title="Israel",24 IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38644
-#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="" group-title="Israel",Animal Planet HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103273
-#EXTINF:-1 tvg-id="yesbaby.il" tvg-name="Baby TV IL" tvg-logo="" group-title="Israel",Baby TV IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38648
-#EXTINF:-1 tvg-id="channel11.il" tvg-name="Channel 11 FHD IL" tvg-logo="" group-title="Israel",Channel 11 FHD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38721
-#EXTINF:-1 tvg-id="12keshet.il" tvg-name="Channel 12 HD IL" tvg-logo="" group-title="Israel",Channel 12 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38724
-#EXTINF:-1 tvg-id="13reshet.il" tvg-name="Channel 13 HD IL" tvg-logo="" group-title="Israel",Channel 13 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38722
-#EXTINF:-1 tvg-id="channel20.il" tvg-name="Channel 20 HD IL" tvg-logo="" group-title="Israel",Channel 20 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38719
-#EXTINF:-1 tvg-id="" tvg-name="Channel 21 IL" tvg-logo="" group-title="Israel",Channel 21 IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38720
-#EXTINF:-1 tvg-id="" tvg-name="Channel 23 Henicketa IL" tvg-logo="" group-title="Israel",Channel 23 Henicketa IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38718
-#EXTINF:-1 tvg-id="24.il" tvg-name="Channel 24 IL" tvg-logo="" group-title="Israel",Channel 24 IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38717
-#EXTINF:-1 tvg-id="" tvg-name="Channel 66 HD IL" tvg-logo="" group-title="Israel",Channel 66 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103271
-#EXTINF:-1 tvg-id="channel9.il" tvg-name="Channel 9 HD IL" tvg-logo="" group-title="Israel",Channel 9 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38725
-#EXTINF:-1 tvg-id="discovery.il" tvg-name="Discovery HD IL" tvg-logo="" group-title="Israel",Discovery HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38632
-#EXTINF:-1 tvg-id="discoveryscience.il" tvg-name="Discovery Science IL" tvg-logo="" group-title="Israel",Discovery Science IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
-#EXTINF:-1 tvg-id="disneychannel.il" tvg-name="Disney HD IL" tvg-logo="" group-title="Israel",Disney HD IL
-#EXTVLCOPT:network-caching=1000
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38655
-#EXTINF:-1 tvg-id="juniorchannel.il" tvg-name="Disney Jr IL" tvg-logo="" group-title="Israel",Disney Jr IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38654
-#EXTINF:-1 tvg-id="eentertainment.il" tvg-name="E! Entertainment IL" tvg-logo="" group-title="Israel",E! Entertainment IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
-#EXTINF:-1 tvg-id="eurosport.il" tvg-name="Eurosport 1 HD IL" tvg-logo="" group-title="Israel",Eurosport 1 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103262
-#EXTINF:-1 tvg-id="eurosport2.il" tvg-name="Eurosport 2 HD IL" tvg-logo="" group-title="Israel",Eurosport 2 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103263
-#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Food Channel IL" tvg-logo="" group-title="Israel",Food Channel IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38622
-#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Food Network HD IL" tvg-logo="" group-title="Israel",Food Network HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38621
-#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="Foody IL" tvg-logo="" group-title="Israel",Foody IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38628
-#EXTINF:-1 tvg-id="goodlifechannel.il" tvg-name="Good Life IL" tvg-logo="" group-title="Israel",Good Life IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38626
-#EXTINF:-1 tvg-id="" tvg-name="Hagiga Mizrahit IL" tvg-logo="" group-title="Israel",Hagiga Mizrahit IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103291
-#EXTINF:-1 tvg-id="" tvg-name="Hala TV HD IL" tvg-logo="" group-title="Israel",Hala TV HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103278
-#EXTINF:-1 tvg-id="healthchannel.il" tvg-name="Health Channel IL" tvg-logo="" group-title="Israel",Health Channel IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38627
-#EXTINF:-1 tvg-id="hidabrot.il" tvg-name="Hidabrut IL" tvg-logo="" group-title="Israel",Hidabrut IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38715
-#EXTINF:-1 tvg-id="historychannel.il" tvg-name="History Channel HD IL" tvg-logo="" group-title="Israel",History Channel HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38630
-#EXTINF:-1 tvg-id="" tvg-name="History Rus HD IL" tvg-logo="" group-title="Israel",History Rus HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103276
-#EXTINF:-1 tvg-id="" tvg-name="Home Plus IL" tvg-logo="" group-title="Israel",Home Plus IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38660
-#EXTINF:-1 tvg-id="hope.il" tvg-name="Hop IL" tvg-logo="" group-title="Israel",Hop IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38662
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="HOT 3 HD IL" tvg-logo="" group-title="Israel",HOT 3 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38674
-#EXTINF:-1 tvg-id="channel8.il" tvg-name="HOT 8 HD IL" tvg-logo="" group-title="Israel",HOT 8 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38664
-#EXTINF:-1 tvg-id="" tvg-name="Hot Bidur HD IL" tvg-logo="" group-title="Israel",Hot Bidur HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103275
-#EXTINF:-1 tvg-id="hotbollywood.il" tvg-name="HOT Bollywood HD IL" tvg-logo="" group-title="Israel",HOT Bollywood HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38665
-#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 1 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 1 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38671
-#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 2 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 2 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38670
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="HOT Cinema 3 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 3 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38669
-#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 4 HD IL" tvg-logo="" group-title="Israel",HOT Cinema 4 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38668
-#EXTINF:-1 tvg-id="hotcomedy.il" tvg-name="HOT Comedy Central HD IL" tvg-logo="" group-title="Israel",HOT Comedy Central HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38667
-#EXTINF:-1 tvg-id="" tvg-name="HOT HBO HD IL" tvg-logo="" group-title="Israel",HOT HBO HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
-#EXTINF:-1 tvg-id="hotzone.il" tvg-name="HOT Zone HD IL" tvg-logo="" group-title="Israel",HOT Zone HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38673
-#EXTINF:-1 tvg-id="" tvg-name="ID HD IL" tvg-logo="" group-title="Israel",ID HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103274
-#EXTINF:-1 tvg-id="" tvg-name="Israel Cinema HD IL" tvg-logo="" group-title="Israel",Israel Cinema HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103272
-#EXTINF:-1 tvg-id="juniorchannel.il" tvg-name="Junior IL" tvg-logo="" group-title="Israel",Junior IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38645
-#EXTINF:-1 tvg-id="kan.il" tvg-name="Kan 11 HD IL" tvg-logo="" group-title="Israel",Kan 11 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38727
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime IL" tvg-logo="" group-title="Israel",Lifetime IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38625
-#EXTINF:-1 tvg-id="luly.il" tvg-name="Luli IL" tvg-logo="" group-title="Israel",Luli IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38647
-#EXTINF:-1 tvg-id="mtv.il" tvg-name="MTV HD IL" tvg-logo="" group-title="Israel",MTV HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38641
-#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" tvg-logo="" group-title="Israel",National Geo Wild IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38633
-#EXTINF:-1 tvg-id="natgeohd.il" tvg-name="National Geographic HD IL" tvg-logo="" group-title="Israel",National Geographic HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38634
-#EXTINF:-1 tvg-id="nickjr.il" tvg-name="Nick Jr IL" tvg-logo="" group-title="Israel",Nick Jr IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38652
-#EXTINF:-1 tvg-id="nickelodeon.il" tvg-name="Nickelodeon IL" tvg-logo="" group-title="Israel",Nickelodeon IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38653
-#EXTINF:-1 tvg-id="" tvg-name="NickTeen IL" tvg-logo="" group-title="Israel",NickTeen IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38651
-#EXTINF:-1 tvg-id="channelone.il" tvg-name="ONE 1 HD IL" tvg-logo="" group-title="Israel",ONE 1 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
-#EXTINF:-1 tvg-id="one2.il" tvg-name="ONE 2 HD IL" tvg-logo="" group-title="Israel",ONE 2 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
-#EXTINF:-1 tvg-id="" tvg-name="Shopping HD IL" tvg-logo="" group-title="Israel",Shopping HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103264
-#EXTINF:-1 tvg-id="sport1.il" tvg-name="Sport 1 HD IL" tvg-logo="" group-title="Israel",Sport 1 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
-#EXTINF:-1 tvg-id="sport1.il" tvg-name="Sport 1 IL" tvg-logo="" group-title="Israel",Sport 1 IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
-#EXTINF:-1 tvg-id="sport2.il" tvg-name="Sport 2 HD IL" tvg-logo="" group-title="Israel",Sport 2 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
-#EXTINF:-1 tvg-id="sport3.il" tvg-name="Sport 3 HD IL" tvg-logo="" group-title="Israel",Sport 3 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38709
-#EXTINF:-1 tvg-id="sport4.il" tvg-name="Sport 4 HD IL" tvg-logo="" group-title="Israel",Sport 4 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
-#EXTINF:-1 tvg-id="5plusgold.il" tvg-name="Sport 5 Gold IL" tvg-logo="" group-title="Israel",Sport 5 Gold IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38700
-#EXTINF:-1 tvg-id="sport5.il" tvg-name="Sport 5 HD IL" tvg-logo="" group-title="Israel",Sport 5 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
-#EXTINF:-1 tvg-id="5live.il" tvg-name="Sport 5 Live HD IL" tvg-logo="" group-title="Israel",Sport 5 Live HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38701
-#EXTINF:-1 tvg-id="5stars.il" tvg-name="Sport 5+ Stars HD IL" tvg-logo="" group-title="Israel",Sport 5+ Stars HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38703
-#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="Sport 5+ HD IL" tvg-logo="" group-title="Israel",Sport 5+ HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38702
-#EXTINF:-1 tvg-id="5sport4k.il" tvg-name="Sport 5 UHD 4K IL [Only On 4K Devices]" tvg-logo="" group-title="Israel",Sport 5 UHD 4K IL [Only On 4K Devices]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/59033
-#EXTINF:-1 tvg-id="teennick.il" tvg-name="Teen Nick IL" tvg-logo="" group-title="Israel",Teen Nick IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/36851
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD IL" tvg-logo="" group-title="Israel",TLC HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103277
-#EXTINF:-1 tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" tvg-logo="" group-title="Israel",Travel Channel HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38624
-#EXTINF:-1 tvg-id="viva.il" tvg-name="VIVA IL" tvg-logo="" group-title="Israel",VIVA IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38658
-#EXTINF:-1 tvg-id="vivaplus.il" tvg-name="VIVA Plus IL" tvg-logo="" group-title="Israel",VIVA Plus IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38657
-#EXTINF:-1 tvg-id="" tvg-name="Yam Tihoni IL" tvg-logo="" group-title="Israel",Yam Tihoni IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38656
-#EXTINF:-1 tvg-id="yes1.il" tvg-name="YES 1 HD IL [Multi-Sub]" tvg-logo="" group-title="Israel",YES 1 HD IL [Multi-Sub]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
-#EXTINF:-1 tvg-id="yes2.il" tvg-name="YES 2 HD IL" tvg-logo="" group-title="Israel",YES 2 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
-#EXTINF:-1 tvg-id="yes3.il" tvg-name="YES 3 HD IL" tvg-logo="" group-title="Israel",YES 3 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38694
-#EXTINF:-1 tvg-id="yes4.il" tvg-name="YES 4 HD IL" tvg-logo="" group-title="Israel",YES 4 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38692
-#EXTINF:-1 tvg-id="yes5.il" tvg-name="YES 5 HD IL" tvg-logo="" group-title="Israel",YES 5 HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
-#EXTINF:-1 tvg-id="yesaction.il" tvg-name="YES Action HD IL" tvg-logo="" group-title="Israel",YES Action HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38686
-#EXTINF:-1 tvg-id="" tvg-name="YES Childhood IL" tvg-logo="" group-title="Israel",YES Childhood IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103288
-#EXTINF:-1 tvg-id="yesisraelicinema.il" tvg-name="YES Cinema HD IL" tvg-logo="" group-title="Israel",YES Cinema HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38678
-#EXTINF:-1 tvg-id="yescomedy.il" tvg-name="YES Comedy HD IL" tvg-logo="" group-title="Israel",YES Comedy HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38684
-#EXTINF:-1 tvg-id="" tvg-name="YES Discovery HD IL" tvg-logo="" group-title="Israel",YES Discovery HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
-#EXTINF:-1 tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" tvg-logo="" group-title="Israel",YES Docu HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
-#EXTINF:-1 tvg-id="yesdrama.il" tvg-name="YES Drama HD IL" tvg-logo="" group-title="Israel",YES Drama HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
-#EXTINF:-1 tvg-id="" tvg-name="YES Food HD IL" tvg-logo="" group-title="Israel",YES Food HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103266
-#EXTINF:-1 tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action IL" tvg-logo="" group-title="Israel",YES Movies Action IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
-#EXTINF:-1 tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action HD IL" tvg-logo="" group-title="Israel",YES Movies Action HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103268
-#EXTINF:-1 tvg-id="yesmoviescomedy.il" tvg-name="YES Movies Comedy HD IL" tvg-logo="" group-title="Israel",YES Movies Comedy HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103269
-#EXTINF:-1 tvg-id="yesmoviesdrama.il" tvg-name="YES Movies Drama HD IL" tvg-logo="" group-title="Israel",YES Movies Drama HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103267
-#EXTINF:-1 tvg-id="yesmovieskids.il" tvg-name="YES Movies Kids HD IL" tvg-logo="" group-title="Israel",YES Movies Kids HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103270
-#EXTINF:-1 tvg-id="" tvg-name="YES ONE HD IL" tvg-logo="" group-title="Israel",YES ONE HD IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
-#EXTINF:-1 tvg-id="yestvaction.il" tvg-name="YES TV Action IL" tvg-logo="" group-title="Israel",YES TV Action IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103283
-#EXTINF:-1 tvg-id="yestvcomedy.il" tvg-name="YES TV Comedy IL" tvg-logo="" group-title="Israel",YES TV Comedy IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103284
-#EXTINF:-1 tvg-id="yestvdrama,il" tvg-name="YES TV Drama IL" tvg-logo="" group-title="Israel",YES TV Drama IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
-#EXTINF:-1 tvg-id="zoom.il" tvg-name="ZOOM IL" tvg-logo="" group-title="Israel",ZOOM IL
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38663
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES MOVIES ACTION FHD" ,AM | YES MOVIES ACTION FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52199
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES MOVIES DRAMA FHD" ,AM | YES MOVIES DRAMA FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52200
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES MOVIES COMEDY FHD" ,AM | YES MOVIES COMEDY FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52201
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES MOVIES KIDS FHD" ,AM | YES MOVIES KIDS FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52202
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES TV Action FHD" ,AM | YES TV Action FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52203
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES TV Cinema FHD" ,AM | YES TV Cinema FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52204
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES TV Comedy FHD" ,AM | YES TV Comedy FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52205
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES TV Drama FHD" ,AM | YES TV Drama FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52206
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Bollywood" ,AM | YES Bollywood
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52207
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Cinema 1" ,AM | HOT Cinema 1
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52208
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Cinema 2" ,AM | HOT Cinema 2
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52209
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Cinema 3" ,AM | HOT Cinema 3
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52210
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Cinema 4" ,AM | HOT Cinema 4
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52211
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT HBO" ,AM | HOT HBO
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52212
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT BidurIsraeli Entertaiment" ,AM | HOT BidurIsraeli Entertaiment
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52213
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT 8" ,AM | HOT 8
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52214
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Comedy Central" ,AM | HOT Comedy Central
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52215
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT 3" ,AM | HOT 3
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52216
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Zone" ,AM | HOT Zone
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52217
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT REAL" ,AM | HOT REAL
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52218
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT KIDZ" ,AM | HOT KIDZ
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52219
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Luli" ,AM | HOT Luli
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52220
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT DIYChannel" ,AM | HOT DIYChannel
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52221
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT TURKISH DRAMA1" ,AM | HOT TURKISH DRAMA1
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52222
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT TURKISH DRAMA2" ,AM | HOT TURKISH DRAMA2
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52223
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT TURKISH MOVIES" ,AM | HOT TURKISH MOVIES
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52224
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | HOT Yam Tichoni +" ,AM | HOT Yam Tichoni +
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52227
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Docu FHD" ,AM | YES Docu FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52228
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Discovery FHD" ,AM | YES Discovery FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52229
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Discovery Science FHD" ,AM | YES Discovery Science FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52230
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Nat Geo Wild FHD" ,AM | YES Nat Geo Wild FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52231
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES National Geographic FHD" ,AM | YES National Geographic FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52232
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Animal Planet" ,AM | YES Animal Planet
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52233
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES History FHD" ,AM | YES History FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52234
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES CBS Reality FHD" ,AM | YES CBS Reality FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52235
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES ID" ,AM | YES ID
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52236
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES TLC" ,AM | YES TLC
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52237
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Good Life FHD" ,AM | YES Good Life FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52238
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Hala TV FHD" ,AM | YES Hala TV FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52239
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES HEALTH" ,AM | YES HEALTH
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52240
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Disney FHD" ,AM | YES Disney FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52241
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Disney Junior FHD" ,AM | YES Disney Junior FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52242
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Yes Teen Nick FHD" ,AM | Yes Teen Nick FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52243
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Nickelodeon" ,AM | Nickelodeon
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52244
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Junior" ,AM | Junior
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52245
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Hop FHD" ,AM | YES Hop FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52246
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Zoom FHD" ,AM | YES Zoom FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52247
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 12" ,AM | Channel 12
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52248
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 9" ,AM | Channel 9
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52249
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Kan 11" ,AM | Kan 11
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52250
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | 13 Reshet" ,AM | 13 Reshet
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52251
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | 12 Keshet" ,AM | 12 Keshet
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52252
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 20" ,AM | Channel 20
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52253
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 24" ,AM | Channel 24
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52254
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 23" ,AM | Channel 23
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52255
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Kan 33" ,AM | Kan 33
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52256
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Kneest 33" ,AM | Kneest 33
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52257
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Channel 66" ,AM | Channel 66
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52258
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | VIVA" ,AM | VIVA
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52259
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | EGO TOTAL" ,AM | EGO TOTAL
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52260
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | KNSEET" ,AM | KNSEET
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52261
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | E" ,AM | E
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52262
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Home plus" ,AM | Home plus
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52263
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES SPORT 1 FHD" ,AM | YES SPORT 1 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52264
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES SPORT 2 FHD" ,AM | YES SPORT 2 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52265
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES SPORT 3 FHD" ,AM | YES SPORT 3 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52266
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES SPORT 4 FHD" ,AM | YES SPORT 4 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52267
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES SPORT 5 FHD" ,AM | YES SPORT 5 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52268
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Sport5 Plus FHD" ,AM | YES Sport5 Plus FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52269
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Sport5 Stars FHD" ,AM | YES Sport5 Stars FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52270
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Sport5 Live FHD" ,AM | YES Sport5 Live FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52271
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES Sport5 Gold FHD" ,AM | YES Sport5 Gold FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52272
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES ONE FHD" ,AM | YES ONE FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52273
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | YES ONE2 FHD" ,AM | YES ONE2 FHD
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52274
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Eurosport 1" ,AM | Eurosport 1
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52275
+#EXTINF:-1 group-title="AMOS" tvg-name="AM | Eurosport 2" ,AM | Eurosport 2
+http://nooritv.live:25461/EXCHANGEottking/wTzm5Tp5rwB8/52276
