@@ -1,32 +1,54 @@
 #EXTM3U
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,Keshet 12 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2329/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,Keshet 12 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2329/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,Reshet 13 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2330/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,Reshet 13 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2330/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2374/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,CHANNEL 9 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12238/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2331/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2331/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2700.png" tvg-id="2700" ,Channel 98 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2369/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,Kan 11 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2332/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,Kan 11 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2332/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2333/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2333/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2675" ,TeenNick IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2334/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2675" ,TeenNick IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2334/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-id="2678" ,Nick Jr IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2337/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-id="2678" ,Nick Jr IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2337/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,hop IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2338/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,hop IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2338/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-id="2680" ,Home Plus IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2339/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-id="2680" ,Home Plus IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2339/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2340/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2340/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,Sport 5 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2341/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,Sport 5 HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2341/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-id="2974" ,Yes Israeli Cinema
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2342/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-id="4007" ,Yes DRAMA HD IL
@@ -47,90 +69,174 @@ http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2350/index.m3u8
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2351/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-id="2683" ,SPORT 2 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2352/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-id="2683" ,SPORT 2 HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2352/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-id="2684" ,Sport 1 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2353/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-id="2684" ,Sport 1 HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2353/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2685" ,Hot HBO HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2354/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2685" ,Hot HBO HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2354/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-id="2686" ,Good Life IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2355/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-id="2686" ,Good Life IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2355/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-id="2687" ,HOT cinema 4 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2356/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-id="2687" ,HOT cinema 4 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2356/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-id="2688" ,HOT cinema 1 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2357/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-id="2688" ,HOT cinema 1 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2357/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/325.png" tvg-id="2689" ,Discovery HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2358/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/325.png" tvg-id="2689" ,Discovery HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2358/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-id="2690" ,ZOOM IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2359/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-id="2690" ,ZOOM IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2359/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-id="2691" ,Hot Zone
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2360/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-id="2691" ,Hot Zone S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2360/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-id="2692" ,Travel Channel IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2361/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-id="2692" ,Travel Channel IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2361/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-id="4312" ,Sport 5+ Live HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2362/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-id="4312" ,Sport 5+ Live HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2362/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-id="4030" ,Harutz Hadramot Haturkiyot
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2363/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-id="4030" ,Harutz Hadramot Haturkiyot S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2363/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-id="2695" ,Hot Luli
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2364/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-id="2695" ,Hot Luli S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2364/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4003.png" tvg-id="4003" ,Kids IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2365/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4003.png" tvg-id="4003" ,Kids IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2365/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-id="2697" ,Junior IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2366/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-id="2697" ,Junior IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2366/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-id="2698" ,HOT 3
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2367/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-id="2698" ,HOT 3 S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2367/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,Hop! Yaldut Israelit
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2368/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,Hop! Yaldut Israelit S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2368/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-id="2701" ,Baby IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2370/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-id="2701" ,Baby IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2370/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-id="2702" ,HOT cinema 2 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2371/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-id="2702" ,HOT cinema 2 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2371/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-id="2703" ,HOT cinema 3 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2372/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-id="2703" ,HOT cinema 3 IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2372/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-id="2704" ,ONE 2 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2373/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-id="2704" ,ONE 2 HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2373/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,Ego Total IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2376/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,Ego Total IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2376/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,Food Network IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2377/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,Food Network IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2377/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,Health IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2378/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,Health IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2378/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-id="2710" ,Entertainment IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2379/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-id="2710" ,Entertainment IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2379/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2711.png" tvg-id="2711" ,Kan Elady
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2380/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2711.png" tvg-id="2711" ,Kan Elady S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2380/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2712.png" tvg-id="2712" ,Mekan 33
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2381/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2712.png" tvg-id="2712" ,Mekan 33 S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2381/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-id="2713" ,Viva+ IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2382/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-id="2713" ,Viva+ IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2382/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2714.png" tvg-id="2714" ,Yaldut IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2383/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2714.png" tvg-id="2714" ,Yaldut IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2383/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2717.png" tvg-id="2717" ,i24 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2386/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2717.png" tvg-id="2717" ,i24 IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2386/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-id="2718" ,VIVA IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2387/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-id="2718" ,VIVA IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2387/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-id="2719" ,Sport 3 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2388/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2719.png" tvg-id="2719" ,Sport 3 HD IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2388/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-id="2720" ,Sport 4 HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2389/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2720.png" tvg-id="2720" ,Sport 4 HD IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2389/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4011.png" tvg-id="4011" ,Yamtihoni IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2390/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4011.png" tvg-id="4011" ,Yamtihoni IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/2390/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-id="2682" ,Sport 5 IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2391/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-id="2972" ,Yes Docu FHD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/7113/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-id="2972" ,Yes Docu FHD IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/7113/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-id="4313" ,Eurosport 2 HD
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/7203/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-id="4313" ,Eurosport 2 HD S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/7203/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,DISNEY JR IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12206/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,DISNEY JR IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12206/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,EGO TOTAL HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12207/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-id="2707" ,EGO TOTAL HD IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12207/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5015.png" tvg-id="5015" ,EXTREME IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12208/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/5015.png" tvg-id="5015" ,EXTREME IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12208/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,FOOD CHANNE IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12209/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-id="2708" ,FOOD CHANNE IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12209/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,HEALTH CHANNEL HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12210/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-id="2709" ,HEALTH CHANNEL HD IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12210/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2716.png" tvg-id="2716" ,HIDABRUT IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12211/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2716.png" tvg-id="2716" ,HIDABRUT IL S2
+http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12211/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,HOP CHILDHOOD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12213/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-id="2698" ,HOT3 HD IL
@@ -185,6 +291,8 @@ http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12240/index.m3u8
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12241/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4307.png" tvg-id="4307" ,DISNEY CHANNEL HD IL
 http://xiptv.vip:80/ali2022/2022ali/66219
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4307.png" tvg-id="4307" ,DISNEY CHANNEL HD IL S2
+http://xiptv.vip:80/ali2022/2022ali/66219
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4005.png" tvg-id="4005" ,E! IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12243/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-id="2679" ,HOP HD IL
@@ -195,6 +303,8 @@ http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12245/index.m3u8
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12246/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2677.png" tvg-id="2677" ,NATIONAL GEOGRAPHICS HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12247/index.m3u8
+#EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2677.png" tvg-id="2677" ,NATIONAL GEOGRAPHICS HD IL S2
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2336/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/4311.png" tvg-id="4311" ,NET GEO_WILD HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12248/index.m3u8
 #EXTINF:-1 group-title="Израиль | ישראלי" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-id="2684" ,SPORT 1 HD IL
