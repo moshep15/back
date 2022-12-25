@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,Keshet 12 IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2329/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2670.png" tvg-id="2670" ,Keshet 12 IL S2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2329/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,Reshet 13 IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2330/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2671.png" tvg-id="2671" ,Reshet 13 IL S2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2330/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 HD IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2374/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,CHANNEL 9 HD IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/12238/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2331/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2672.png" tvg-id="2672" ,Channel 9 HD IL S2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2331/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2700.png" tvg-id="2700" ,Channel 98 IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2369/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,Kan 11 IL
-http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2332/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2673.png" tvg-id="2673" ,Kan 11 IL S2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2332/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2333/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL S2
