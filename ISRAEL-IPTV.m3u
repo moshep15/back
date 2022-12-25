@@ -501,157 +501,126 @@ http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12281/index.m3u8
 http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12283/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-id="4007" ,YES TV DRAMA HD IL
 http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12282/index.m3u8
-
-#EXTINF:0,Keshet 12 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2329/index.m3u8
-#EXTINF:0,Reshet 13 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2330/index.m3u8
-#EXTINF:0,Israel+(9) IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2331/index.m3u8
-#EXTINF:0,Kan 11 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2332/index.m3u8
-#EXTINF:0,Disney Jr IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2333/index.m3u8
-#EXTINF:0,TeenNick IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2334/index.m3u8
-#EXTINF:0,National Geographic IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2336/index.m3u8
-#EXTINF:0,Nick Jr IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2337/index.m3u8
-#EXTINF:0,hop IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2338/index.m3u8
-#EXTINF:0,Home Plus IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2339/index.m3u8
-#EXTINF:0,ONE HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2340/index.m3u8
-#EXTINF:0,Sport 5 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2341/index.m3u8
-#EXTINF:0,SPORT 2 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2352/index.m3u8
-#EXTINF:0,Sport 1 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2353/index.m3u8
-#EXTINF:0,Hot HBO HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2354/index.m3u8
-#EXTINF:0,Good Life IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2355/index.m3u8
-#EXTINF:0,HOT cinema 4 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2356/index.m3u8
-#EXTINF:0,HOT cinema 1 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2357/index.m3u8
-#EXTINF:0,Discovery HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2358/index.m3u8
-#EXTINF:0,ZOOM IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2359/index.m3u8
-#EXTINF:0,Hot Zone
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2360/index.m3u8
-#EXTINF:0,Travel Channel IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2361/index.m3u8
-#EXTINF:0,Sport 5+ Live HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2362/index.m3u8
-#EXTINF:0,Harutz Hadramot Haturkiyot
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2363/index.m3u8
-#EXTINF:0,Hot Luli
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2364/index.m3u8
-#EXTINF:0,Kids IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2365/index.m3u8
-#EXTINF:0,Junior IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2366/index.m3u8
-#EXTINF:0,HOT 3
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2367/index.m3u8
-#EXTINF:0,Hop! Yaldut Israelit
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2368/index.m3u8
-#EXTINF:0,Channel 98 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2369/index.m3u8
-#EXTINF:0,Baby IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2370/index.m3u8
-#EXTINF:0,HOT cinema 2 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2371/index.m3u8
-#EXTINF:0,HOT cinema 3 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2372/index.m3u8
-#EXTINF:0,ONE 2 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2373/index.m3u8
-#EXTINF:0,Israel+(9) HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2374/index.m3u8
-#EXTINF:0,Ego Total IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2376/index.m3u8
-#EXTINF:0,Food Network IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2377/index.m3u8
-#EXTINF:0,Health IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2378/index.m3u8
-#EXTINF:0,Entertainment IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2379/index.m3u8
-#EXTINF:0,Kan Elady
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2380/index.m3u8
-#EXTINF:0,Mekan 33
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2381/index.m3u8
-#EXTINF:0,Viva+ IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2382/index.m3u8
-#EXTINF:0,Yaldut IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2383/index.m3u8
-#EXTINF:0,BollyShow IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2384/index.m3u8
-#EXTINF:0,Arutz Hahedabrut
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2385/index.m3u8
-#EXTINF:0,i24 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2386/index.m3u8
-#EXTINF:0,VIVA IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2387/index.m3u8
-#EXTINF:0,Sport 3 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2388/index.m3u8
-#EXTINF:0,Sport 4 HD IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2389/index.m3u8
-#EXTINF:0,Yamtihoni IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2390/index.m3u8
-#EXTINF:0,Sport 5 IL
-#EXTGRP:ישראלי מקור 2
-http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2391/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 1" ,YES Sport 1
+http://xiptv.vip:80/ali2022/2022ali/66240
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 2" ,YES Sport 2
+http://xiptv.vip:80/ali2022/2022ali/66239
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 3" ,YES Sport 3
+http://xiptv.vip:80/ali2022/2022ali/66238
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 4" ,YES Sport 4
+http://xiptv.vip:80/ali2022/2022ali/66237
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 5" ,YES Sport 5
+http://xiptv.vip:80/ali2022/2022ali/66236
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 5 Plus" ,YES Sport 5 Plus
+http://xiptv.vip:80/ali2022/2022ali/66235
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 5 Live" ,YES Sport 5 Live
+http://xiptv.vip:80/ali2022/2022ali/66234
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 5 Stares" ,YES Sport 5 Stares
+http://xiptv.vip:80/ali2022/2022ali/66233
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Sport 5 Gold" ,YES Sport 5 Gold
+http://xiptv.vip:80/ali2022/2022ali/66232
+#EXTINF:-1 group-title="ישראלי" tvg-name="ONE HD" ,ONE HD
+http://xiptv.vip:80/ali2022/2022ali/66231
+#EXTINF:-1 group-title="ישראלי" tvg-name="ONE 2" ,ONE 2
+http://xiptv.vip:80/ali2022/2022ali/66230
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Movies Drama HD" ,YES Movies Drama HD
+http://xiptv.vip:80/ali2022/2022ali/66229
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Movies Action HD" ,YES Movies Action HD
+http://xiptv.vip:80/ali2022/2022ali/66228
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Movies Comedy HD" ,YES Movies Comedy HD
+http://xiptv.vip:80/ali2022/2022ali/66227
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES Movies Kids HD" ,YES Movies Kids HD
+http://xiptv.vip:80/ali2022/2022ali/66226
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES TV Action" ,YES TV Action
+http://xiptv.vip:80/ali2022/2022ali/66225
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES TV Drama HD" ,YES TV Drama HD
+http://xiptv.vip:80/ali2022/2022ali/66224
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES TV Comedy HD" ,YES TV Comedy HD
+http://xiptv.vip:80/ali2022/2022ali/66223
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Israeli Cinema FHD" ,YES-Israeli Cinema FHD
+http://xiptv.vip:80/ali2022/2022ali/66222
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Docu FHD" ,YES-Docu FHD
+http://xiptv.vip:80/ali2022/2022ali/66221
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-History FHD" ,YES-History FHD
+http://xiptv.vip:80/ali2022/2022ali/66220
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Disney FHD" ,YES-Disney FHD
+http://xiptv.vip:80/ali2022/2022ali/66219
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Discovery FHD" ,YES-Discovery FHD
+http://xiptv.vip:80/ali2022/2022ali/66218
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Disc.Science FHD" ,YES-Disc.Science FHD
+http://xiptv.vip:80/ali2022/2022ali/66217
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-National-Geographic FHD" ,YES-National-Geographic FHD
+http://xiptv.vip:80/ali2022/2022ali/66216
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Nat-Geo-Wild FHD" ,YES-Nat-Geo-Wild FHD
+http://xiptv.vip:80/ali2022/2022ali/66215
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Eurosport 1 FHD" ,YES-Eurosport 1 FHD
+http://xiptv.vip:80/ali2022/2022ali/66214
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-MTV FHD" ,YES-MTV FHD
+http://xiptv.vip:80/ali2022/2022ali/66213
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Channel 9 FHD" ,YES-Channel 9 FHD
+http://xiptv.vip:80/ali2022/2022ali/66211
+#EXTINF:-1 group-title="ישראלי" tvg-name="Kan 11 IL" ,Kan 11 IL
+http://xiptv.vip:80/ali2022/2022ali/66210
+#EXTINF:-1 group-title="ישראלי" tvg-name="12 Keshet IL" ,12 Keshet IL
+http://xiptv.vip:80/ali2022/2022ali/66209
+#EXTINF:-1 group-title="ישראלי" tvg-name="13 Reshet IL" ,13 Reshet IL
+http://xiptv.vip:80/ali2022/2022ali/66208
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Channel 21" ,YES-Channel 21
+http://xiptv.vip:80/ali2022/2022ali/66207
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Channel 23" ,YES-Channel 23
+http://xiptv.vip:80/ali2022/2022ali/66206
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Kneest 33" ,YES-Kneest 33
+http://xiptv.vip:80/ali2022/2022ali/66205
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Kan 33 (Makan TV)" ,YES-Kan 33 (Makan TV)
+http://xiptv.vip:80/ali2022/2022ali/66204
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Channel-20" ,YES-Channel-20
+http://xiptv.vip:80/ali2022/2022ali/66203
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Channel66" ,YES-Channel66
+http://xiptv.vip:80/ali2022/2022ali/66202
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Hala TV  FHD" ,YES-Hala TV  FHD
+http://xiptv.vip:80/ali2022/2022ali/66201
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Kabbalah TV" ,YES-Kabbalah TV
+http://xiptv.vip:80/ali2022/2022ali/66200
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Hidabroot channel" ,YES-Hidabroot channel
+http://xiptv.vip:80/ali2022/2022ali/66199
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Hop ! FHD" ,YES-Hop ! FHD
+http://xiptv.vip:80/ali2022/2022ali/66198
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Disney Junior FHD" ,YES-Disney Junior FHD
+http://xiptv.vip:80/ali2022/2022ali/66197
+#EXTINF:-1 group-title="ישראלי" tvg-name="Yes-TeenNick FHD" ,Yes-TeenNick FHD
+http://xiptv.vip:80/ali2022/2022ali/66196
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Zoom FHD" ,YES-Zoom FHD
+http://xiptv.vip:80/ali2022/2022ali/66195
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-VIVA FHD" ,YES-VIVA FHD
+http://xiptv.vip:80/ali2022/2022ali/66194
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Viva Plus FHD" ,YES-Viva Plus FHD
+http://xiptv.vip:80/ali2022/2022ali/66193
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Nickelodeon FHD" ,YES-Nickelodeon FHD
+http://xiptv.vip:80/ali2022/2022ali/66192
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-CBS Reality FHD" ,YES-CBS Reality FHD
+http://xiptv.vip:80/ali2022/2022ali/66191
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Good Life FHD" ,YES-Good Life FHD
+http://xiptv.vip:80/ali2022/2022ali/66190
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Music 24 Israel" ,YES-Music 24 Israel
+http://xiptv.vip:80/ali2022/2022ali/66189
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Classica FHD" ,YES-Classica FHD
+http://xiptv.vip:80/ali2022/2022ali/66188
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Animal Planet" ,YES-Animal Planet
+http://xiptv.vip:80/ali2022/2022ali/66187
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Home +" ,YES-Home +
+http://xiptv.vip:80/ali2022/2022ali/66186
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-VH1" ,YES-VH1
+http://xiptv.vip:80/ali2022/2022ali/66185
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Junior" ,YES-Junior
+http://xiptv.vip:80/ali2022/2022ali/66184
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Fashion" ,YES-Fashion
+http://xiptv.vip:80/ali2022/2022ali/66183
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-ID" ,YES-ID
+http://xiptv.vip:80/ali2022/2022ali/66182
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-TLC" ,YES-TLC
+http://xiptv.vip:80/ali2022/2022ali/66181
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Metv" ,YES-Metv
+http://xiptv.vip:80/ali2022/2022ali/66180
+#EXTINF:-1 group-title="ישראלי" tvg-name="YES-Kan Educational" ,YES-Kan Educational
+http://xiptv.vip:80/ali2022/2022ali/66179
