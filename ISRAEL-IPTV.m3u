@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2668" ,Hot HBO il
+http://myott.top/stream/K3TLKSX4EA/381.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-id="2669" ,Hot Zone il
+http://myott.top/stream/K3TLKSX4EA/379.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-id="2670" ,Zoom il
+http://myott.top/stream/K3TLKSX4EA/377.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-id="2671" ,Yes Movie Action
+http://myott.top/stream/K3TLKSX4EA/380.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2672" ,Disney Jr IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2333/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2674" ,Disney Jr IL S2
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-id="2672" ,Disney Jr IL S2
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2333/index.m3u8
-#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2675" ,TeenNick IL
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2674" ,TeenNick IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2334/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-id="2675" ,TeenNick IL S2
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2334/index.m3u8
