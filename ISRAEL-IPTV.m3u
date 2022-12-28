@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="" group-title="ישראלי",Animal Planet HD IL
+http://xiptv.vip:80/ali2022/2022ali/66187
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2668" ,Hot HBO il
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2354/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2668" ,Hot HBO il
@@ -33,6 +35,8 @@ http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2338/index.m3u8
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2339/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-id="2680" ,Home Plus IL S2
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2339/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-id="2680" ,Home Plus IL S2
+http://xiptv.vip:80/ali2022/2022ali/66186
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE HD IL
 http://he11o.akadatel.com/iptv/SEC6ZDPVD9WKPV/2340/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-id="2681" ,ONE HD IL S2
@@ -549,11 +553,13 @@ http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38660
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38662
 #EXTINF:-1 tvg-id="hot3.il" tvg-name="HOT 3 HD IL" tvg-logo="http://epg.it999.ru/img/2698.png" group-title="ישראלי",HOT 3 HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38674
-#EXTINF:-1 tvg-id="" tvg-name="Hot Bidur HD IL" tvg-logo="" group-title="ישראלי",Hot Bidur HD IL
+#EXTINF:-1 tvg-id="" tvg-name="Hot Bidur HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/6/6a/%D7%94%D7%95%D7%98_%D7%91%D7%99%D7%93%D7%95%D7%A8_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99.jpeg/250px-%D7%94%D7%95%D7%98_%D7%91%D7%99%D7%93%D7%95%D7%A8_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99.jpeg" group-title="ישראלי",Hot Bidur HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103275
+#EXTINF:-1 tvg-id="" tvg-name="Hot Bidur HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/6/6a/%D7%94%D7%95%D7%98_%D7%91%D7%99%D7%93%D7%95%D7%A8_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99.jpeg/250px-%D7%94%D7%95%D7%98_%D7%91%D7%99%D7%93%D7%95%D7%A8_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99.jpeg" group-title="ישראלי",Hot Bidur HD IL
+http://starshare.live:8080/live/yeasin61/50612361/121861.ts
 #EXTINF:-1 tvg-id="hotbollywood.il" tvg-name="HOT Bollywood HD IL" tvg-logo="http://epg.it999.ru/img/5071.png" group-title="ישראלי",HOT Bollywood HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38665
-#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 1 HD IL" tvg-logo="" group-title="ישראלי",HOT Cinema 1 HD IL
+#EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 1 HD IL" tvg-logo="http://epg.it999.ru/img/2687.png" group-title="ישראלי",HOT Cinema 1 HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38671
 #EXTINF:-1 tvg-id="" tvg-name="HOT Cinema 2 HD IL" tvg-logo="http://epg.it999.ru/img/2688.png" group-title="ישראלי",HOT Cinema 2 HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38670
@@ -571,7 +577,7 @@ http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103272
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38645
 #EXTINF:-1 tvg-id="luly.il" tvg-name="Luli IL" tvg-logo="http://epg.it999.ru/img/2695.png" group-title="ישראלי",Luli IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38647
-#EXTINF:-1 tvg-id="mtv.il" tvg-name="MTV HD IL" tvg-logo="" group-title="ישראלי",MTV HD IL
+#EXTINF:-1 tvg-id="mtv.il" tvg-name="MTV HD IL" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/logo_73_mtv_118x104.jpg" group-title="ישראלי",MTV HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38641
 #EXTINF:-1 tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" tvg-logo="http://epg.it999.ru/img/2677.png" group-title="ישראלי",National Geo Wild IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38633
@@ -593,5 +599,10 @@ http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38658
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38657
 #EXTINF:-1 tvg-id="" tvg-name="Yam Tihoni IL" tvg-logo="http://epg.it999.ru/img/4011.png" group-title="ישראלי",Yam Tihoni IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38656
+#EXTINF:-1 tvg-id="" tvg-name="YES CBS REALITY" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/CBS_reality.png" group-title="ישראלי",Yes CBS IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38656
+#EXTINF:-1 tvg-id="" tvg-name="YES CBS REALITY" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/logo_channel38_118X104.jpg" group-title="ישראלי",Yes Fashion IL
+http://xiptv.vip:80/ali2022/2022ali/66183
+
 
 
