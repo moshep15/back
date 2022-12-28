@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="" group-title="ישראלי",Animal Planet HD IL
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2021/channel/LOGO/47_AnimalPlanet_118x104.jpg" group-title="ישראלי",Animal Planet HD IL
 http://xiptv.vip:80/ali2022/2022ali/66187
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-id="2668" ,Hot HBO il
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2354/index.m3u8
@@ -523,7 +523,7 @@ http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12281/index.m3u8
 http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12283/index.m3u8
 #EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-id="4007" ,YES TV DRAMA HD IL
 http://he11o.akadatel.com/iptv/N66D5UAYQUQMDS/12282/index.m3u8
-#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="" group-title="ישראלי",Animal Planet HD IL
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2021/channel/LOGO/47_AnimalPlanet_118x104.jpg" group-title="ישראלי",Animal Planet HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103273
 #EXTINF:-1 tvg-id="yesbaby.il" tvg-name="Baby TV IL" tvg-logo="http://epg.it999.ru/img/2701.png" group-title="ישראלי",Baby TV IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38648
