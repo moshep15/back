@@ -1,265 +1,272 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11
-plugin://plugin.video.idanplus/?mode=5&url=ch_11
-
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11 - גיבוי
-plugin://plugin.video.idanplus/?mode=5&url=ch_11b
-
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11 - דיילימושן
-plugin://plugin.video.idanplus/?mode=5&url=ch_11b2
-
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11 - לקויי שמיעה
-plugin://plugin.video.idanplus/?mode=5&url=ch_11c
-
-#EXTINF:-1 tvg-id="12" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
-plugin://plugin.video.idanplus/?mode=5&url=ch_12
-
-#EXTINF:-1 tvg-id="12" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12 - לקויי שמיעה
-plugin://plugin.video.idanplus/?mode=5&url=ch_12c
-
-#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13
-plugin://plugin.video.idanplus/?mode=5&url=ch_13
-
-#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13 - גיבוי
-plugin://plugin.video.idanplus/?mode=5&url=ch_13b
-
-#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13 - לקויי שמיעה
-plugin://plugin.video.idanplus/?mode=5&url=ch_13c
-
-#EXTINF:-1 tvg-id="14" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/14tv.png",14 עכשיו
-plugin://plugin.video.idanplus/?mode=5&url=ch_14
-
-#EXTINF:-1 tvg-id="21" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/21.jpg",ערוץ הקניות 21
-plugin://plugin.video.idanplus/?mode=5&url=ch_21
-
-#EXTINF:-1 tvg-id="23" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23
-plugin://plugin.video.idanplus/?mode=5&url=ch_23
-
-#EXTINF:-1 tvg-id="23" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23 - גיבוי
-plugin://plugin.video.idanplus/?mode=5&url=ch_23b
-
-#EXTINF:-1 tvg-id="23" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23 - דיילימושן
-plugin://plugin.video.idanplus/?mode=5&url=ch_23b2
-
-#EXTINF:-1 tvg-id="24" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png",ערוץ 24 החדש
-plugin://plugin.video.idanplus/?mode=5&url=ch_24
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",האח הגדול 26
-plugin://plugin.video.idanplus/?mode=5&url=ch_bb
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",האח הגדול 26 - גיבוי
-plugin://plugin.video.idanplus/?mode=5&url=ch_bbb
-
-#EXTINF:-1 tvg-id="33" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png",מכאן 33
-plugin://plugin.video.idanplus/?mode=5&url=ch_33
-
-#EXTINF:-1 tvg-id="33" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png",מכאן 33 - גיבוי
-plugin://plugin.video.idanplus/?mode=5&url=ch_33b
-
-#EXTINF:-1 tvg-id="33" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png",מכאן 33 - דיילימושן
-plugin://plugin.video.idanplus/?mode=5&url=ch_33b2
-
-#EXTINF:-1 tvg-id="66" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kabbalah.jpg",קבלה 66
-plugin://plugin.video.idanplus/?mode=5&url=ch_66
-
-#EXTINF:-1 tvg-id="97" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/hidabroot.jpg",הידברות 97
-plugin://plugin.video.idanplus/?mode=5&url=ch_97
-
-#EXTINF:-1 tvg-id="99" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/knesset.png",כנסת 99
-plugin://plugin.video.idanplus/?mode=5&url=ch_99
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg",Ynet Live
-plugin://plugin.video.idanplus/?mode=5&url=ch_ynet
-
-#EXTINF:-1 tvg-id="100fm" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg",100FM רדיוס
-plugin://plugin.video.idanplus/?mode=5&url=ch_100
-
-#EXTINF:-1 tvg-id="891fm" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/891fm.png",Первое Радио 89.1FM
-plugin://plugin.video.idanplus/?mode=5&url=ch_891
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kabbalah.jpg",קבלה - רוסית
-plugin://plugin.video.idanplus/?mode=5&url=ch_kabru
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/musayof.jpg",מוסיוף
-plugin://plugin.video.idanplus/?mode=5&url=ch_musayof
-
-#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glglz.jpg" radio="true",גלגל"צ
-plugin://plugin.video.idanplus/?mode=5&url=rd_glglz
-
-#EXTINF:-1 tvg-id="88" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/88.png" radio="true",כאן 88
-plugin://plugin.video.idanplus/?mode=5&url=rd_88
-
-#EXTINF:-1 tvg-id="90fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/90fm.jpg" radio="true",90FM רדיו תשעים
-plugin://plugin.video.idanplus/?mode=5&url=rd_90
-
-#EXTINF:-1 tvg-id="91fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/91fm.jpg" radio="true",91FM רדיו לב המדינה
-plugin://plugin.video.idanplus/?mode=5&url=rd_91
-
-#EXTINF:-1 tvg-id="97fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" radio="true",97FM רדיו דרום
-plugin://plugin.video.idanplus/?mode=5&url=rd_97
-
-#EXTINF:-1 tvg-id="99fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/99fm.png" radio="true",ECO 99FM
-plugin://plugin.video.idanplus/?mode=5&url=rd_99
-
-#EXTINF:-1 tvg-id="100fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg" radio="true",100FM רדיוס
-plugin://plugin.video.idanplus/?mode=5&url=rd_100
-
-#EXTINF:-1 tvg-id="101fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/101fm.png" radio="true",101FM רדיו ירושלים
-plugin://plugin.video.idanplus/?mode=5&url=rd_101
-
-#EXTINF:-1 tvg-id="1015fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1015fm.jpg" radio="true",101.5FM רדיו דרום
-plugin://plugin.video.idanplus/?mode=5&url=rd_1015
-
-#EXTINF:-1 tvg-id="102fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fm.jpg" radio="true",102FM רדיו תל אביב
-plugin://plugin.video.idanplus/?mode=5&url=rd_102
-
-#EXTINF:-1 tvg-id="102fmEilat" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fmEilat.jpg" radio="true",102FM רדיו קול הים האדום
-plugin://plugin.video.idanplus/?mode=5&url=rd_102Eilat
-
-#EXTINF:-1 tvg-id="103fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/103fm.png" radio="true",103FM רדיו ללא הפסקה
-plugin://plugin.video.idanplus/?mode=5&url=rd_103
-
-#EXTINF:-1 tvg-id="1045fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1045fm.jpg" radio="true",104.5FM רדיו צפון
-plugin://plugin.video.idanplus/?mode=5&url=rd_1045
-
-#EXTINF:-1 tvg-id="1075fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1075fm.jpg" radio="true",107.5FM רדיו חיפה
-plugin://plugin.video.idanplus/?mode=5&url=rd_1075
-
-#EXTINF:-1 tvg-id="glz" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glz.jpg" radio="true",גלי צה"ל
-plugin://plugin.video.idanplus/?mode=5&url=rd_glz
-
-#EXTINF:-1 tvg-id="bet" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bet.png" radio="true",כאן ב
-plugin://plugin.video.idanplus/?mode=5&url=rd_bet
-
-#EXTINF:-1 tvg-id="gimel" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gimel.png" radio="true",כאן גימל
-plugin://plugin.video.idanplus/?mode=5&url=rd_gimel
-
-#EXTINF:-1 tvg-id="culture" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/culture.png" radio="true",כאן תרבות
-plugin://plugin.video.idanplus/?mode=5&url=rd_culture
-
-#EXTINF:-1 tvg-id="music" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/music.png" radio="true",כאן קול המוסיקה
-plugin://plugin.video.idanplus/?mode=5&url=rd_music
-
-#EXTINF:-1 tvg-id="moreshet" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/moreshet.png" radio="true",כאן מורשת
-plugin://plugin.video.idanplus/?mode=5&url=rd_moreshet
-
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg" radio="true",כאן ילדים
-plugin://plugin.video.idanplus/?mode=5&url=rd_kankids
-
-#EXTINF:-1 tvg-id="5radio" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/Sport5.png" radio="true",ספורט 5 אתר
-plugin://plugin.video.idanplus/?mode=5&url=rd_sport5
-
-#EXTINF:-1 tvg-id="reka" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/reka.png" radio="true",כאן Reka
-plugin://plugin.video.idanplus/?mode=5&url=rd_reka
-
-#EXTINF:-1 tvg-id="891fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/891fm.png" radio="true",Первое Радио 89.1FM
-plugin://plugin.video.idanplus/?mode=5&url=rd_891
-
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1064fm.jpg" radio="true",Лучшее Радио 106.4FM
-plugin://plugin.video.idanplus/?mode=5&url=rd_1064
-
-#EXTINF:-1 tvg-id="makan" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png" radio="true",כאן مكان
-plugin://plugin.video.idanplus/?mode=5&url=rd_makan
-
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/mizrahit.png" radio="true",קול הים התיכון
-plugin://plugin.video.idanplus/?mode=5&url=rd_mizrahit
-
-#EXTINF:-1 tvg-id="kolhay" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolhay.jpg" radio="true",93FM קול חי
-plugin://plugin.video.idanplus/?mode=5&url=rd_kolhay
-
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolhaymusic.jpg" radio="true",קול חי מיוזיק
-plugin://plugin.video.idanplus/?mode=5&url=rd_kolhaymusic
-
-#EXTINF:-1 tvg-id="kolbarama" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolbarama.jpg" radio="true",קול ברמה
-plugin://plugin.video.idanplus/?mode=5&url=rd_kolbarama
-
-#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolplay.png" radio="true",קול Play
-plugin://plugin.video.idanplus/?mode=5&url=rd_kolplay
-
-#EXTINF:-1 tvg-id="gly" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gly.jpg" radio="true",גלי ישראל
-plugin://plugin.video.idanplus/?mode=5&url=rd_gly
-
-#EXTINF:-1 tvg-id="ONE.il" tvg-name="One FHD IL" tvg-logo="https://picon-13398.kxcdn.com/onehdil.jpg" group-title="ספורט",One FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/17428
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport1il.jpg" group-title="ספורט",Sport 1 FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74811
-#EXTINF:-1 tvg-id="" tvg-name="Sport 2 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport2il.jpg" group-title="ספורט",Sport 2 FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74812
-#EXTINF:-1 tvg-id="" tvg-name="Sport 3 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport3il.jpg" group-title="ספורט",Sport 3 FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74813
-#EXTINF:-1 tvg-id="" tvg-name="Sport 4 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport4il.jpg" group-title="ספורט",Sport 4 FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74814
-#EXTINF:-1 tvg-id="Sport5.il" tvg-name="Sport5 FHD IL" tvg-logo="https://picon-13398.kxcdn.com/sport5il.jpg" group-title="ספורט",Sport5 FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/17429
-#EXTINF:-1 tvg-id="" tvg-name="5 Plus FHD IL" tvg-logo="https://picon-13398.kxcdn.com/5plusil.jpg" group-title="ספורט",Sport5+ FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74817
-#EXTINF:-1 tvg-id="" tvg-name="5 Live FHD IL" tvg-logo="https://picon-13398.kxcdn.com/5liveil.jpg" group-title="ספורט",Sport5 live FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74816
-#EXTINF:-1 tvg-id="" tvg-name="5 Stars FHD IL" tvg-logo="https://picon-13398.kxcdn.com/5starsil.jpg" group-title="ספורט",Sport5 stars FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74818
-#EXTINF:-1 tvg-id="" tvg-name="5 Gold FHD IL" tvg-logo="https://picon-13398.kxcdn.com/5goldil.jpg" group-title="ספורט",Sport5 gold FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74815
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Action FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yesmoviesactionil.jpg" group-title="סרטים",Yes Movies Action FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74804
-#EXTINF:-1 tvg-id="" tvg-name=" Yes Movies Comedy FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yesmoviescomedyil.jpg" group-title="סרטים", Yes Movies Comedy FHD IL
-http://clientportal.link:80/Bruno1/IeLsta2174805
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Drama FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yesmoviesdramail.jpg" group-title="סרטים",Yes Movies Drama FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74806
-#EXTINF:-1 tvg-id="" tvg-name="Yes Israeli IL" tvg-logo="https://picon-13398.kxcdn.com/yesisraeliil.jpg" group-title="סרטים",Yes Israeli IL
-http://clientportal.link:80/Bruno1/IeLsta21/74827
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Kids FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yesmovieskidsil.jpg" group-title="סרטים",Yes Movies Kids FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74807
-#EXTINF:-1 tvg-id="" tvg-name="Yes TV Action FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yestvactionil.jpg" group-title="סדרות",Yes TV Action FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74808
-#EXTINF:-1 tvg-id="" tvg-name="Yes TV Comedy FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yestvcomedyil.jpg" group-title="סדרות",Yes TV Comedy FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74809
-#EXTINF:-1 tvg-id="" tvg-name="Yes TV Drama FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yestvdramail.jpg" group-title="סדרות",Yes TV Drama FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74810
-#EXTINF:-1 tvg-id="" tvg-name="Yes Docu FHD IL" tvg-logo="https://picon-13398.kxcdn.com/yesdocuil.jpg" group-title="סדרות",Yes Docu FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74821
-#EXTINF:-1 tvg-id="" tvg-name="Viva FHD IL" tvg-logo="https://picon-13398.kxcdn.com/vivail.jpg" group-title="Viva",Viva FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74833
-#EXTINF:-1 tvg-id="" tvg-name="Viva Plus IL" tvg-logo="https://picon-13398.kxcdn.com/vivaplusil.jpg" group-title="Viva",Viva Plus IL
-http://clientportal.link:80/Bruno1/IeLsta21/74834
-#EXTINF:-1 tvg-id="" tvg-name="Music IL FHD IL" tvg-logo="https://picon-13398.kxcdn.com/musicilil.jpg" group-title="מוסיקה",Music IL FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74837
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD IL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="מדע+פנאי",Discovery Channel FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74841
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild FHD IL" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="מדע+פנאי",National Geographic Wild FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74842
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD IL" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="מדע+פנאי",National Geographic FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74843
-#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal Planet IL" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="מדע+פנאי",Animal Planet IL
-http://clientportal.link:80/Bruno1/IeLsta21/74844
-#EXTINF:-1 tvg-id="" tvg-name="History Channel Israel FHD IL" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="מדע+פנאי",History Channel Israel FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74838
-#EXTINF:-1 tvg-id="" tvg-name="Good Life FHD IL" tvg-logo="https://picon-13398.kxcdn.com/goodlifeil.jpg" group-title="מדע+פנאי",Good Life FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74822
-#EXTINF:-1 tvg-id="" tvg-name="Home + FHD IL" tvg-logo="https://picon-13398.kxcdn.com/homeplusil.jpg" group-title="מדע+פנאי",Home + FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74825
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD IL" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="ילדים",Disney Channel FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74839
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD IL" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="ילדים",Disney Junior FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74840
-#EXTINF:-1 tvg-id="" tvg-name="Zoom FHD IL" tvg-logo="https://picon-13398.kxcdn.com/zoomil.jpg" group-title="ילדים",Zoom FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74835
-#EXTINF:-1 tvg-id="" tvg-name="Junior FHD IL" tvg-logo="https://picon-13398.kxcdn.com/junioril.jpg" group-title="ילדים",Junior FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74836
-#EXTINF:-1 tvg-id="" tvg-name="Hop! FHD IL" tvg-logo="" group-title="ילדים",Hop! FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74826
-#EXTINF:-1 tvg-id="" tvg-name="KAN Educational HD IL" tvg-logo="https://picon-13398.kxcdn.com/kaneducationalil.jpg" group-title="ילדים",KAN Educational HD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74830
-#EXTINF:-1 tvg-id="" tvg-name="I24 News English HD IL" tvg-logo="https://picon-13398.kxcdn.com/i24newsil.jpg" group-title="עידן+",I24 News English HD IL
-http://clientportal.link:80/Bruno1/IeLsta21/17323
-#EXTINF:-1 tvg-id="" tvg-name="I24 News Français HD IL" tvg-logo="https://picon-13398.kxcdn.com/i24newsil.jpg" group-title="עידן+",I24 News Français HD IL
-http://clientportal.link:80/Bruno1/IeLsta21/17324
-#EXTINF:-1 tvg-id="" tvg-name="Hala TV FHD IL" tvg-logo="https://picon-13398.kxcdn.com/halatvil.jpg" group-title="עידן+",Hala TV FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74823
-#EXTINF:-1 tvg-id="" tvg-name="Makan 33 HD IL" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" group-title="עידן+",Makan 33 HD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74829
-#EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="Hidabroot IL" tvg-logo="https://picon-13398.kxcdn.com/hidabrootil.jpg" group-title="עידן+",Hidabroot IL
-http://clientportal.link:80/Bruno1/IeLsta21/74824
-#EXTINF:-1 tvg-id="" tvg-name="9 Kanal FHD IL" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" group-title="עידן+",9 Kanal FHD IL
-http://clientportal.link:80/Bruno1/IeLsta21/74819
+#EXTINF:-1 group-title="Israel" tvg-name="-= Israel =-" ,-= Israel =-
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/34345
+#EXTINF:-1 group-title="Israel" tvg-id="24.il" tvg-name="24 IL" ,24 IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38644
+#EXTINF:-1 group-title="Israel" tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" ,Animal Planet HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103273
+#EXTINF:-1 group-title="Israel" tvg-id="yesbaby.il" tvg-name="Baby TV IL" ,Baby TV IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38648
+#EXTINF:-1 group-title="Israel" tvg-id="channel11.il" tvg-name="Channel 11 FHD IL" ,Channel 11 FHD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38721
+#EXTINF:-1 group-title="Israel" tvg-id="12keshet.il" tvg-name="Channel 12 HD IL" ,Channel 12 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38724
+#EXTINF:-1 group-title="Israel" tvg-id="13reshet.il" tvg-name="Channel 13 HD IL" ,Channel 13 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38722
+#EXTINF:-1 group-title="Israel" tvg-id="channel20.il" tvg-name="Channel 20 HD IL" ,Channel 20 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38719
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 23 Henicketa IL" ,Channel 23 Henicketa IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38718
+#EXTINF:-1 group-title="Israel" tvg-id="24.il" tvg-name="Channel 24 IL" ,Channel 24 IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38717
+#EXTINF:-1 group-title="Israel" tvg-name="Channel 66 HD IL" ,Channel 66 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103271
+#EXTINF:-1 group-title="Israel" tvg-id="channel9.il" tvg-name="Channel 9 HD IL" ,Channel 9 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38725
+#EXTINF:-1 group-title="Israel" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38632
+#EXTINF:-1 group-title="Israel" tvg-id="discoveryscience.il" tvg-name="Discovery Science IL" ,Discovery Science IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38631
+#EXTINF:-1 group-title="Israel" tvg-id="disneychannel.il" tvg-name="Disney HD IL" ,Disney HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38655
+#EXTINF:-1 group-title="Israel" tvg-id="juniorchannel.il" tvg-name="Disney Jr IL" ,Disney Jr IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38654
+#EXTINF:-1 group-title="Israel" tvg-id="eentertainment.il" tvg-name="E! Entertainment IL" ,E! Entertainment IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38638
+#EXTINF:-1 group-title="Israel" tvg-id="eurosport.il" tvg-name="Eurosport 1 HD IL" ,Eurosport 1 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103262
+#EXTINF:-1 group-title="Israel" tvg-id="foodchannel.il" tvg-name="Food Channel IL" ,Food Channel IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38622
+#EXTINF:-1 group-title="Israel" tvg-id="goodlifechannel.il" tvg-name="Good Life IL" ,Good Life IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38626
+#EXTINF:-1 group-title="Israel" tvg-name="Hala TV HD IL" ,Hala TV HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103278
+#EXTINF:-1 group-title="Israel" tvg-id="healthchannel.il" tvg-name="Health Channel IL" ,Health Channel IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38627
+#EXTINF:-1 group-title="Israel" tvg-id="hidabrot.il" tvg-name="Hidabrut IL" ,Hidabrut IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38715
+#EXTINF:-1 group-title="Israel" tvg-id="historychannel.il" tvg-name="History Channel HD IL" ,History Channel HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38630
+#EXTINF:-1 group-title="Israel" tvg-name="History Rus HD IL" ,History Rus HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103276
+#EXTINF:-1 group-title="Israel" tvg-name="Home Plus IL" ,Home Plus IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38660
+#EXTINF:-1 group-title="Israel" tvg-id="hope.il" tvg-name="Hop IL" ,Hop IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38662
+#EXTINF:-1 group-title="Israel" tvg-id="hot3.il" tvg-name="HOT 3 HD IL" ,HOT 3 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38674
+#EXTINF:-1 group-title="Israel" tvg-name="Hot Bidur HD IL" ,Hot Bidur HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103275
+#EXTINF:-1 group-title="Israel" tvg-id="hotbollywood.il" tvg-name="HOT Bollywood HD IL" ,HOT Bollywood HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38665
+#EXTINF:-1 group-title="Israel" tvg-name="HOT Cinema 1 HD IL" ,HOT Cinema 1 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38671
+#EXTINF:-1 group-title="Israel" tvg-name="HOT Cinema 2 HD IL" ,HOT Cinema 2 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38670
+#EXTINF:-1 group-title="Israel" tvg-id="hot3.il" tvg-name="HOT Cinema 3 HD IL" ,HOT Cinema 3 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38669
+#EXTINF:-1 group-title="Israel" tvg-name="HOT Cinema 4 HD IL" ,HOT Cinema 4 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38668
+#EXTINF:-1 group-title="Israel" tvg-id="hotcomedy.il" tvg-name="HOT Comedy Central HD IL" ,HOT Comedy Central HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38667
+#EXTINF:-1 group-title="Israel" tvg-id="hotzone.il" tvg-name="HOT Zone HD IL" ,HOT Zone HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38673
+#EXTINF:-1 group-title="Israel" tvg-name="ID HD IL" ,ID HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103274
+#EXTINF:-1 group-title="Israel" tvg-name="Israel Cinema HD IL" ,Israel Cinema HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103272
+#EXTINF:-1 group-title="Israel" tvg-id="juniorchannel.il" tvg-name="Junior IL" ,Junior IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38645
+#EXTINF:-1 group-title="Israel" tvg-id="kan.il" tvg-name="Kan 11 HD IL" ,Kan 11 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38727
+#EXTINF:-1 group-title="Israel" tvg-id="luly.il" tvg-name="Luli IL" ,Luli IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38647
+#EXTINF:-1 group-title="Israel" tvg-id="mtv.il" tvg-name="MTV HD IL" ,MTV HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38641
+#EXTINF:-1 group-title="Israel" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38633
+#EXTINF:-1 group-title="Israel" tvg-id="nickjr.il" tvg-name="Nick Jr IL" ,Nick Jr IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38652
+#EXTINF:-1 group-title="Israel" tvg-id="nickelodeon.il" tvg-name="Nickelodeon IL" ,Nickelodeon IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38653
+#EXTINF:-1 group-title="Israel" tvg-name="NickTeen IL" ,NickTeen IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38651
+#EXTINF:-1 group-title="Israel" tvg-id="channelone.il" tvg-name="ONE 1 HD IL" ,ONE 1 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38714
+#EXTINF:-1 group-title="Israel" tvg-id="one2.il" tvg-name="ONE 2 HD IL" ,ONE 2 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38713
+#EXTINF:-1 group-title="Israel" tvg-name="Shopping HD IL" ,Shopping HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103264
+#EXTINF:-1 group-title="Israel" tvg-id="sport1.il" tvg-name="Sport 1 HD IL" ,Sport 1 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38711
+#EXTINF:-1 group-title="Israel" tvg-id="sport1.il" tvg-name="Sport 1 IL" ,Sport 1 IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38712
+#EXTINF:-1 group-title="Israel" tvg-id="sport2.il" tvg-name="Sport 2 HD IL" ,Sport 2 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38710
+#EXTINF:-1 group-title="Israel" tvg-id="sport3.il" tvg-name="Sport 3 HD IL" ,Sport 3 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38709
+#EXTINF:-1 group-title="Israel" tvg-id="sport4.il" tvg-name="Sport 4 HD IL" ,Sport 4 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38708
+#EXTINF:-1 group-title="Israel" tvg-id="5plusgold.il" tvg-name="Sport 5 Gold IL" ,Sport 5 Gold IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38700
+#EXTINF:-1 group-title="Israel" tvg-id="sport5.il" tvg-name="Sport 5 HD IL" ,Sport 5 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38705
+#EXTINF:-1 group-title="Israel" tvg-id="5live.il" tvg-name="Sport 5 Live HD IL" ,Sport 5 Live HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38701
+#EXTINF:-1 group-title="Israel" tvg-id="5stars.il" tvg-name="Sport 5+ Stars HD IL" ,Sport 5+ Stars HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38703
+#EXTINF:-1 group-title="Israel" tvg-id="sport5plus.il" tvg-name="Sport 5+ HD IL" ,Sport 5+ HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38702
+#EXTINF:-1 group-title="Israel" tvg-id="5sport4k.il" tvg-name="Sport 5 UHD 4K IL [Only On 4K Devices]" ,Sport 5 UHD 4K IL [Only On 4K Devices]
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/59033
+#EXTINF:-1 group-title="Israel" tvg-id="teennick.il" tvg-name="Teen Nick IL" ,Teen Nick IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/36851
+#EXTINF:-1 group-title="Israel" tvg-name="TLC HD IL" ,TLC HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103277
+#EXTINF:-1 group-title="Israel" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38624
+#EXTINF:-1 group-title="Israel" tvg-id="viva.il" tvg-name="VIVA IL" ,VIVA IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38658
+#EXTINF:-1 group-title="Israel" tvg-id="vivaplus.il" tvg-name="VIVA Plus IL" ,VIVA Plus IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38657
+#EXTINF:-1 group-title="Israel" tvg-name="Yam Tihoni IL" ,Yam Tihoni IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38656
+#EXTINF:-1 group-title="Israel" tvg-id="yes1.il" tvg-name="YES 1 HD IL [Multi-Sub]" ,YES 1 HD IL [Multi-Sub]
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38699
+#EXTINF:-1 group-title="Israel" tvg-id="yes2.il" tvg-name="YES 2 HD IL" ,YES 2 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38696
+#EXTINF:-1 group-title="Israel" tvg-id="yes3.il" tvg-name="YES 3 HD IL" ,YES 3 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38694
+#EXTINF:-1 group-title="Israel" tvg-id="yes5.il" tvg-name="YES 5 HD IL" ,YES 5 HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38690
+#EXTINF:-1 group-title="Israel" tvg-id="yesaction.il" tvg-name="YES Action HD IL" ,YES Action HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38686
+#EXTINF:-1 group-title="Israel" tvg-name="YES Childhood IL" ,YES Childhood IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103288
+#EXTINF:-1 group-title="Israel" tvg-id="yesisraelicinema.il" tvg-name="YES Cinema HD IL" ,YES Cinema HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38678
+#EXTINF:-1 group-title="Israel" tvg-id="yescomedy.il" tvg-name="YES Comedy HD IL" ,YES Comedy HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38684
+#EXTINF:-1 group-title="Israel" tvg-name="YES Discovery HD IL" ,YES Discovery HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103265
+#EXTINF:-1 group-title="Israel" tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" ,YES Docu HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38682
+#EXTINF:-1 group-title="Israel" tvg-id="yesdrama.il" tvg-name="YES Drama HD IL" ,YES Drama HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38680
+#EXTINF:-1 group-title="Israel" tvg-name="YES Food HD IL" ,YES Food HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103266
+#EXTINF:-1 group-title="Israel" tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action IL" ,YES Movies Action IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103282
+#EXTINF:-1 group-title="Israel" tvg-id="yesmoviesaction.il" tvg-name="YES Movies Action HD IL" ,YES Movies Action HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103268
+#EXTINF:-1 group-title="Israel" tvg-id="yesmoviescomedy.il" tvg-name="YES Movies Comedy HD IL" ,YES Movies Comedy HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103269
+#EXTINF:-1 group-title="Israel" tvg-id="yesmoviesdrama.il" tvg-name="YES Movies Drama HD IL" ,YES Movies Drama HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103267
+#EXTINF:-1 group-title="Israel" tvg-id="yesmovieskids.il" tvg-name="YES Movies Kids HD IL" ,YES Movies Kids HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103270
+#EXTINF:-1 group-title="Israel" tvg-name="YES ONE HD IL" ,YES ONE HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103289
+#EXTINF:-1 group-title="Israel" tvg-id="yestvcomedy.il" tvg-name="YES TV Comedy IL" ,YES TV Comedy IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103284
+#EXTINF:-1 group-title="Israel" tvg-id="yestvdrama,il" tvg-name="YES TV Drama IL" ,YES TV Drama IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103285
+#EXTINF:-1 group-title="Israel" tvg-id="zoom.il" tvg-name="ZOOM IL" ,ZOOM IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38663
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-logo="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-12-128.png" tvg-name="-= Music =-" ,-= Music =-
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/9678
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Alternative HD" ,Music Choice - Alternative HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15029
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Brits Hits HD" ,Music Choice - Brits Hits HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15047
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Dance HD" ,Music Choice - Dance HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15046
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Hip Hop & RnB HD" ,Music Choice - Hip Hop & RnB HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15045
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Indie HD" ,Music Choice - Indie HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15043
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Musica Urbana HD" ,Music Choice - Musica Urbana HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15042
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Mexicana HD" ,Music Choice - Mexicana HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15041
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Hit List HD" ,Music Choice - Hit List HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15044
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Rock HD" ,Music Choice - Rock HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15035
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - RAP 2K" ,Music Choice - RAP 2K
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15037
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Teen Beats HD" ,Music Choice - Teen Beats HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15031
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - R&B/Soul HD" ,Music Choice - R&B/Soul HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15038
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Pop Hits HD" ,Music Choice - Pop Hits HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15039
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Pop & Country" ,Music Choice - Pop & Country
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/56932
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Metal HD" ,Music Choice - Metal HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15040
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Throwback Jamz HD" ,Music Choice - Throwback Jamz HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15034
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Todays Country HD" ,Music Choice - Todays Country HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15033
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - RAP HD" ,Music Choice - RAP HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15036
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music Choice - Toddler Tunes HD" ,Music Choice - Toddler Tunes HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/15028
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-logo="http://iptvworld.ga/MTVRocks_at.jpg" tvg-id="MTVRocks.uk" tvg-name="Music | MTV 90s" ,Music | MTV 90s
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/8268
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-logo="http://iptvworld.ga/MTVBase.jpg" tvg-id="mtvbase.uk" tvg-name="Music | MTV Base HD" ,Music | MTV Base HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/8276
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-id="MTVDance.uk" tvg-name="Music | MTV Dance" ,Music | MTV Dance
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/8273
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-logo="http://iptvworld.ga/MTVMusic_nl.jpg" tvg-name="Music | MTV Music" ,Music | MTV Music
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/8270
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music | One By Music UHD 4K  [Only On 4K Devices]" ,Music | One By Music UHD 4K  [Only On 4K Devices]
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/39162
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music | Trace Mziki HD" ,Music | Trace Mziki HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38385
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music | Trace Naija HD" ,Music | Trace Naija HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38384
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music | Trace Toca HD" ,Music | Trace Toca HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38383
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Music | V2 Beat TV HD" ,Music | V2 Beat TV HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38382
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-logo="https://beverlyboy.com/wp-content/uploads/2018/01/revolt_tv_logo.png" tvg-name="Music |Afro Music HD AF" ,Music |Afro Music HD AF
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/23653
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Classica HD " ,Classica HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331505
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="CMT Equal Play HD " ,CMT Equal Play HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331506
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Live Music Replay HD " ,Live Music Replay HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331504
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="MTV Biggest Pop HD " ,MTV Biggest Pop HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331509
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="MTV Block Party HD " ,MTV Block Party HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331507
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="MTV Spankin' New HD " ,MTV Spankin' New HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331508
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo '80s HD " ,Vevo '80s HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331519
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo '70s HD " ,Vevo '70s HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331518
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo '90s HD " ,Vevo '90s HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331520
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo 2K HD " ,Vevo 2K HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331521
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo Country HD " ,Vevo Country HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331516
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo Latino HD " ,Vevo Latino HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331513
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo Pop HD " ,Vevo Pop HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331512
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo R&B HD " ,Vevo R&B HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331515
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo Reggaetón & Trap HD " ,Vevo Reggaetón & Trap HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331514
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo Retro Rock HD " ,Vevo Retro Rock HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331517
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Vevo True School Hip-Hop HD " ,Vevo True School Hip-Hop HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331511
+#EXTINF:-1 group-title="*-* Music Package *-*" tvg-name="Yo! MTV HD " ,Yo! MTV HD
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/331510
 
