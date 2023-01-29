@@ -423,41 +423,11 @@ https://eyetv.site:8443/abcdefg123/abcdefg123/161985
 #EXTINF:-1 group-title="israel" tvg-logo="https://img.ice.co.il/giflib/news/rsPhoto/sz_151/rsz_615_346_yes_logo615_140116.jpg" tvg-name="Yes_One2" ,Yes_One2
 https://eyetv.site:8443/abcdefg123/abcdefg123/161986
 
-#EXTINF:-1 group-title="ישראל" ,Channel 11 (Израиль)
-http://myott.top/stream/K3TLKSX4EA/293.m3u8
-#EXTINF:-1 group-title="ישראל" ,Channel 12 (Израиль)
-http://myott.top/stream/K3TLKSX4EA/294.m3u8
-#EXTINF:-1 group-title="ישראל" ,Channel 13 (Израиль)
-http://myott.top/stream/K3TLKSX4EA/295.m3u8
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 1
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248504
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 2
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248503
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 3
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248502
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 4
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248501
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 5
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248500
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 5 Plus
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248499
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 5 Live
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248498
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 5 Stares
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248497
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,YES Sport 5 Gold
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248496
-#EXTINF:-1 group-title="ספורט" tvg-logo="https://img2.freepng.ru/20180613/ej/kisspng-yes-snowboards-snow-shed-skiing-wave-rave-snowboar-i-said-yes-5b20faf272dd34.4138343715288880504705.jpg" ,ONE HD
-http://c.proserver.in:8080/2gf267ytwy3/T8Tp24cznUB/248495
-#EXTINF:-1 group-title="בידור" ,YES Movies Action HD (Израиль)
-http://myott.top/stream/K3TLKSX4EA/380.m3u8
-#EXTINF:-1 group-title="בידור" ,HOT Zone HD (Израиль)
-http://myott.top/stream/K3TLKSX4EA/379.m3u8
-#EXTINF:-1 group-title="בידור" ,HOT HBO HD (Израиль)
-http://myott.top/stream/K3TLKSX4EA/381.m3u8
-#EXTINF:-1 group-title="בידור" tvg-logo="http://epg.it999.ru/img2/6614.png" tvg-id="6614" ,YES-MTV 00s
-http://he11o.akadatel.com/iptv/NPFTZBM7EF776R/19167/index.m3u8
-#EXTINF:-1 group-title="בידור" ,Zoom (Израиль)
-http://myott.top/stream/K3TLKSX4EA/377.m3u8
-#EXTINF:-1 group-title="בידור" ,KAN23 (Израиль)
-http://myott.top/stream/K3TLKSX4EA/378.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_haochel_118-104.jpg" tvg-name="יס ערוץ האוכל" ,YES Food HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103266
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Yes_Doco_white.png" tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" ,YES Docu HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38682
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38624
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NG.jpg" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
+http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38633
