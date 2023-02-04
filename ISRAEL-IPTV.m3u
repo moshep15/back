@@ -709,3 +709,65 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12282/index.m3u8
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12277/index.m3u8
 #EXTINF:0 group-title="docuNature" tvg-id="3994" tvg-logo="http://epg.it999.ru/img/3994.png" tvg-rec="3",Sport 5 Stars HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/7074/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="3",Junior IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2333/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2675" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-rec="3",TeenNick IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2334/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2677" tvg-logo="http://epg.it999.ru/img/2677.png" tvg-rec="0",NATIONAL GEOGRAPHICS HD IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2336/index.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/nick.jr.png" tvg-id="nickjr.il" tvg-name="Nick Jr IL" ,Nick Jr IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2337/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",hop IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2338/index.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/bayit.png" tvg-name="Home Plus IL" ,Home Plus IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2339/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2685" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-rec="3",Hot HBO HD IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2354/index.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hachaim-hatovim_118-104.jpg" tvg-id="goodlifechannel.il" tvg-name="Good Life IL" ,Good Life IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2355/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2687" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-rec="3",HOT cinema 4 IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2356/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2688" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-rec="3",HOT cinema 1 IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2357/index.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2358/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2690" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-rec="3",ZOOM IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2359/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2691" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-rec="3",Hot Zone
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2360/index.m3u8
+#EXTINF:-1 group-title="docuNature" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2361/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="4030" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-rec="3",Harutz Hadramot Haturkiyot
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2363/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2695" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-rec="3",Hot Luli
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2364/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="3",Yes Movies Kids IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2365/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="3",Junior IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2366/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="3",HOT 3
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2367/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",Hop! Yaldut Israelit
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2368/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2701" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-rec="3",Baby IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2370/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="3",HOT cinema 2 IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2371/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2703" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-rec="3",HOT cinema 3 IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2372/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2707" tvg-logo="http://epg.it999.ru/img/2707.png" tvg-rec="3",Ego Total IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2376/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2708" tvg-logo="http://epg.it999.ru/img/2708.png" tvg-rec="3",Food Network IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2377/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2709" tvg-logo="http://epg.it999.ru/img/2709.png" tvg-rec="3",Health IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2378/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2710" tvg-logo="http://epg.it999.ru/img/2710.png" tvg-rec="3",Entertainment IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2379/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2713" tvg-logo="http://epg.it999.ru/img/2713.png" tvg-rec="3",Viva+ IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2382/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2714" tvg-logo="http://epg.it999.ru/img/2714.png" tvg-rec="3",Yaldut IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2383/index.m3u8
+#EXTINF:-1 group-title="israel" tvg-logo="https://img.ice.co.il/giflib/news/rsPhoto/sz_151/rsz_615_346_yes_logo615_140116.jpg" tvg-name="Yes_Bollywood" ,Yes_Bollywood
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2384/index.m3u8
+#EXTINF:0 group-title="docuNature" tvg-id="2718" tvg-logo="http://epg.it999.ru/img/2718.png" tvg-rec="3",VIVA IL
+http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2387/index.m3u8
