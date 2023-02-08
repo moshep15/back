@@ -1,116 +1,116 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_haochel_118-104.jpg" tvg-name="יס ערוץ האוכל" ,YES Food HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_haochel_118-104.jpg" tvg-name="יס ערוץ האוכל" ,YES Food HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103266
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Yes_Doco_white.png" tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" ,YES Docu HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Yes_Doco_white.png" tvg-id="yesdoku.il" tvg-name="YES Docu HD IL" ,YES Docu HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38682
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38624
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NG.jpg" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
+#EXTINF:-1 group-title="טבע ודוקו" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NG.jpg" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38633
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hachaim-hatovim_118-104.jpg" tvg-id="goodlifechannel.il" tvg-name="Good Life IL" ,Good Life IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hachaim-hatovim_118-104.jpg" tvg-id="goodlifechannel.il" tvg-name="Good Life IL" ,Good Life IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38626
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo-health_118-104.jpg" tvg-id="healthchannel.il" tvg-name="Health Channel IL" ,Health Channel IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo-health_118-104.jpg" tvg-id="healthchannel.il" tvg-name="Health Channel IL" ,Health Channel IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38627
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/bayit.png" tvg-name="Home Plus IL" ,Home Plus IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/bayit.png" tvg-name="Home Plus IL" ,Home Plus IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38660
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NGWILD.png" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
+#EXTINF:-1 group-title="טבע ודוקו" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NGWILD.png" tvg-id="natgeowild.il" tvg-name="National Geo Wild IL" ,National Geo Wild IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38633
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
+#EXTINF:-1 group-title="טבע ודוקו" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38632
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/42_discoverySCIENCE_118x104.jpg" tvg-id="discoveryscience.il" tvg-name="Discovery Science IL" ,Discovery Science IL
+#EXTINF:-1 group-title="טבע ודוקו" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/42_discoverySCIENCE_118x104.jpg" tvg-id="discoveryscience.il" tvg-name="Discovery Science IL" ,Discovery Science IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38631
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/history_channelHD_118x104.jpg" tvg-id="historychannel.il" tvg-name="History Channel HD IL" ,History Channel HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/history_channelHD_118x104.jpg" tvg-id="historychannel.il" tvg-name="History Channel HD IL" ,History Channel HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38630
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2021/channel/LOGO/47_AnimalPlanet_118x104.jpg" tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" ,Animal Planet HD IL
+#EXTINF:-1 group-title="טבע ודוקו" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2021/channel/LOGO/47_AnimalPlanet_118x104.jpg" tvg-id="animalplanet.il" tvg-name="Animal Planet HD IL" ,Animal Planet HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/103273
-#EXTINF:-1 tvg-id="IL: NAT GEO Wild" tvg-name="IL: NAT GEO Wild" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NGWILD.png" group-title="ערוצי פרימיום",IL: NAT GEO Wild
+#EXTINF:-1 tvg-id="IL: NAT GEO Wild" tvg-name="IL: NAT GEO Wild" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/NGWILD.png" group-title="טבע ודוקו",IL: NAT GEO Wild
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163469
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logo_hatiyulim_118-104.jpg" tvg-id="travelchannel.il" tvg-name="Travel Channel HD IL" ,Travel Channel HD IL
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2361/index.m3u8
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
+#EXTINF:-1 group-title="בידור ופנאי" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" tvg-id="discovery.il" tvg-name="Discovery HD IL" ,Discovery HD IL
 http://clsgfo7k.tvclub.xyz/iptv/N66D5UAYQUQMDS/2358/index.m3u8
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/nick.jr.png" tvg-id="nickjr.il" tvg-name="Nick Jr IL" ,Nick Jr IL
+#EXTINF:-1 group-title="ילדים" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/nick.jr.png" tvg-id="nickjr.il" tvg-name="Nick Jr IL" ,Nick Jr IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38652
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/nick.png" tvg-id="nickelodeon.il" tvg-name="Nickelodeon IL" ,Nickelodeon IL
+#EXTINF:-1 group-title="ילדים" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/nick.png" tvg-id="nickelodeon.il" tvg-name="Nickelodeon IL" ,Nickelodeon IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38653
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Teen_nick_logo.jpg" tvg-name="NickTeen IL" ,NickTeen IL
+#EXTINF:-1 group-title="ילדים" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Teen_nick_logo.jpg" tvg-name="NickTeen IL" ,NickTeen IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38651
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/SiteCollectionImages/Lists/channels/AllItems/logo-disney-118_104.png" tvg-id="disneychannel.il" tvg-name="Disney HD IL" ,Disney HD IL
+#EXTINF:-1 group-title="ילדים" tvg-logo="https://www.yes.co.il/SiteCollectionImages/Lists/channels/AllItems/logo-disney-118_104.png" tvg-id="disneychannel.il" tvg-name="Disney HD IL" ,Disney HD IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38655
-#EXTINF:-1 group-title="ערוצי פרימיום" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Disney_junior04.png" tvg-id="juniorchannel.il" tvg-name="Disney Jr IL" ,Disney Jr IL
+#EXTINF:-1 group-title="ילדים" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Disney_junior04.png" tvg-id="juniorchannel.il" tvg-name="Disney Jr IL" ,Disney Jr IL
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/38654
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2674" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-rec="3",Disney Jr IL
+#EXTINF:0 group-title="ילדים" tvg-id="2674" tvg-logo="http://epg.it999.ru/img/2674.png" tvg-rec="3",Disney Jr IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2333/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2675" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-rec="3",TeenNick IL
+#EXTINF:0 group-title="ילדים" tvg-id="2675" tvg-logo="http://epg.it999.ru/img/2675.png" tvg-rec="3",TeenNick IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2334/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2678" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-rec="3",Nick Jr IL
+#EXTINF:0 group-title="ילדים" tvg-id="2678" tvg-logo="http://epg.it999.ru/img/2678.png" tvg-rec="3",Nick Jr IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2337/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",hop IL
+#EXTINF:0 group-title="ילדים" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",hop IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2338/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2680" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-rec="3",Home Plus IL
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="2680" tvg-logo="http://epg.it999.ru/img/2680.png" tvg-rec="3",Home Plus IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2339/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2681" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-rec="3",ONE HD IL
+#EXTINF:0 group-title="ספורט" tvg-id="2681" tvg-logo="http://epg.it999.ru/img/2681.png" tvg-rec="3",ONE HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2340/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="3",Sport 5 HD IL
+#EXTINF:0 group-title="ספורט" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="3",Sport 5 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2341/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2974" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-rec="3",Yes Israeli Cinema
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2974" tvg-logo="http://epg.it999.ru/img/2974.png" tvg-rec="3",Yes Israeli Cinema
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2342/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4007" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-rec="3",Yes DRAMA HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="4007" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-rec="3",Yes DRAMA HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2343/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2972" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-rec="3",Yes DOCU HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2972" tvg-logo="http://epg.it999.ru/img/2972.png" tvg-rec="3",Yes DOCU HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2344/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-rec="3",Yes COMEDY HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-rec="3",Yes COMEDY HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2345/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="3999" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-rec="3",Yes ACTION HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="3999" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-rec="3",Yes ACTION HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2346/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2968" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-rec="3",Yes Movies Comedy IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2968" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-rec="3",Yes Movies Comedy IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2348/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="3",Yes Movies Kids IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="3",Yes Movies Kids IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2349/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2966" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-rec="3",Yes Movies Action IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2966" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-rec="3",Yes Movies Action IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2350/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2965" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-rec="3",Yes Movies Drama IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2965" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-rec="3",Yes Movies Drama IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2351/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-rec="3",SPORT 2 HD IL
+#EXTINF:0 group-title="ספורט" tvg-id="2683" tvg-logo="http://epg.it999.ru/img/2683.png" tvg-rec="3",SPORT 2 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2352/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2684" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-rec="3",Sport 1 HD IL
+#EXTINF:0 group-title="ספורט" tvg-id="2684" tvg-logo="http://epg.it999.ru/img/2684.png" tvg-rec="3",Sport 1 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2353/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2685" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-rec="3",Hot HBO HD IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2685" tvg-logo="http://epg.it999.ru/img/2685.png" tvg-rec="3",Hot HBO HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2354/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2686" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-rec="3",Good Life IL
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="2686" tvg-logo="http://epg.it999.ru/img/2686.png" tvg-rec="3",Good Life IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2355/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2687" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-rec="3",HOT cinema 4 IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2687" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-rec="3",HOT cinema 4 IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2356/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2688" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-rec="3",HOT cinema 1 IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2688" tvg-logo="http://epg.it999.ru/img/2688.png" tvg-rec="3",HOT cinema 1 IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2357/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery HD IL
+#EXTINF:0 group-title="טבע ודוקו" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2358/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2690" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-rec="3",ZOOM IL
+#EXTINF:0 group-title="ילדים" tvg-id="2690" tvg-logo="http://epg.it999.ru/img/2690.png" tvg-rec="3",ZOOM IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2359/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2691" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-rec="3",Hot Zone
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2691" tvg-logo="http://epg.it999.ru/img/2691.png" tvg-rec="3",Hot Zone
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2360/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2692" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-rec="3",Travel Channel IL
+#EXTINF:0 group-title="בידור ופנאי" tvg-id="2692" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-rec="3",Travel Channel IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2361/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4312" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-rec="3",Sport 5+ Live HD IL
+#EXTINF:0 group-title="ספורט" tvg-id="4312" tvg-logo="http://epg.it999.ru/img/4312.png" tvg-rec="3",Sport 5+ Live HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2362/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4030" tvg-logo="http://epg.it999.ru/img/4030.png" tvg-rec="3",Harutz Hadramot Haturkiyot
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2363/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2695" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-rec="3",Hot Luli
+#EXTINF:0 group-title="ילדים" tvg-id="2695" tvg-logo="http://epg.it999.ru/img/2695.png" tvg-rec="3",Hot Luli
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2364/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4003" tvg-logo="http://epg.it999.ru/img/4003.png" tvg-rec="3",Kids IL
+#EXTINF:0 group-title="ילדים" tvg-id="4003" tvg-logo="http://epg.it999.ru/img/4003.png" tvg-rec="3",Kids IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2365/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="3",Junior IL
+#EXTINF:0 group-title="ילדים" tvg-id="2697" tvg-logo="http://epg.it999.ru/img/2697.png" tvg-rec="3",Junior IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2366/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="3",HOT 3
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="3",HOT 3
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2367/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",Hop! Yaldut Israelit
+#EXTINF:0 group-title="ילדים" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="3",Hop! Yaldut Israelit
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2368/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2701" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-rec="3",Baby IL
+#EXTINF:0 group-title="ילדים" tvg-id="2701" tvg-logo="http://epg.it999.ru/img/2701.png" tvg-rec="3",Baby IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2370/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="3",HOT cinema 2 IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="3",HOT cinema 2 IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2371/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2703" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-rec="3",HOT cinema 3 IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2703" tvg-logo="http://epg.it999.ru/img/2703.png" tvg-rec="3",HOT cinema 3 IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2372/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2704" tvg-logo="http://epg.it999.ru/img/2704.png" tvg-rec="3",ONE 2 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2373/index.m3u8
@@ -160,13 +160,13 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12210/index.m3u8
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12211/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2679" tvg-logo="http://epg.it999.ru/img/2679.png" tvg-rec="0",HOP CHILDHOOD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12213/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="0",HOT3 HD IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2698" tvg-logo="http://epg.it999.ru/img/2698.png" tvg-rec="0",HOT3 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12214/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="0",HOT CINEMA 2 HD IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="2702" tvg-logo="http://epg.it999.ru/img/2702.png" tvg-rec="0",HOT CINEMA 2 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12215/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="5023" tvg-logo="http://epg.it999.ru/img/5023.png" tvg-rec="0",HOT8 HD IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="5023" tvg-logo="http://epg.it999.ru/img/5023.png" tvg-rec="0",HOT8 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12216/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="5024" tvg-logo="http://epg.it999.ru/img/5024.png" tvg-rec="0",HOT COMEDY CENTRAL HD IL
+#EXTINF:0 group-title="ערוצי הוט" tvg-id="5024" tvg-logo="http://epg.it999.ru/img/5024.png" tvg-rec="0",HOT COMEDY CENTRAL HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12217/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2687" tvg-logo="http://epg.it999.ru/img/2687.png" tvg-rec="0",HOT CINEMA 4 HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12218/index.m3u8
@@ -256,17 +256,17 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12265/index.m3u8
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12266/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="5071" tvg-logo="http://epg.it999.ru/img/5071.png" tvg-rec="0",BOLLYWOOD HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12267/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4314" tvg-logo="http://epg.it999.ru/img/4314.png" tvg-rec="0",BOLLYSHOW HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="4314" tvg-logo="http://epg.it999.ru/img/4314.png" tvg-rec="0",BOLLYSHOW HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12268/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4306" tvg-logo="http://epg.it999.ru/img/4306.png" tvg-rec="0",KNESET CHANNE IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12269/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2966" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-rec="0",YES MOVIES ACTION HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2966" tvg-logo="http://epg.it999.ru/img/2966.png" tvg-rec="0",YES MOVIES ACTION HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12270/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2968" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-rec="0",YES MOVIES COMEDY HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2968" tvg-logo="http://epg.it999.ru/img/2968.png" tvg-rec="0",YES MOVIES COMEDY HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12271/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2965" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-rec="0",YES MOVIES DRAMA HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2965" tvg-logo="http://epg.it999.ru/img/2965.png" tvg-rec="0",YES MOVIES DRAMA HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12272/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="0",YES MOVIES KIDS HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="2967" tvg-logo="http://epg.it999.ru/img/2967.png" tvg-rec="0",YES MOVIES KIDS HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12273/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4023" tvg-logo="http://epg.it999.ru/img/4023.png" tvg-rec="0",MTV MUSIC IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12274/index.m3u8
@@ -274,13 +274,13 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12274/index.m3u8
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12278/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2692" tvg-logo="http://epg.it999.ru/img/2692.png" tvg-rec="0",TRAVEL CHANNEL IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12279/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="3999" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-rec="0",YES TV ACTION HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="3999" tvg-logo="http://epg.it999.ru/img/3999.png" tvg-rec="0",YES TV ACTION HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12280/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-rec="0",YES TV COMEDY HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="4021" tvg-logo="http://epg.it999.ru/img/4021.png" tvg-rec="0",YES TV COMEDY HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12281/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="5087" tvg-logo="http://epg.it999.ru/img/5087.png" tvg-rec="0",WIZ IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12283/index.m3u8
-#EXTINF:0 group-title="ערוצי פרימיום" tvg-id="4007" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-rec="0",YES TV DRAMA HD IL
+#EXTINF:0 group-title="ערוצי יס" tvg-id="4007" tvg-logo="http://epg.it999.ru/img/4007.png" tvg-rec="0",YES TV DRAMA HD IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12282/index.m3u8
 #EXTINF:0 group-title="ערוצי פרימיום" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",Sport 5 4K IL
 http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/12277/index.m3u8
@@ -320,49 +320,49 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163451
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297070
 #EXTINF:-1 tvg-id="" tvg-name="IL: Home +" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fd14da29ffab881828fd9bb628dc97f9.png" group-title="ערוצי פרימיום",IL: Home +
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163453
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d23d10409c27c8654080dbf477b96d8e.png" group-title="ערוצי פרימיום",IL: HOT 3
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d23d10409c27c8654080dbf477b96d8e.png" group-title="ערוצי הוט",IL: HOT 3
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90952
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 8" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/596e03c2ff18208e68d5559e903f3c74.png" group-title="ערוצי פרימיום",IL: HOT 8
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 8" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/596e03c2ff18208e68d5559e903f3c74.png" group-title="ערוצי הוט",IL: HOT 8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163457
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/0521984b66dd478ef21aea3003b6f193.png" group-title="ערוצי פרימיום",IL: HOT C1
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/0521984b66dd478ef21aea3003b6f193.png" group-title="ערוצי הוט",IL: HOT C1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297060
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/0c3542198df3d320b682b29c6287d633.png" group-title="ערוצי פרימיום",IL: HOT C2
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/0c3542198df3d320b682b29c6287d633.png" group-title="ערוצי הוט",IL: HOT C2
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171758
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/1829e557b65ec78b515eecf5208af087.png" group-title="ערוצי פרימיום",IL: HOT C3
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/1829e557b65ec78b515eecf5208af087.png" group-title="ערוצי הוט",IL: HOT C3
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/172319
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/65749272a851444da0dd5b0adeab92e0.png" group-title="ערוצי פרימיום",IL: HOT C4
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/65749272a851444da0dd5b0adeab92e0.png" group-title="ערוצי הוט",IL: HOT C4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297086
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b32f430edfef0da48756104d1a46bd32.png" group-title="ערוצי פרימיום",IL: HOT Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b32f430edfef0da48756104d1a46bd32.png" group-title="ערוצי הוט",IL: HOT Comedy Central
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297071
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/fecc8947c1288e7f7ae787549707f156.png" group-title="ערוצי פרימיום",IL: HOT HBO
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/fecc8947c1288e7f7ae787549707f156.png" group-title="ערוצי הוט",IL: HOT HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297052
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT IY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT IY
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT IY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי הוט",IL: HOT IY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297069
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Kids
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ילדים",IL: HOT Kids
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297053
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Luli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Luli
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Luli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ילדים",IL: HOT Luli
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297066
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Nofesh" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Nofesh
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Nofesh" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי הוט",IL: HOT Nofesh
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297058
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Style" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Style
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Style" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי הוט",IL: HOT Style
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297068
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Viva Premium" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Viva Premium
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Viva Premium" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי הוט",IL: HOT Viva Premium
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297059
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Z" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b88d3e424f1d29e77b7f589b007f0c47.png" group-title="ערוצי פרימיום",IL: HOT Z
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Z" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b88d3e424f1d29e77b7f589b007f0c47.png" group-title="ערוצי הוט",IL: HOT Z
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151379
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Zone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי פרימיום",IL: HOT Zone
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Zone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי הוט",IL: HOT Zone
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297051
 #EXTINF:-1 tvg-id="" tvg-name="IL: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/fdb1269acf27e825e9bd8dadd0563d70.jpg" group-title="ערוצי פרימיום",IL: Investigation Discovery
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282780
-#EXTINF:-1 tvg-id="" tvg-name="IL: Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/916063460db6647ea259e57a0dae1165.png" group-title="ערוצי פרימיום",IL: Junior
+#EXTINF:-1 tvg-id="" tvg-name="IL: Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/916063460db6647ea259e57a0dae1165.png" group-title="ילדים",IL: Junior
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90954
 #EXTINF:-1 tvg-id="" tvg-name="IL: Keshet 12" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/670736251ed35e8674185b935b910908.png" group-title="ערוצי פרימיום",IL: Keshet 12
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/245400
 #EXTINF:-1 tvg-id="" tvg-name="IL: Makan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/f53b410f9fd3e1f0258718a23deed00b.png" group-title="ערוצי פרימיום",IL: Makan
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163466
-#EXTINF:-1 tvg-id="" tvg-name="IL: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/e02fb338ffd03f65c883a3007e3b7d4b.svg" group-title="ערוצי פרימיום",IL: NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="IL: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/e02fb338ffd03f65c883a3007e3b7d4b.svg" group-title="טבע ודוקו",IL: NAT GEO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297064
-#EXTINF:-1 tvg-id="" tvg-name="IL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d3adec9a5b269bf920bc63c8a57041ef.png" group-title="ערוצי פרימיום",IL: NAT GEO Wild
+#EXTINF:-1 tvg-id="" tvg-name="IL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d3adec9a5b269bf920bc63c8a57041ef.png" group-title="טבע ודוקו",IL: NAT GEO Wild
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163469
 #EXTINF:-1 tvg-id="" tvg-name="IL: Nick Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b7a8a95cb957da1e2ed57239d9c6af05.svg" group-title="ערוצי פרימיום",IL: Nick Jr
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297081
@@ -533,21 +533,21 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90947
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297079
 #EXTINF:-1 tvg-id="" tvg-name="IL: Yam Tichoni" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/a9c64fac46b5c53509244446067e8806.png" group-title="ערוצי פרימיום",IL: Yam Tichoni
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297057
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" group-title="ערוצי פרימיום"",IL: Yes Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" group-title="ערוצי יס",IL: Yes Bollywood
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297067
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/914191a6b3c446ce85c9314381be2e80.png" group-title="ערוצי פרימיום",IL: Yes Docu
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/914191a6b3c446ce85c9314381be2e80.png" group-title="ערוצי יס",IL: Yes Docu
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24124
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Israeli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5e2c8cd02ee290bc9c8fb5cb3d491bd5.png" group-title="ערוצי פרימיום"",IL: Yes Israeli
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Israeli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5e2c8cd02ee290bc9c8fb5cb3d491bd5.png" group-title="ערוצי יס",IL: Yes Israeli
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171738
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3dd54a05306f07e43b5c7bf6f3320228.png" group-title="ערוצי פרימיום"",IL: Yes Movies Action
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3dd54a05306f07e43b5c7bf6f3320228.png" group-title="ערוצי יס"",IL: Yes Movies Action
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/14776
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Movies Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bd6211eea28d6849fc9ad847a7041c8c.png" group-title="ערוצי פרימיום",IL: Yes Movies Kids
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Movies Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bd6211eea28d6849fc9ad847a7041c8c.png" group-title="ערוצי יס",IL: Yes Movies Kids
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196398
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b4a4df6015b3ba94eb815717c02de0cd.png" group-title="ערוצי פרימיום",IL: Yes TV Action
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b4a4df6015b3ba94eb815717c02de0cd.png" group-title="ערוצי יס",IL: Yes TV Action
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297075
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/e8cc0f25128722b2af14ae9e94550b62.png" group-title="ערוצי פרימיום",IL: Yes TV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/e8cc0f25128722b2af14ae9e94550b62.png" group-title="ערוצי יס",IL: Yes TV Comedy
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297063
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי פרימיום",IL: Yes TV Drama
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי יס",IL: Yes TV Drama
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163468
 #EXTINF:-1 tvg-id="" tvg-name="IL: Zoom" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/45d4a34978efb6f0bdc7fcefc9a1191c.png" group-title="ערוצי פרימיום",IL: Zoom
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90949
