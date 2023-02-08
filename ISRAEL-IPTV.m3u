@@ -36,11 +36,25 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297086
 #EXTINF:-1 tvg-name="IL: HOT Zone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי  הוט",IL: HOT Zone
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297051
 
+
+
 #EXTINF:-1 tvg-name="National Graphic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי טבע ודוקו",IL: National Graphic HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163468
 
+
+
 #EXTINF:-1 tvg-name="IL: Yes Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" group-title="ערוצי יס",IL: Yes Bollywood
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297067
+#EXTINF:-1 tvg-name="YES TV DRAMA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי יס",YES TV DRAMA HD
+http://nl01.spr24.net/21510/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/b4a4df6015b3ba94eb815717c02de0cd.png" group-title="ערוצי יס",IL: Yes TV Action
+http://nl01.spr24.net/21513/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/e8cc0f25128722b2af14ae9e94550b62.png" group-title="ערוצי יס",IL: Yes TV Comedy
+http://nl01.spr24.net/21515/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes TV Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי יס",IL: Yes TV Drama
+http://nl01.spr24.net/21517/mpegts?token=PBQtWYVTvpqktT
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="IL: 5 Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/073919a81b876a3b099bed32c5474b2d.png" group-title="ספורט",IL: 5 Gold
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147174
