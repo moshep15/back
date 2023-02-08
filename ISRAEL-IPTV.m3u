@@ -36,9 +36,21 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297086
 #EXTINF:-1 tvg-name="IL: HOT Zone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי  הוט",IL: HOT Zone
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297051
 
-#EXTINF:-1 tvg-name="National Graphic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי טבע ודוקו",IL: Yes TV Drama
+#EXTINF:-1 tvg-name="National Graphic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי טבע ודוקו",IL: National Graphic HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163468
 
 #EXTINF:-1 tvg-name="IL: Yes Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" group-title="ערוצי יס",IL: Yes Bollywood
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297067
 
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/073919a81b876a3b099bed32c5474b2d.png" group-title="ספורט",IL: 5 Gold
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147174
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Live" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/3ef66741c946d1b761a1a01ea05dee65.png" group-title="ספורט",IL: 5 Live
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91281
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/618a0173d3c8ac53dd7985282dc2e644.png" group-title="ספורט",IL: 5 Plus
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282063
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/8f2d513e101c996bae61672f17d15f76.png" group-title="ספורט",IL: 5 Sport
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/172323
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Sport 4K" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/5321c714a61e8a69b706a2680e13f91b.png" group-title="ספורט",IL: 5 Sport 4K
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297073
+#EXTINF:-1 tvg-id="" tvg-name="IL: 5 Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/3aba02d70d9cc12068dbcefcb9b19015.png" group-title="ספורט",IL: 5 Stars
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/14788
