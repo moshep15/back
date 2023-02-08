@@ -36,3 +36,19 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2370/index.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297053
 #EXTINF:-1 tvg-id="" tvg-name="IL: HOT Luli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ילדים",IL: HOT Luli
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297066
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/65749272a851444da0dd5b0adeab92e0.png" group-title="ערוצי  הוט",IL: HOT C4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297086
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT Zone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ערוצי  הוט",IL: HOT Zone
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297051
+
+
+#EXTINF:-1 tvg-id="" tvg-name="National Graphic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" group-title="ערוצי טבע ודוקו",IL: Yes TV Drama
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163468
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" group-title="ערוצי יס",IL: Yes Bollywood
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297067
+
