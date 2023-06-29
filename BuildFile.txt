@@ -4,7 +4,7 @@ zip="https://kodi7rd.github.io/wizard/plugin.program.kodirealdebridisraelwizard-
 
 name="Kodi 20 Real Debrid Israel Build"
 version="3.1.0"
-url="https://archive.org/download/newupdate_20220825/update20test.zip"
+url="https://send.magicode.me/send-file/file/35edd6f82884de50ba2ed987523aee7675ba5890/download"
 minor="https://"
 gui="https://archive.org/download/newupdate_20220825/Kodi20-RealDebrid-Israel-Build-3.1.0-Quick-Update.zip"
 kodi="20.0"
