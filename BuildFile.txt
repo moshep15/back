@@ -4,7 +4,7 @@ zip="https://kodi7rd.github.io/wizard/plugin.program.kodirealdebridisraelwizard-
 
 name="Kodi 20 Real Debrid Israel Build"
 version="3.1.0"
-url="https://download1593.mediafire.com/b4v27u4z04ugT299qC4aEyFLhF9ocG-9KgjGbOP2NtRjvOIaNy_MLqolCfe_D0T_PIjHz07X3FowA6L3oqVRq0VFR81hHGwA6rtOfKmLGPt8tsM5SRFiJk9uIk_O_k-gI7CgMO9nJxQUf_cR70viMwCLfEFyyq1Vbr-neFtbXe-1FQ/l4f6narmeoeq0oq/update20test.zip"
+url="https://download857.mediafire.com/hh6ifuw36njgVxO_jeWwoNR4GbF6cHlsUifaZrkyPM_6IzWwpwLH6BpWsrVdKwReBCntoVH6yKRVXjH_GD4VJlsRmPKKqsi06hMd0wQefi1G9UjlmvbeJx4G8azX2J8T1ydXXizQ9IqAlgRm0TtitMVnDzjGXMdV5XxtGzDQp6CX/l4f6narmeoeq0oq/update20test.zip"
 minor="https://"
 gui="https://download1518.mediafire.com/ygwy0pzyoakgMsN5_e1lQg0LQMpUMc0gfnkxYNF17kCMErwf4p_zcGLODVmxpB0bfueT6sy3IFtaK6mJuoh3HSfQiS_jg3e9CutdslqmAteKsUoG1vEHE8Y2G2MkyBSm499R0H5UVdGEdP4KoPRK5qUYg8Tq3sx3ibLblDx5gNolYQ/yeen0n7twiwikr8/update.zip"
 kodi="20.0"
