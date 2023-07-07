@@ -4,9 +4,9 @@ zip="https://raw.githubusercontent.com/moshep15/back/master/plugin.program.kodir
 
 name="Kodi 20 Real Debrid Israel Build"
 version="3.1.0"
-url="https://download857.mediafire.com/v7m71y54kr7gBG1jjebeOXGJ9mVy3f3X-xFPXXmbyGHPqn52emBxMBRuF0cTSMlnc_Hp2Yvq-6U77455t6m5OpdrUgRwUdWQt5Z5ZPPpQhiuKM5Tqcpcb5pt83MV59U8sZav6oCg2aS2UUaryhrkbxGSnpoizjJh9D3k4VRVhPwt/l4f6narmeoeq0oq/update20test.zip"
+url="https://download1589.mediafire.com/gx2vnxr6hezgk8m4O_FlT7hJ3QQ8e7L5YC8YXSl9VrD7_p30BcLVBABx-zYXMdeVHj3EiDWMMbVPSrk7XnySkTIJU9UvX56kIeqvPtCKVNCHdoJ9bNouqwrzXLM5VX4g3E0Mp3tSMhT6saRchyqLgFOizFWJ2FYsPtUp-jOLllae/6k7clwzzrrbwcn9/update20test.zip"
 minor="https://"
-gui="https://download1085.mediafire.com/8d06k6a592ygOD0zj2XvE66pWdMVACiywjn1V9s_89DQUbH4lLv7HyEtrW2cbc4e6b7mX8axkJDfQX34fqf3B1XnhUMyo3aAP8a3S9zFBqgcR-30IGKpcgfrIVL9M03fenqHMsGmSs-ZDEWgotMjC-l1qZjmSxE_sON2sOgkHp9Z/6gqfzdjglq4rpkh/update.zip"
+gui=""
 kodi="20.0"
 theme="http://"
 icon="https://kodi7rd.github.io/wizard/assets/build_menu_screenshots/build20_skin_Estuary_icon.png"
