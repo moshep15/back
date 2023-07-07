@@ -1,6 +1,6 @@
 id="plugin.program.kodirealdebridisraelwizard"
-version="1.0.6"
-zip="https://raw.githubusercontent.com/moshep15/back/master/plugin.program.kodirealdebridisraelwizard-1.0.6.zip"
+version="1.0.4"
+zip="https://raw.githubusercontent.com/moshep15/back/master/plugin.program.kodirealdebridisraelwizard-1.0.4.zip"
 
 name="Kodi 20 Real Debrid Israel Build"
 version="3.1.0"
