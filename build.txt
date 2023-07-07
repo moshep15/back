@@ -4,9 +4,9 @@ zip="https://kodi7rd.github.io/wizard/plugin.program.kodirealdebridisraelwizard-
 
 name="להתעלם FENtastic"
 version="3.1.1"
-url="https://kodi7rd.github.io/builds/build20_skin_FENtastic_TEST/build20_skin_FENtastic-3.1.1.zip"
+url="https://download1589.mediafire.com/113sdmp40x3ge3x90-Ap1O5XXeDJTLtDsnmsyOvdwSfP3jt14YUMiBMxOJZhEtLqqqWlY_e39U558wYnLkcxN-WPv0IeTNu446YUGqxzrRrBdzQTgN1sWvyBjgM4jfdqlePttcopDHK6H4ocZ3u8-cttuHXuwdyRIBYc8QWNAr5P/6k7clwzzrrbwcn9/update20test.zip"
 minor="https://"
-gui="https://kodi7rd.github.io/builds/build20_skin_FENtastic_TEST/build20_skin_FENtastic-3.1.1-Quick-Update.zip"
+gui="https://"
 kodi="20.0"
 theme="http://"
 icon="https://kodi7rd.github.io/wizard/assets/build_menu_screenshots/build20_skin_FENtastic_icon.png"
