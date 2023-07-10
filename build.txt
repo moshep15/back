@@ -4,9 +4,9 @@ zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebr
 
 name="להתעלם FENtastic"
 version="3.1.1"
-url="https://download947.mediafire.com/zw505jzf439gBPqYZsl79eNpVBqJZ6dzk11Z9erKvKkIKcOmfZGX1l4YNN2oLgcKvCwVSaxXFIFTb_d5T-cPO_QG15305pVhvgCAmA46epg2-qLR0E0bh-A5swHp7zGKes_tJcJ2T6dtv33XPdGW6nAp2J2t4qKgxE4DEZrXi0Go/6k7clwzzrrbwcn9/update20test.zip"
+url="https://download1479.mediafire.com/qspkdpra4alg7tzbIoiIrh5cCBgtpwSNl2op-N_3kRXETI1Fh_MH8sRb21WYCIyIwdpMb4K5C-lmmY2MvT9KBZgNq3Yzogm4vk92P9FZXKyCJskvGEUkUB2dTIQmVPRWrrA7d7YRiIl5cEW-XzSbIrhYNsLfNdrf4uk3UhEAjT8Z/6k7clwzzrrbwcn9/update20test.zip"
 minor="https://"
-gui="https://download1509.mediafire.com/z866z4ge3iigIGsatw74u97HKmkozHDwD_uC27zCqAAUjhmrPQBZsq1eNI5t9DrNbARCO1ShTVKu_IK-jTQ_XPkJvV0VwNgyL1vzp1kA5lpp3sujJ6mrwf25pdgHgwapmpbcNyOEK8OQNDeE_9l5vJRVXgaxSg4IK_9Y_DQU9ur7/7fuc0qcvp5apbpd/update.zip"
+gui="https://download946.mediafire.com/3ggee8lc2fhg_YKk2N2sFZ6WLEFfrhjKXY0BSXGsgeUEwa4tDGTtsOa6RKCH-sszLuzrsOxupjh3fz6e8qXMmxYSXCOPUcIjCPbKWse6_KPFofLR2e1KHgi7RvCBsyu1i8m_Tgu2vkwfwKlXIYLcvGjxOCeS-46NfhlY1Ei5vCzD/7fuc0qcvp5apbpd/update.zip"
 kodi="20.0"
 theme="http://"
 icon="https://kodi7rd.github.io/wizard/assets/build_menu_screenshots/build20_skin_FENtastic_icon.png"
