@@ -4,7 +4,7 @@ zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebr
 
 name="להתעלם FENtastic"
 version="3.1.1"
-url="https://download847.mediafire.com/bo4fd4xgjpdgzzQH0npij39VZdGggqLlPBFVw_jIvFIkoN1NaOAid0cgShCZtPcijNUbjE-EE57Evzr5l1M97JpggMvOelbVCZB9y03hnJlBoD_19RT_cyubZnq2strY90kXtkhpQg66GqxpojsdEX0OyJt8NjGYJPyKU-4bLJc/22n6yvpayrfgojg/update20test.zip"
+url="https://download1349.mediafire.com/x839izyv2bsgBlblsojUz2x0gY_WaB2oadI6jo9KPOLyVcwXFL88wokKFRFr3zqIaYmXkO2yYPEwTzYTIWKbGgjdVYDN4pttI-2KwaEcDOXqyARGDG32L0uEahogyNaf1SW6X1MaLon6CnfelbWVC5OPzThQzBpoNfFGVgmMbDM/22n6yvpayrfgojg/update20test.zip"
 minor="https://"
 gui="https://download1584.mediafire.com/xn93ircrc7egtqClw81XTfJF8yVLRXDZV3Qr-DNOnfZdrKWhwgUNxnaqg_Zl5B4tu2T5AUHFQ_IPhLhE3I0JjCE8jcw9sfdmmntmyZw5UApcQ41mNuMYDb4TLfxU2suQMcW9ZzVj2VjWUyWyWtYKyZaalA3fdrO2N07ABP-3Uv8/7fuc0qcvp5apbpd/update.zip"
 kodi="20.0"
