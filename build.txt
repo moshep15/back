@@ -1,6 +1,6 @@
 id="plugin.program.kodirealdebridisraelwizard"
-version="1.0.8"
-zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebridisraelwizard-1.0.8.zip"
+version="1.0.9"
+zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebridisraelwizard-1.0.9.zip"
 
 name="להתעלם FENtastic"
 version="3.1.2"
