@@ -4,7 +4,7 @@ zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebr
 
 name="להתעלם FENtastic"
 version="3.1.2"
-url="https://download1594.mediafire.com/zb3150kiy0fgRkW2MX-NSjGyLPZhGTOWvhnlZATexneAJXEdAHGr1SMA86uVIjjsBaJV1iHWsjCanalwcpZwHIUCXlFsZetGB6jFGbK-NsZzNVO4f1g1HMrcyN1HvVqazQlNxoo1Zog6FslmmX_mHQmzaLmIqaZCXzsH80OoY9I/ojrspt343ac1pkq/update20test.zip"
+url="https://download1078.mediafire.com/svm5gmh3avlg7yT4nzlMTDAOtuyizzVXmGUSZ0d6Axf4RvzRhhEiaJXahSGE9TrRg6fDP9a7IpVR3aN7Lg7XCcWUycVQOOwfdN8H2JzPnxCkBsZ0ExcWuCTrvza72aJwbTfQSuTtbBMXGrDte4S_DNDjarKKTRc5I5_zSBRS8C8/ojrspt343ac1pkq/update20test.zip"
 minor="https://"
 gui=""
 kodi="20.0"
