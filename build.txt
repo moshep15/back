@@ -3,7 +3,7 @@ version="1.0.9"
 zip="https://archive.org/download/newupdate_20220825/plugin.program.kodirealdebridisraelwizard-1.0.9.zip"
 
 name="Ghost Pellucid 20"
-version="2.4"
+version="3.1.3"
 url="https://drive.google.com/uc?export=download&id=12tTETIvTJj-ABezwpB8z_zqVgJiF1DYW"
 minor="http://"
 gui=""
