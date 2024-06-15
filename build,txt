@@ -4,9 +4,9 @@ zip="https://raw.githubusercontent.com/moshep15/back/master/plugin.program.kodir
 
 name="קודי ריל דבריד ישראל"
 version="1.0.0"
-url="https://kodi7rd.github.io/builds/build21_kodirdil/build21_kodirdil-1.0.0.zip"
+url="https://archive.org/download/newupdate_20220825/kodi21update.zip"
 minor="https://"
-gui="https://kodi7rd.github.io/builds/build21_kodirdil/build21_kodirdil-1.0.0-Quick-Update.zip"
+gui="https://raw.githubusercontent.com/moshep15/back/master/update.zip"
 kodi="21.0"
 theme="http://"
 icon="https://kodi7rd.github.io/wizard/assets/build_menu_screenshots/kodirdil21_square.png"
