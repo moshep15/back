@@ -1,0 +1,153 @@
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2032.png" timeshift="7",Big
+http://5.troya.one:34000/ch2032/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoLIOQ6_0dHnzP5Agb0a1BIribmCfd0-IXDVjcwtSCwIv
+#EXTINF:0 tvg-id="Channel9.il" tvg-logo="http://troya.one/images/chIcons/427.png" timeshift="6",Channel 9
+http://5.troya.one:34000/ch427/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoA5lVYIwZekQHiSf2Sfcr2IlOTslsB73MpBcHK7lmb6g
+#EXTINF:0 tvg-id="Channel11.il" tvg-logo="http://troya.one/images/chIcons/428.png" timeshift="6",Channel 11
+http://5.troya.one:34000/ch428/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoO1QjbwUu7-kefyScT9IC2JRejFzXlE9LKNlNY1bSnn8
+#EXTINF:0 tvg-id="Channel12.il" tvg-logo="http://troya.one/images/chIcons/429.png" timeshift="6",Channel 12
+http://5.troya.one:34000/ch429/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoD2oDQsEJyfuHb0om1enN8KWgxh8aRFw5riSWQGOLrxZ
+#EXTINF:0 tvg-id="Channel13.il" tvg-logo="http://troya.one/images/chIcons/430.png" timeshift="6",Channel 13
+http://5.troya.one:34000/ch430/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJR06mwHM70GHzQZBcNfqbEEzDxyWQU-ocdaRgi_s3mz
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1119.png" timeshift="6",Channel 14
+http://5.troya.one:34000/ch1119/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJsTdNh676nBAgdJt205aRqMgqgTshSctiTSIEc9IhZY
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1142.png" timeshift="6",Channel 24
+http://5.troya.one:34000/ch1142/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCFTdSoc6Tl2emU84-gWnIruk5U30x4_4M-g5t4baGq7
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1171.png" timeshift="6",Kan Chinuchit 23
+http://5.troya.one:34000/ch1171/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoEbdjbXaX_oSfEmCTogjyIRmEWFCllFZ5cx04JMaqzxz
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1181.png" timeshift="6",Makan 33 HD
+http://5.troya.one:34000/ch1181/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPmlLh5jy7AAnN1di_9I8ncl2uUSrY_kob3JTF3iehhp
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2824.png" timeshift="0",i24 News
+http://5.troya.one:34000/ch2824/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPKUHJgH2gSFhn5SeukWRwd5EG8wmelLmImuMru3opxZ
+#EXTINF:0 group-title="Israel Tv News" tvg-id="4306" tvg-logo="http://epg.one/img2/4306.png" tvg-rec="0",Knesset Channel IL
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/12269/index.m3u8
+#EXTINF:0 group-title="Israel Tv News" tvg-id="2711" tvg-logo="http://epg.one/img2/2711.png" tvg-rec="3",Kan Elady
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/2380/index.m3u8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2499.png" timeshift="6",Cellcom Israel
+http://5.troya.one:34000/ch2499/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCTZ-0ySrkc8Rvs5c_smsr187ayvKBZCsJBomF4w3h5B
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2495.png" timeshift="6",Cellcom Sratim
+http://5.troya.one:34000/ch2495/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoFfJkOUphlppd5makOEVzF8V68-tV42S-bR92XTU95II
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1194.png" timeshift="6",Cellcom Yeladim
+http://5.troya.one:34000/ch1194/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoIkEnuna5CD3TQP2U41nQjua94sqixFqJ2OeDFoqQQpr
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2639.png" timeshift="6",Cellcom HBO HD
+http://5.troya.one:34000/ch2639/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoLs4rMy0GGXN6CGqk5SeHyv6uGDrp6AVOpvXMqyd7Dmi
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2640.png" timeshift="6",Cellcom Doco HD
+http://5.troya.one:34000/ch2640/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBG4HNaDSgkMRyUfYZb7-K5Njzc7vhdmzg2XuliyoErF
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2539.png" timeshift="6",Free Tv Drama HD
+http://5.troya.one:34000/ch2539/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBlrDrRCYftjMv6jrxJhGPe07-8zF2hxTMwyUT6BYRBN
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2540.png" timeshift="6",Free Tv Comedy HD
+http://5.troya.one:34000/ch2540/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJGqPzx-qDmye6s0AWBPET0o9cmP8Vy_2378osk77Xab
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2541.png" timeshift="6",Free Tv Lifestyle HD
+http://5.troya.one:34000/ch2541/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoKNX1FpWeU19Nhpx8EtJ61_J8cuEp9fe8QCamIbwnyd2
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2542.png" timeshift="6",Free Tv Cooking HD
+http://5.troya.one:34000/ch2542/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBeeXe2djJpiUlqOM-INQEyew4_7up32O_ijNWhcRsRT
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2543.png" timeshift="6",Free Tv Doco HD
+http://5.troya.one:34000/ch2543/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMcUpjDfE3Nhy9oEYqnE8ez6u9YgpPoNTG12sOKouON-
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1183.png" timeshift="0",Free Tv Hatuna HD
+http://5.troya.one:34000/ch1183/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoNF3UmC30iWkBzrZORZq2XjtMWC8x0O6NoNV0YOd18-_
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2086.png" timeshift="0",Free Tv Karaoke HD
+http://5.troya.one:34000/ch2086/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDMcNY2duh9R1cJRMLsHsgfiNVvBGXeYbjCfwBsnQqDe
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2087.png" timeshift="0",Free Tv Kohav Haba HD
+http://5.troya.one:34000/ch2087/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPYGic7orgB322VkEDfxA0b_RnbdNgPXescK5Bc8IyDi
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2533.png" timeshift="6",Free Series Global HD
+http://5.troya.one:34000/ch2533/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoNyOLBnn9VtxShOpy3BfNr7zyeKpygRC9qammRDp28q4
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2537.png" timeshift="6",Free Movies Action HD
+http://5.troya.one:34000/ch2537/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoHzvRUT7oleiiEs9YGjX_cnZiV3ZP1JnKvXf13PisA5O
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1193.png" timeshift="6",Free Movies Comedy HD
+http://5.troya.one:34000/ch1193/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPF1sVJ0O36dgmams9lsIPSmn2zFdcOPZUYqucF5_72m
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2534.png" timeshift="6",Free Movies Drama HD
+http://5.troya.one:34000/ch2534/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoGwHBZLADPOnSVbp-_YYdcxsLPS3iaTo59FLR7231H2Y
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2535.png" timeshift="6",Free Movies Horror HD
+http://5.troya.one:34000/ch2535/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCTOos6MuVagr3i7W-n49KflHsOI00dmaQjN7iQm0CsZ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2536.png" timeshift="6",Free Movies Romantic HD
+http://5.troya.one:34000/ch2536/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoInZ-VBSsFBVmeJqR9yX5hLU1czFa1hxOvo5mzZ-aaA6
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2538.png" timeshift="6",Free Israeli Movies HD
+http://5.troya.one:34000/ch2538/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBveGcaZgzWaNanji2OK42VJIkMKoCtUUGV6ChI1M6df
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2617.png" timeshift="6",Free Movies Family HD
+http://5.troya.one:34000/ch2617/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMIdWdg0AsTUQH8AfD13A-TvJF1UesPL2BjwaYPMoffR
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1161.png" timeshift="6",HOT Cinema 1 HD
+http://5.troya.one:34000/ch1161/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBu5DC_poFocHghZT6M5Mf4PVOSydM1GnI4YLEf8dTXb
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1172.png" timeshift="6",HOT Cinema 2 HD
+http://5.troya.one:34000/ch1172/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoB7-q-SeYWrZ7345commrGgD7EbjSyAFl1TMOzPHrw9l
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1140.png" timeshift="6",HOT Cinema 3 HD
+http://5.troya.one:34000/ch1140/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoB4YOexWq4C6pOxtICFmJlsA7WswTMgK1js5LdiZz5af
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1192.png" timeshift="6",HOT Cinema 4 HD
+http://5.troya.one:34000/ch1192/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoC6bylepA9l4ifUCSQx8Q4PygD6rnLu6IJEi4FnT-HtP
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1133.png" timeshift="6",HOT Cinema Israeli HD
+http://5.troya.one:34000/ch1133/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJD7oH2mEcAQurJcv9uJweJgZzHr2aOp9hBn6NtBGGo7
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1153.png" timeshift="6",HOT Cinema Family HD
+http://5.troya.one:34000/ch1153/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAaShhdXZyJikhM4PfjmpIGEs2qQPIvSKeWzf6qK01Mx
+#EXTINF:0 tvg-id="0" tvg-logo="http://troya.one/images/chIcons/1139.png" timeshift="6",HOT Zone HD
+http://5.troya.one:34000/ch1139/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJSmXTb88u6o_1eZPbXUgYyp5eJMy3bNkqm8zdmuPWBB
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1147.png" timeshift="6",HOT 3 HD
+http://5.troya.one:34000/ch1147/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoLHq53FmLy_bUABgG4g2rDuac97Dzl9kRqGgf_oHT0Ka
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1144.png" timeshift="6",HOT 8 HD
+http://5.troya.one:34000/ch1144/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCUHeNzhdufPp7RjiseAX-EurnoUZH6ewSWUwl9KG2Mj
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1163.png" timeshift="6",HOT Bidur HD
+http://5.troya.one:34000/ch1163/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoA95DMe8DdUCmUmJHRk_63IkrRXRgfFhKx7sq-wpjo_m
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1174.png" timeshift="6",HOT Comedy Central HD
+http://5.troya.one:34000/ch1174/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoC0AQ9xU_YkTnVnBXQ6_DLw3xFupMhT1pDVQKTFqKqGx
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1173.png" timeshift="6",HOT Real HD
+http://5.troya.one:34000/ch1173/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBUqn6AEfumy3St4mX-_7Yq1Jk_vmTgyaxwJ5F-cXftP
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2613.png" timeshift="6",HOT Senior HD
+http://5.troya.one:34000/ch2613/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoNtGpYor_JEnXkOqK012dVrGOkOSM1iPis4X2HmsuuTR
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2614.png" timeshift="6",HOT Buzz HD
+http://5.troya.one:34000/ch2614/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDw5d6c60kTOZA9s3ULQC1sCRx8DYsqnu-inUPE0OTqc
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1175.png" timeshift="6",HOT HBO HD
+http://5.troya.one:34000/ch1175/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMOWRVfTLg66caPIj7b44Sp14NldAlw2zF2ndz98pSuR
+#EXTINF:0 group-title="Hot Tv" tvg-id="2710" tvg-logo="http://epg.one/img2/2710.png" tvg-rec="0",HOT ENTERTAINMENT HD IL
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/12219/index.m3u8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1148.png" timeshift="6",YES Movies Action HD
+http://5.troya.one:34000/ch1148/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoATBsWev5IfzHmN0S7os5W9-BzEBEfdrKM5K37fOhDXX
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1149.png" timeshift="6",YES Movies Comedy HD
+http://5.troya.one:34000/ch1149/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBC0IluPhcno2QGM1TtqJRP1Wr_Q18GLrhz_OTH8L2xw
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1150.png" timeshift="6",YES Movies Drama HD
+http://5.troya.one:34000/ch1150/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPvxK_QTY4oXquiU5upJ9LvfHTgXstGEGa8Q__b4B-UG
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1151.png" timeshift="6",YES Movies Kids HD
+http://5.troya.one:34000/ch1151/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoEEM8zQjJzx-KnQ65-eLYesjK8hk4GHpp94LfYtNi1zL
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1159.png" timeshift="6",YES TV Comedy HD
+http://5.troya.one:34000/ch1159/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJXK8Qq-ZN151hb81_MGBEgBicw4IgcWmsS3Sz8TU7hz
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1158.png" timeshift="6",YES TV Action HD
+http://5.troya.one:34000/ch1158/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoOOGRVs39AATinIr9yGuHa-ySXUk6kpBV-jFj3CYAcqc
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1160.png" timeshift="6",YES TV Drama HD
+http://5.troya.one:34000/ch1160/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMBc01ru9z6fR4vh14moInfsdyzExtoO-2_Qh-eYR0y_
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1137.png" timeshift="6",YES Docu HD
+http://5.troya.one:34000/ch1137/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBipuWhhQ91bxWSy_qxPX6cTs_qljcnB6xQ6Dzs1tFKU
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2030.png" timeshift="6",YES Israeli Cinema HD
+http://5.troya.one:34000/ch2030/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoHKvvJqR4K1EyYiCt-BCf8aaN4akqHg6Cgq3J37TD72w
+#EXTM3U
+#EXTINF:0 group-title="Yes Tv" tvg-id="2967" tvg-logo="http://epg.one/img2/2967.png" tvg-rec="0",YES MOVIES KIDS HD
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/12273/index.m3u8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2496.png" timeshift="6",Eurosport 1 HD
+http://5.troya.one:34000/ch2496/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoF36pls3D8tTFhkxMgXSKiyVSh9GAPlBhb3DsVCGvNJo
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2497.png" timeshift="6",Eurosport 2 HD
+http://5.troya.one:34000/ch2497/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPVUj4J5j3FHIM1Bcu-AAVEuAFeJK1ZuO6gwx0KInkTW
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2615.png" timeshift="6",Extreme Sports
+http://5.troya.one:34000/ch2615/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCK7mOrhIImwF_Z4m8K1v6aoNTXUi5giddAsUjjdT11y
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1186.png" timeshift="6",ONE 1 HD
+http://5.troya.one:34000/ch1186/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAufWHwMxsdyqqeZ_4YfHHF-h7sxTnxwsavZjKgfVGOC
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1145.png" timeshift="6",ONE 2 HD
+http://5.troya.one:34000/ch1145/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoB9rn9VxSo3pi-nlEmrqTjhRbELtL1cH7RZY4CAes_yT
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1128.png" timeshift="6",Sport 1 FHD
+http://5.troya.one:34000/ch1128/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoFNdTnV5UbeiHC_ylbyMO35BT4LkQ4QS3SVaw3cO-lzw
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1129.png" timeshift="6",Sport 2 FHD
+http://5.troya.one:34000/ch1129/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDxHVmpyoh5H-dwcrYqGEHkJyrftDo-Abp4-q5FxWvHQ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1130.png" timeshift="6",Sport 3 FHD
+http://5.troya.one:34000/ch1130/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoHUOqjg2jVs3Co-yYG1NvUNLZ_whegpqxQaTazeCBWKi
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1131.png" timeshift="6",Sport 4 FHD
+http://5.troya.one:34000/ch1131/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoB1Qjna5t1DGY-YBJTNae7_NdsHfKrUUb9mDM0aUNAxl
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1132.png" timeshift="6",Sport 5
+http://5.troya.one:34000/ch1132/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoFmlektzwGRSRwpWVk2RdLnjaPbwAeWPOT7Xt4h0EiPv
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2211.png" timeshift="0",Sport 5 4K
+http://5.troya.one:34000/ch2211/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoC4Hha40KYma5wNCHVhdmKo_iRPqARCynentXd-qBzQO
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1155.png" timeshift="6",Sport 5 Livе
+http://5.troya.one:34000/ch1155/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoA6sVFN4k1tA0S1cjqgnEPZXF01w8JNyhlhyhJToOd23
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1134.png" timeshift="6",Sport 5 Plus
+http://5.troya.one:34000/ch1134/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJXJZPR6k3m-7JpZ34dQafoduxqDjdIYXjPm1JKnrOqZ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1135.png" timeshift="6",Sport 5 Gold
+http://5.troya.one:34000/ch1135/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoOY-TOFL5HD4pwB5z0X5A-0xurrxCyr9-JYnicCVJkdm
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1156.png" timeshift="6",Sport 5 Stars
+http://5.troya.one:34000/ch1156/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAo-SWVTGJfSz6HgmqFFFBCgh534w5p2x24D5rNuFBD3
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2618.png" timeshift="0",Sport TO GO 1
+http://5.troya.one:34000/ch2618/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoOCuN__xCJfugXrC8nW70CBLXAJCMdEm9zSLHsHfUudW
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2619.png" timeshift="0",Sport TO GO 2
+http://5.troya.one:34000/ch2619/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDIlRs0g3qwJZ-iPecc2Qqu_FSbn7OsTpV5iKOadPsEX
