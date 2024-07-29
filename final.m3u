@@ -151,3 +151,97 @@ http://5.troya.one:34000/ch1156/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAo-S
 http://5.troya.one:34000/ch2618/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoOCuN__xCJfugXrC8nW70CBLXAJCMdEm9zSLHsHfUudW
 #EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2619.png" timeshift="0",Sport TO GO 2
 http://5.troya.one:34000/ch2619/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDIlRs0g3qwJZ-iPecc2Qqu_FSbn7OsTpV5iKOadPsEX
+#EXTINF:0 tvg-id="Disney.il" tvg-logo="http://troya.one/images/chIcons/1121.png" timeshift="6",Disney Channel HD
+http://5.troya.one:34000/ch1121/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPu2YM7Y6-wAAghzQIlZgwLYwbWQRBeflhZwMtDfE0qb
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1162.png" timeshift="0",Disney Jr.
+http://5.troya.one:34000/ch1162/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDVxgvF_3qamZbSIW05rFIRTR_48OQoW2vd87CIrbXFo
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1154.png" timeshift="6",Hop
+http://5.troya.one:34000/ch1154/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoGbayasuRJX_vQKwMhK6dkb6-dnvUqeEYMwtQWXHBsvG
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1184.png" timeshift="6",Junior
+http://5.troya.one:34000/ch1184/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoL7u6mhutLOVQRnfghMR8Vc7oCeIzRBNF4lsy-uNUa00
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2645.png" timeshift="6",Jim Jam
+http://5.troya.one:34000/ch2645/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoG6SHEt73s8YJngFuVHmM-3zRP5w0F0IJ-Xg2PBhTVVO
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1170.png" timeshift="6",Luli
+http://5.troya.one:34000/ch1170/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBwyas5zCWzMTN50l4Q-LBaJmqCVkligRFytoBTxjoF3
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2626.png" timeshift="6",Logi
+http://5.troya.one:34000/ch2626/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoELW8IXvSmPaTVJty6EuOclMQXJMAvdMQS0ulEZkn0wT
+#EXTINF:0 tvg-id="Nickelodeon.il" tvg-logo="http://troya.one/images/chIcons/1185.png" timeshift="6",Nick HD
+http://5.troya.one:34000/ch1185/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoJirHt1aWsJQBziqMH8y3RNaAAZa5iuNWqmiifMZcw_e
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2637.png" timeshift="6",Nick Jr HD
+http://5.troya.one:34000/ch2637/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoPg4XkSr8FkiVv46GuwVgoyZLfzsdSKTJStdIFobXmcB
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2500.png" timeshift="6",TeenNick
+http://5.troya.one:34000/ch2500/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoGwT-V5o3BYpqRl3cyCspYwXSkGG1eERZO1ssJvYa-8D
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2031.png" timeshift="6",Wiz
+http://5.troya.one:34000/ch2031/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDZsjaF9Vt2zZe-B0n9ZrItjqk_z04cQun5GJ_GMWcG2
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2643.png" timeshift="6",Zoom
+http://5.troya.one:34000/ch2643/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMEvLJOwHYRAcuxy9_-_JkCtl2eNN7Jj0o3RaodSapA_
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2644.png" timeshift="6",Zoom Toon HD
+http://5.troya.one:34000/ch2644/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoIhS1vB33TJngiIKJa5XBg_mxDuqLSnRhy1cqLjXh1WC
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2646.png" timeshift="6",Yalduti
+http://5.troya.one:34000/ch2646/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoDm4yICDLm--M5DxHeYyKfgsvH4l2IVXxgPBFlwzqcYT
+#EXTINF:0 group-title="ילדים" tvg-id="4003" tvg-logo="http://epg.one/img2/4003.png" tvg-rec="3",Kids IL
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/2365/index.m3u8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2498.png" timeshift="3",Ego Total
+http://5.troya.one:34000/ch2498/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAvB3llZbr3y5ii0jEQ3PQK7_LkC-y0759IHUbWJoMr5
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2629.png" timeshift="6",Edge Sport HD
+http://5.troya.one:34000/ch2629/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBW715N8Pq4n6ZPi87jMYAkmWLzBVUdNZCMXaAHch6c-
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2544.png" timeshift="6",Erez Nehederet HD
+http://5.troya.one:34000/ch2544/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoCeKaCWugngOHRfciG0zpZXIR9V8AUh8MPe0hUsBfNJR
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1124.png" timeshift="6",Food Channel HD
+http://5.troya.one:34000/ch1124/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoLtP19qZ5_qNio0UIw2--ZHwjAB1HG7gWOlhBIBRkG5I
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2630.png" timeshift="6",Foody HD
+http://5.troya.one:34000/ch2630/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBy8ChngbI5s7PV6-2NORcp-zPo1kom4qevxFQxndCvS
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2627.png" timeshift="6",Fomo
+http://5.troya.one:34000/ch2627/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoHW3aFnL85kGV4OG2MG6NjCl3OcwZPVhFFdPlv2TvKBY
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2642.png" timeshift="0",Fashion
+http://5.troya.one:34000/ch2642/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoEfd681IRsdPCAqjNXXKQVuD1qs7dKFBjxNhaGYDt3sB
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1141.png" timeshift="6",Good Life TV HD
+http://5.troya.one:34000/ch1141/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoAKS8qjqMMO4bRTw17lyjYU7xIXCpGRT-eHfzZcAZ7jg
+#EXTINF:0 tvg-id="HistoryChannel.il" tvg-logo="http://troya.one/images/chIcons/1143.png" timeshift="6",History HD
+http://5.troya.one:34000/ch1143/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoFixqHNvLFAgiQ7w6Fpc1n_G7Kg3S7wdqBAg6hSnVFav
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1176.png" timeshift="6",Health Channel HD
+http://5.troya.one:34000/ch1176/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoH6SKNVSYnnyw-VNzkS2E446eNtOu1BWcxurlAzKYIuj
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1178.png" timeshift="6",Humor Channel
+http://5.troya.one:34000/ch1178/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoBcE35HAzj-OJWaNHWR8QEUOC6nGBxcit26-uKjy_nmJ
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2631.png" timeshift="6",Home Plus
+http://5.troya.one:34000/ch2631/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoFJrQ-i5OnARYItugHqszWseVtveucGoiPMJiK5tddaT
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2623.png" timeshift="6",MTV HD
+http://5.troya.one:34000/ch2623/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMEYRdEGDIUNgrIVerKXGf5ZXCEkRHPUVJgPXcjdnUj8
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2545.png" timeshift="6",Savri HD
+http://5.troya.one:34000/ch2545/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMXBd7ZOSSjT0vdXa7pVDhC3gP9QX2EJdRyh7314LsiU
+#EXTINF:0 group-title="בידור" tvg-id="4029" tvg-logo="http://epg.one/img2/4029.png" tvg-rec="0",LIFETIME HD
+http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/12224/index.m3u8
+#EXTINF:-1,Partner TV Bollyshow
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212312
+#EXTINF:-1,Partner TV Bollywood HD
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212311
+#EXTINF:-1,Partner Entertainment
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212302
+#EXTINF:-1,Partner TV 5 GOLD
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212316
+#EXTINF:-1,Partner TV 5 LIVE HD
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212317
+#EXTINF:-1,Partner TV 5 PLUS
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212315
+#EXTINF:-1,Partner TV 24
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212333
+#EXTINF:-1,Partner TV A+
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212330
+#EXTINF:-1,Partner TV Baby
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212325
+#EXTINF:-1,Partner TV Childish
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212327
+#EXTINF:-1,Partner TV Childish Songs
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212329
+#EXTINF:-1,Partner TV CH Kids
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212328
+#EXTINF:-1,Partner TV Comdey Classic
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212299
+#EXTINF:-1,Partner TV Israel
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212295
+#EXTINF:-1,Partner TV Kids
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212298
+#EXTINF:-1,Partner TV NetFlix
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212300
+#EXTINF:-1,Partner TV Shopping
+http://lite1kh.com:7070/9ab382160873/fzqay4tt/212321
