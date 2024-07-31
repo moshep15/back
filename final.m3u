@@ -484,3 +484,297 @@ http://5.troya.one:34000/ch2623/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMEYR
 http://5.troya.one:34000/ch2545/mono.m3u8?token=rl_wt1.0pXOwrCv2B8eveETNolOoMXBd7ZOSSjT0vdXa7pVDhC3gP9QX2EJdRyh7314LsiU
 #EXTINF:0 group-title="בידור" tvg-id="4029" tvg-logo="http://epg.one/img2/4029.png" tvg-rec="0",LIFETIME HD
 http://rhsbjv7k.tvclub.xyz/iptv/Q3NWVFLXV7U6ZB/12224/index.m3u8
+#EXTINF:0,KAN 11 HD [IL]
+http://nl01.spr24.net/20475/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,KAN 11 [IL]
+http://nl01.spr24.net/20473/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Keshet 12 HD [IL]
+http://nl01.spr24.net/20477/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Keshet 12 [IL]
+http://nl01.spr24.net/20470/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Reshet 13 HD [IL]
+http://nl01.spr24.net/20479/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Reshet 13 [IL]
+http://nl01.spr24.net/20471/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 9 HD [IL]
+http://nl01.spr24.net/21547/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 9 [IL]
+http://nl01.spr24.net/20472/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 98 [IL]
+http://nl01.spr24.net/21541/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 14 HD [IL]
+http://nl01.spr24.net/21600/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 14 [IL]
+http://nl01.spr24.net/21557/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Knesset [IL]
+http://nl01.spr24.net/21610/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,I24 News [IL]
+http://nl01.spr24.net/21562/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,KAN23 [IL]
+http://nl01.spr24.net/21554/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,E! [IL]
+http://nl01.spr24.net/20478/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT BollyShow [IL]
+http://nl01.spr24.net/21560/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Entertainment HD [IL]
+http://nl01.spr24.net/21564/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Entertainment [IL]
+http://nl01.spr24.net/21553/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Mediterranean HD [IL]
+http://nl01.spr24.net/21570/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Mediterranean [IL]
+http://nl01.spr24.net/21571/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Mediterranean+ HD [IL]
+http://nl01.spr24.net/21572/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Mediterranean+ [IL]
+http://nl01.spr24.net/21573/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 24 HD [IL]
+http://nl01.spr24.net/21574/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Channel 24 [IL]
+http://nl01.spr24.net/21575/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Zone HD [IL]
+http://nl01.spr24.net/21529/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Zone [IL]
+http://nl01.spr24.net/21602/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT3 HD [IL]
+http://nl01.spr24.net/21537/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT3 [IL]
+http://nl01.spr24.net/20488/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT8 HD [IL]
+http://nl01.spr24.net/20489/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT8 [IL]
+http://nl01.spr24.net/20490/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 1 HD [IL]
+http://nl01.spr24.net/20482/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 1 [IL]
+http://nl01.spr24.net/21526/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 2 HD [IL]
+http://nl01.spr24.net/20483/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 2 [IL]
+http://nl01.spr24.net/21544/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 3 HD [IL]
+http://nl01.spr24.net/20484/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 3 [IL]
+http://nl01.spr24.net/21545/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 4 HD [IL]
+http://nl01.spr24.net/20485/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 4 [IL]
+http://nl01.spr24.net/21525/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 1 HD RUS [IL]
+http://nl01.spr24.net/21628/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 2 HD RUS [IL]
+http://nl01.spr24.net/21629/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 3 HD RUS [IL]
+http://nl01.spr24.net/21630/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema 4 HD RUS [IL]
+http://nl01.spr24.net/21631/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT HBO HD [IL]
+http://nl01.spr24.net/20486/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Comedy HD [IL]
+http://nl01.spr24.net/21596/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema Family HD [IL]
+http://nl01.spr24.net/21597/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Cinema Israeli [IL]
+http://nl01.spr24.net/21632/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Real HD [IL]
+http://nl01.spr24.net/21592/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Real [IL]
+http://nl01.spr24.net/21593/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT Senior HD [IL]
+http://nl01.spr24.net/21615/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOT buzz [IL]
+http://nl01.spr24.net/21618/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Ego Total [IL]
+http://nl01.spr24.net/21550/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,FOMO [IL]
+http://nl01.spr24.net/21626/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOP [IL]
+http://nl01.spr24.net/21502/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,HOP Israeli childhood [IL]
+http://nl01.spr24.net/21559/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Yoyo [IL]
+http://nl01.spr24.net/21644/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Baby [IL]
+http://nl01.spr24.net/21542/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Disney [IL]
+http://nl01.spr24.net/21598/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Disney Jr [IL]
+http://nl01.spr24.net/20474/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Junior [IL]
+http://nl01.spr24.net/21536/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Luli [IL]
+http://nl01.spr24.net/21534/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Nickelodeon [IL]
+http://nl01.spr24.net/21599/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Nick Jr [IL]
+http://nl01.spr24.net/21501/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,TeenNick [IL]
+http://nl01.spr24.net/20476/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Star channel [IL]
+http://nl01.spr24.net/21643/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ZOOM [IL]
+http://nl01.spr24.net/21528/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ZOOM TOON [IL]
+http://nl01.spr24.net/21645/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ONE HD [IL]
+http://nl01.spr24.net/21506/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ONE2 HD [IL]
+http://nl01.spr24.net/21971/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ONE2  [IL]
+http://nl01.spr24.net/21972/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ONE DOCO HD [IL]
+http://nl01.spr24.net/21622/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport EDGE HD [IL]
+http://nl01.spr24.net/21621/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 1 HD [IL]
+http://nl01.spr24.net/21522/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 2 HD [IL]
+http://nl01.spr24.net/21521/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 3 HD [IL]
+http://nl01.spr24.net/21565/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 4 HD [IL]
+http://nl01.spr24.net/21566/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5 HD [IL]
+http://nl01.spr24.net/21569/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5+ HD [IL]
+http://nl01.spr24.net/21508/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5 Stars HD [IL]
+http://nl01.spr24.net/21507/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5 Live HD [IL]
+http://nl01.spr24.net/21531/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5 GOLD [IL]
+http://nl01.spr24.net/21620/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Sport 5 4K [IL]
+http://nl01.spr24.net/21603/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,EUROSPORT [IL]
+http://nl01.spr24.net/21623/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,EUROSPORT 2 [IL]
+http://nl01.spr24.net/21624/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV ACTION HD [IL]
+http://nl01.spr24.net/21513/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV COMEDY HD [IL]
+http://nl01.spr24.net/20481/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Docu HD [IL]
+http://nl01.spr24.net/21584/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Docu [IL]
+http://nl01.spr24.net/21585/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies KIDS HD [IL]
+http://nl01.spr24.net/21516/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies COMEDY HD [IL]
+http://nl01.spr24.net/21515/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies ACTION HD [IL]
+http://nl01.spr24.net/21517/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies DRAMA HD [IL]
+http://nl01.spr24.net/20480/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV DRAMA HD [IL]
+http://nl01.spr24.net/21510/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Israeli HD [IL]
+http://nl01.spr24.net/21627/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Israeli [IL]
+http://nl01.spr24.net/21509/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV ACTION HD RUS [IL]
+http://nl01.spr24.net/21634/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV COMEDY HD RUS [IL]
+http://nl01.spr24.net/21635/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Docu HD RUS [IL]
+http://nl01.spr24.net/21636/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies KIDS HD RUS [IL]
+http://nl01.spr24.net/21637/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies COMEDY RUS [IL]
+http://nl01.spr24.net/21638/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies ACTION HD RUS [IL]
+http://nl01.spr24.net/21639/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Movies DRAMA HD RUS [IL]
+http://nl01.spr24.net/21640/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES Israeli HD RUS [IL]
+http://nl01.spr24.net/21641/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,YES TV DRAMA HD RUS [IL]
+http://nl01.spr24.net/21642/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Mediterranean [IL]
+http://nl01.spr24.net/21567/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Viva [IL]
+http://nl01.spr24.net/21563/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Viva Plus [IL]
+http://nl01.spr24.net/21556/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Viva Vintage [IL]
+http://nl01.spr24.net/21558/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Viva Premium HD [IL]
+http://nl01.spr24.net/20487/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,And Amos [IL]
+http://nl01.spr24.net/21633/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Bollywood HD [IL]
+http://nl01.spr24.net/21549/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Bollywood [IL]
+http://nl01.spr24.net/21601/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Turkish Dramas Plus HD [IL]
+http://nl01.spr24.net/21533/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Turkish Dramas Plus [IL]
+http://nl01.spr24.net/21532/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Turkish Dramas 2 HD [IL]
+http://nl01.spr24.net/21538/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Turkish Dramas 2 [IL]
+http://nl01.spr24.net/21539/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Turkish Dramas 3 HD [IL]
+http://nl01.spr24.net/21540/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,CBS reality [IL]
+http://nl01.spr24.net/21568/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Reality Channel [IL]
+http://nl01.spr24.net/21617/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,MTV [IL]
+http://nl01.spr24.net/21605/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Music Channel [IL]
+http://nl01.spr24.net/21505/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Mikan 33 [IL]
+http://nl01.spr24.net/21543/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Kan Educational HD [IL]
+http://nl01.spr24.net/21611/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Nat Geo Wild HD [IL]
+http://nl01.spr24.net/21576/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Nat Geo Wild [IL]
+http://nl01.spr24.net/21577/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,National Geographic HD [IL]
+http://nl01.spr24.net/21578/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,National Geographic [IL]
+http://nl01.spr24.net/21579/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Discovery HD [IL]
+http://nl01.spr24.net/21527/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Animal Planet [IL]
+http://nl01.spr24.net/21646/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,History [IL]
+http://nl01.spr24.net/21582/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Travel Channel [IL]
+http://nl01.spr24.net/21583/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Home Plus [IL]
+http://nl01.spr24.net/21586/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Food Network HD [IL]
+http://nl01.spr24.net/21587/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,The Food Channel [IL]
+http://nl01.spr24.net/21606/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Foody HD [IL]
+http://nl01.spr24.net/21589/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Health channel [IL]
+http://nl01.spr24.net/21590/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Good Life [IL]
+http://nl01.spr24.net/21591/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Entertainment channel [IL]
+http://nl01.spr24.net/21616/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Humor Channel HD [IL]
+http://nl01.spr24.net/21594/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Humor Channel [IL]
+http://nl01.spr24.net/21595/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Israeli Fashion [IL]
+http://nl01.spr24.net/21604/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Kabbalah channel [IL]
+http://nl01.spr24.net/21607/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Extreme Sports [IL]
+http://nl01.spr24.net/21608/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,IETV [IL]
+http://nl01.spr24.net/21609/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,ZEE TV [IL]
+http://nl01.spr24.net/21612/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Now 14 HD [IL]
+http://nl01.spr24.net/21613/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Shopping channel [IL]
+http://nl01.spr24.net/21614/mpegts?token=3NdWWv7ZZTRfcL
+#EXTINF:0,Holiday channel [IL]
+http://nl01.spr24.net/21648/mpegts?token=3NdWWv7ZZTRfcL
