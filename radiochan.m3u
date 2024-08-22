@@ -1,0 +1,85 @@
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glglz.jpg" radio="true",גלגל"צ
+plugin://plugin.video.idanplus/?mode=5&url=rd_glglz
+ 
+#EXTINF:-1 tvg-id="88" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/88.png" radio="true",כאן 88
+plugin://plugin.video.idanplus/?mode=5&url=rd_88
+ 
+#EXTINF:-1 tvg-id="90fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/90fm.jpg" radio="true",90FM רדיו
+plugin://plugin.video.idanplus/?mode=5&url=rd_90
+ 
+#EXTINF:-1 tvg-id="97fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" radio="true",97FM רדיו דרום
+plugin://plugin.video.idanplus/?mode=5&url=rd_97
+  
+#EXTINF:-1 tvg-id="1015fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1015fm.jpg" radio="true",101 5FM רדיו דרום
+plugin://plugin.video.idanplus/?mode=5&url=rd_1015
+ 
+#EXTINF:-1 tvg-id="102fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fm.jpg" radio="true",102FM רדיו תל אביב
+plugin://plugin.video.idanplus/?mode=5&url=rd_102
+ 
+#EXTINF:-1 tvg-id="102fmEilat" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fmEilat.jpg" radio="true",102FM קול הים האדום
+plugin://plugin.video.idanplus/?mode=5&url=rd_102Eilat
+ 
+#EXTINF:-1 tvg-id="103fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/103fm.png" radio="true",103FM רדיו ללא הפסקה
+plugin://plugin.video.idanplus/?mode=5&url=rd_103
+  
+#EXTINF:-1 tvg-id="1075fm" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1075fm.jpg" radio="true",107.5FM רדיו חיפה
+plugin://plugin.video.idanplus/?mode=5&url=rd_1075
+ 
+#EXTINF:-1 tvg-id="glz" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glz.jpg" radio="true",גלי צה"ל
+plugin://plugin.video.idanplus/?mode=5&url=rd_glz
+ 
+#EXTINF:-1 tvg-id="bet" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bet.png" radio="true",כאן ב
+plugin://plugin.video.idanplus/?mode=5&url=rd_bet
+ 
+#EXTINF:-1 tvg-id="gimel" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gimel.png" radio="true",כאן גימל
+plugin://plugin.video.idanplus/?mode=5&url=rd_gimel
+ 
+#EXTINF:-1 tvg-id="gimel" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/culture.png" radio="true",כאן תרבות
+plugin://plugin.video.idanplus/?mode=5&url=rd_culture
+ 
+#EXTINF:-1 tvg-id="music" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/music.png" radio="true",כאן קול המוזיקה
+plugin://plugin.video.idanplus/?mode=5&url=rd_music
+ 
+#EXTINF:-1 tvg-id="moreshet" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/moreshet.png" radio="true",כאן מורשת
+plugin://plugin.video.idanplus/?mode=5&url=rd_moreshet
+ 
+#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/nos.png" radio="true",כאן נוסטלגי
+plugin://plugin.video.idanplus/?mode=5&url=rd_nos
+ 
+#EXTINF:-1 tvg-id="" group-title="Radio" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/oriental.png" radio="true",כאן ים התיכוני
+plugin://plugin.video.idanplus/?mode=5&url=rd_oriental
+  
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="https://iphone-image.apkpure.com/v2/app/7/d/3/7d3b06dc43be17038de143d6fe0b3481.jpg" radio="true",91FM לב המדינה
+http://213.8.143.168/91fmAudio
+ 
+#EXTINF:-1 tvg-id="92.1FM רדיו קול ברמה" tvg-name="92.1FM_רדיו_קול_ברמה" group-title="Radio From Israel - רדיו" tvg-logo="http://images.globes.co.il/Images/NewGlobes/big_image/2011/kol-barama_logo_blue-1[6.jpg" radio="true",92 1FM רדיו קול ברמה
+http://server1.live1.co.il:8004/livemp3
+
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="http://www.93fm.co.il/wp-content/uploads/2016/08/%D7%9C%D7%95%D7%92%D7%95.png" radio="true",93FM רדיו קול חי
+http://switch2-streaming-212-83-eu.ilcast.com:8000
+ 
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="http://www.96fm.co.il/images/top_logo.gif" radio="true",96FM רדיו קול רגע
+http://radio.96fm.co.il/96fm
+ 
+#EXTINF:-1 tvg-id="gimel" group-title="Radio" tvg-logo="http://www.1045.fm/images/1045-logo-sml.png" radio="true",צפון ללא הפסקה 104.5FM
+http://1045fm.cdnwz.net/1045fm
+
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/o8Oo8nLTb4v26hvLd7T4sSSwPAnPqogoP2BeCHIO.png" radio="true",106FM קול רמלה
+http://84.94.229.99:5693/
+ 
+#EXTINF:-1 tvg-id="רדיו ביט" group-title="Radio" tvg-logo="http://www.radio-beat.com/images/beatlogo.png" radio="true",רדיו ביט
+http://live.radio-beat.com/stream1
+  
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="http://moty125.myftp.org/Images/RadiosLogos/fOwxHjiY3iabLtpuRJ0SNCvk58L1nFLesLcIYKUk.jpeg" radio="true",רדיו יאסו
+http://radio-yasoo.ath.cx:7500/
+
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/B0wClTMnK39ukDa49j3CwbfF4jsViDKilXTWRTsl.png" radio="true",גלגלצ מזרחית
+https://glzwizzlv.bynetcdn.com/glglz_med_mp3
+
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="https://mizrahit.fm/wp-content/uploads/2019/04/logo.png" radio="true",רדיו נושמים מזרחית
+https://rs.mizrahit.fm:7777/;
+
+#EXTINF:-1 tvg-id="glglz" group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/345.v4.png"radio="true",New Rock
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rock_256.mp3
+playlist
+ # EXTM3U
