@@ -1,0 +1,64 @@
+                          
+#EXTM3U
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="TV",כאן 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1b/Kan11Colour.svg/250px-Kan11Colour.svg.png", כאן 11
+plugin://plugin.video.idanplus/?mode=5&url=ch_11c
+
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="TV",קשת 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1723136665~acl=%2f*~data=hdntl~hmac=8a3ab6b5fad3adc07cc5d6a64483e2d56bc7a4510c727c0b68cb9e1dee4f83f0/profileManifest.m3u8?_uid=78b173f8-eba6-4cd2-8e9b-04190d30ab58&rK=a1&_did=d7b00fd6-098e-49dd-8a5f-87d35678d1cd
+
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="TV",קשת 12
+https://pwultrp.alwaysdata.net/kccsub.php?m3u8
+
+#EXTINF:-1 tvg-id="12" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/2f/Keshet12channelbug.svg/240px-Keshet12channelbug.svg.png",קשת 12
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/5a/Ch13logo.svg/1200px-Ch13logo.svg.png",רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/5a/Ch13logo.svg/1200px-Ch13logo.svg.png",רשת 13
+"https://webhdrunns.mizhls.ru/lb/premium551/index.m3u8
+
+#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/5a/Ch13logo.svg/1200px-Ch13logo.svg.png",רשת 13
+http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
+
+#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/5a/Ch13logo.svg/1200px-Ch13logo.svg.png",רשת 13
+http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+
+#EXTINF:-1 tvg-id="13" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/5a/Ch13logo.svg/1200px-Ch13logo.svg.png",רשת 13
+plugin://plugin.video.idanplus/?mode=5&url=ch_13b
+
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="TV", רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="TV",ערוץ 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="IL: i24 News"   tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="Israel",i24 hebrew
+https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/c/c6/Musika24.svg/240px-Musika24.svg.png",ערוץ 24 החדש
+plugin://plugin.video.idanplus/?mode=5&url=ch_24
+
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="TV",רלוונט טיוי
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="TV",רלוונט טיוי מקור 2
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",group-title="ישראל",[COLOR yellow] האח הגדול[/COLOR]
+plugin://plugin.video.idanplus/?mode=5&url=ch_bbb
+
+#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",group-title="ישראל",[COLOR yellow] האח הגדול מקור 2[/COLOR]
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg",group-title="ישראל",[COLOR yellow] האח הגדול מקור 2[/COLOR]
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xbw2/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-logo="http://pl.ottglanz.tv/icon/6998.png",Channel 9 IL
+http://c5be2b44.cbilant.com/iptv/S9T3WKW288ZC3C/2374/index.m3u8
+
+#EXTINF:-1 tvg-id="Hidabroot.il" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="TV",הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
