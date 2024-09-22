@@ -88,3 +88,509 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNT
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDMxIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM1Mi9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0 tvg-chno="406" CUID="432" number="449" tvg-id="iz_:IL: Channel 14" tvg-name="iz_:IL: Channel 14" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Израиль 14 сер.png" group-title="ISRAEL",Израиль 14 HD
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDMyIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM0OS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0   tvg-chno="1" CUID="2496" tvg-name="IL- 11 KAN FHD" tvg-id="kan.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kan11.png" group-title="IS- GENERAL | כללי",IL- 11 KAN FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6268.ts
+#EXTINF:0   tvg-chno="2" CUID="2497" tvg-name="IL- 11 KAN HD" tvg-id="kan.il" group-title="IS- GENERAL | כללי",IL- 11 KAN HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6269.ts
+#EXTINF:0   tvg-chno="3" CUID="2498" tvg-name="IL- MAKAN HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/makan.png" group-title="IS- GENERAL | כללי",IL- MAKAN HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6270.ts
+#EXTINF:0   tvg-chno="4" CUID="2499" tvg-name="IL- MAKAN" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/makan.png" group-title="IS- GENERAL | כללי",IL- MAKAN
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6271.ts
+#EXTINF:0   tvg-chno="5" CUID="2500" tvg-name="IL- CHANNEL 9 FHD" tvg-id="channel9.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/channel%209.jpg" group-title="IS- GENERAL | כללי",IL- CHANNEL 9 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6272.ts
+#EXTINF:0   tvg-chno="6" CUID="2501" tvg-name="IL- CHANNEL 9" tvg-id="channel9.il" group-title="IS- GENERAL | כללי",IL- CHANNEL 9
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6273.ts
+#EXTINF:0   tvg-chno="7" CUID="2502" tvg-name="IL- CHANNEL 12 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CHANNEL-12-IL.png" group-title="IS- GENERAL | כללי",IL- CHANNEL 12 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6274.ts
+#EXTINF:0   tvg-chno="8" CUID="2503" tvg-name="IL- CHANNEL 12 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CHANNEL-12-IL.png" group-title="IS- GENERAL | כללי",IL- CHANNEL 12 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6275.ts
+#EXTINF:0   tvg-chno="9" CUID="2504" tvg-name="IL- CHANNEL 13 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/channel13.png" group-title="IS- GENERAL | כללי",IL- CHANNEL 13 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6276.ts
+#EXTINF:0   tvg-chno="10" CUID="2505" tvg-name="IL- CHANNEL 13 HD" group-title="IS- GENERAL | כללי",IL- CHANNEL 13 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6277.ts
+#EXTINF:0   tvg-chno="11" CUID="2506" tvg-name="IL- CHANNEL 14 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/channel%2014%20(13).png" group-title="IS- GENERAL | כללי",IL- CHANNEL 14 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6278.ts
+#EXTINF:0   tvg-chno="12" CUID="2507" tvg-name="IL- CHANNEL 20" tvg-id="channel20.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/channel20.png" group-title="IS- GENERAL | כללי",IL- CHANNEL 20
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6279.ts
+#EXTINF:0   tvg-chno="13" CUID="2508" tvg-name="IL- CHANNEL 23 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CHANNEL-23.png" group-title="IS- GENERAL | כללי",IL- CHANNEL 23 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6280.ts
+#EXTINF:0   tvg-chno="14" CUID="2509" tvg-name="IL- CHANNEL 24 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CHANNEL-24-IL.jpg" group-title="IS- GENERAL | כללי",IL- CHANNEL 24 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6281.ts
+#EXTINF:0   tvg-chno="15" CUID="2510" tvg-name="IL- CHANNEL 24" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CHANNEL-24-IL.jpg" group-title="IS- GENERAL | כללי",IL- CHANNEL 24
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6282.ts
+#EXTINF:0   tvg-chno="16" CUID="2511" tvg-name="IL- YAM TIHONI" group-title="IS- GENERAL | כללי",IL- YAM TIHONI
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6283.ts
+#EXTINF:0   tvg-chno="17" CUID="2512" tvg-name="IL- KAN33" tvg-id="kan.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KAN-33.png" group-title="IS- GENERAL | כללי",IL- KAN33
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6284.ts
+#EXTINF:0   tvg-chno="18" CUID="2513" tvg-name="IL- I24 NEWS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/i24news.png" group-title="IS- GENERAL | כללי",IL- I24 NEWS HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6285.ts
+#EXTINF:0   tvg-chno="19" CUID="2514" tvg-name="IL- BIG BROTHER 26" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BIG-BROTHER.jpg" group-title="IS- GENERAL | כללי",IL- BIG BROTHER 26
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6286.ts
+#EXTINF:0   tvg-chno="20" CUID="2515" tvg-name="IL- CLASSIC FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/classicahd.png" group-title="IS- GENERAL | כללי",IL- CLASSIC FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6287.ts
+#EXTINF:0   tvg-chno="21" CUID="2516" tvg-name="IL- HOME PLUS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/HOME%20PLUS.jpg" group-title="IS- GENERAL | כללי",IL- HOME PLUS
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6288.ts
+#EXTINF:0   tvg-chno="22" CUID="2517" tvg-name="IL- VIVA" tvg-id="viva.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/Viva.png" group-title="IS- GENERAL | כללי",IL- VIVA
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6289.ts
+#EXTINF:0   tvg-chno="23" CUID="2518" tvg-name="IL- VIVA PLUS" tvg-id="vivaplus.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/vivaplus.jpg" group-title="IS- GENERAL | כללי",IL- VIVA PLUS
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6290.ts
+#EXTINF:0   tvg-chno="24" CUID="2519" tvg-name="IL- ZOOM" tvg-id="zoom.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/zoom.png" group-title="IS- GENERAL | כללי",IL- ZOOM
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6291.ts
+#EXTINF:0   tvg-chno="25" CUID="2520" tvg-name="IL- RESHET 13" tvg-id="13reshet.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/reshet13.png" group-title="IS- GENERAL | כללי",IL- RESHET 13
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6292.ts
+#EXTINF:0   tvg-chno="26" CUID="2521" tvg-name="IL- HERO !" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hero.png" group-title="IS- GENERAL | כללי",IL- HERO !
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6293.ts
+#EXTINF:0   tvg-chno="27" CUID="2522" tvg-name="IL- TURKISH DRAMA + FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TURKISH-DRAMA.png" group-title="IS- GENERAL | כללי",IL- TURKISH DRAMA + FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6294.ts
+#EXTINF:0   tvg-chno="28" CUID="2523" tvg-name="IL- TURKISH DRAMA 1" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TURKISH-DRAMA.png" group-title="IS- GENERAL | כללי",IL- TURKISH DRAMA 1
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6295.ts
+#EXTINF:0   tvg-chno="29" CUID="2524" tvg-name="IL- KNESSET" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/knessetchannel.png" group-title="IS- GENERAL | כללי",IL- KNESSET
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6296.ts
+#EXTINF:0   tvg-chno="30" CUID="2525" tvg-name="IL- I 24" tvg-id="24.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi24.png" group-title="IS- GENERAL | כללי",IL- I 24
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6297.ts
+#EXTINF:0   tvg-chno="31" CUID="2526" tvg-name="IL- FOX BUSINESS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/foxbusiness.png" group-title="IS- GENERAL | כללי",IL- FOX BUSINESS HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6298.ts
+#EXTINF:0   tvg-chno="32" CUID="2527" tvg-name="IL- ISRAEL SHOPPING CHANNEL" tvg-id="shoppingchannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SHOPPING-CHANNEL-IL.png" group-title="IS- GENERAL | כללי",IL- ISRAEL SHOPPING CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6299.ts
+#EXTINF:0   tvg-chno="33" CUID="2528" tvg-name="IL- HIDABROOT CHANNEL" tvg-id="hidabrot.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hidabroot.jpg" group-title="IS- GENERAL | כללי",IL- HIDABROOT CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6300.ts
+#EXTINF:0   tvg-chno="34" CUID="2529" tvg-name="IL- VH1" tvg-id="vh1.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.VH1_HD.png" group-title="IS- GENERAL | כללי",IL- VH1
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6301.ts
+#EXTINF:0   tvg-chno="35" CUID="2530" tvg-name="IL- VH1 CLASSIC" tvg-id="vh1classic.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/vh1classic.png" group-title="IS- GENERAL | כללי",IL- VH1 CLASSIC
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6302.ts
+#EXTINF:0   tvg-chno="36" CUID="2531" tvg-name="IL- BBC ENTERTAINEMENT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bbcentertainment.png" group-title="IS- GENERAL | כללי",IL- BBC ENTERTAINEMENT
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6303.ts
+#EXTINF:0   tvg-chno="37" CUID="2532" tvg-name="IL- DIY CHANNEL FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DIY-HD.png" group-title="IS- GENERAL | כללי",IL- DIY CHANNEL FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6304.ts
+#EXTINF:0   tvg-chno="38" CUID="2533" tvg-name="IL- THE HUMOR CHANNEL" tvg-logo="https://media.info/l/o/6/6447.1478302533.png" group-title="IS- GENERAL | כללי",IL- THE HUMOR CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6305.ts
+#EXTINF:0   tvg-chno="39" CUID="2534" tvg-name="IL- FASHION ISREAL HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/HD-FASHION.png" group-title="IS- GENERAL | כללי",IL- FASHION ISREAL HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6306.ts
+#EXTINF:0   tvg-chno="40" CUID="2535" tvg-name="IL- TLC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.tlchd.png" group-title="IS- GENERAL | כללי",IL- TLC
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6307.ts
+#EXTINF:0   tvg-chno="41" CUID="2536" tvg-name="IL- CBS REALITY" tvg-id="cbsreality.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cbsrealityce.png" group-title="IS- GENERAL | כללי",IL- CBS REALITY
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6308.ts
+#EXTINF:0   tvg-chno="42" CUID="2537" tvg-name="IL- ME TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/metv.png" group-title="IS- GENERAL | כללי",IL- ME TV
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6309.ts
+#EXTINF:0   tvg-chno="43" CUID="2538" tvg-name="IL- HISTORY HD" tvg-id="historychannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/historyhds.png" group-title="IS- GENERAL | כללי",IL- HISTORY HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6310.ts
+#EXTINF:0   tvg-chno="44" CUID="2539" tvg-name="IL- FOOD CHANNEL" tvg-id="foodchannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOOD%20CHANNEL.jpg" group-title="IS- GENERAL | כללי",IL- FOOD CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6311.ts
+#EXTINF:0   tvg-chno="45" CUID="2540" tvg-name="IL- FOOD NETWORK HD" tvg-id="foodnetwork.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOOD%20NETWORK.png" group-title="IS- GENERAL | כללי",IL- FOOD NETWORK HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6312.ts
+#EXTINF:0   tvg-chno="46" CUID="2541" tvg-name="IL- YNET LIVE HD" tvg-logo="https://seeklogo.com/images/Y/ynet-logo-55C938B8FB-seeklogo.com.png" group-title="IS- GENERAL | כללי",IL- YNET LIVE HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6313.ts
+#EXTINF:0   tvg-chno="47" CUID="2542" tvg-name="IL- HEALTH CHANNEL" tvg-id="healthchannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/healthchannel.jpg" group-title="IS- GENERAL | כללי",IL- HEALTH CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6314.ts
+#EXTINF:0   tvg-chno="48" CUID="2543" tvg-name="IL- FINE LIVING" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/finelivinghdcz.png" group-title="IS- GENERAL | כללי",IL- FINE LIVING
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6315.ts
+#EXTINF:0   tvg-chno="49" CUID="2544" tvg-name="IL- TRAVEL CHANNEL" tvg-id="travelchannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/travelchannel.png" group-title="IS- GENERAL | כללי",IL- TRAVEL CHANNEL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6316.ts
+#EXTINF:0   tvg-chno="50" CUID="2545" tvg-name="IL- GOODLIFE" tvg-id="goodlifechannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/goodlife.jpg" group-title="IS- GENERAL | כללי",IL- GOODLIFE
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6317.ts
+#EXTINF:0   tvg-chno="51" CUID="2546" tvg-name="IL- LIFETIME" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lifetime.jpg" group-title="IS- GENERAL | כללי",IL- LIFETIME
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6318.ts
+#EXTINF:0   tvg-chno="52" CUID="2547" tvg-name="IL- YES HALA HD" group-title="IS- GENERAL | כללי",IL- YES HALA HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6319.ts
+#EXTINF:0   tvg-chno="53" CUID="2548" tvg-name="IL- EGO TOTAL" tvg-id="totalego.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/egototal.jpg" group-title="IS- GENERAL | כללי",IL- EGO TOTAL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6320.ts
+#EXTINF:-1  tvg-chno="54" tvg-id="yestvcomedy.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES TV COMEDY HD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3180.ts
+#EXTINF:-1  tvg-chno="55" tvg-id="yestvaction.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES TV ACTION VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3181.ts
+#EXTINF:-1  tvg-chno="56" tvg-id="sport3.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 3 VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3182.ts
+#EXTINF:-1  tvg-chno="57" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 5 GOLD VIP FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3183.ts
+#EXTINF:-1  tvg-chno="58" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 5 STARS VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3184.ts
+#EXTINF:-1  tvg-chno="59" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-DISNEY JUNIOR FHD VIP SD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3185.ts
+#EXTINF:-1  tvg-chno="60" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: 13 RESHET VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3186.ts
+#EXTINF:-1  tvg-chno="61" tvg-id="sport5.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 5 VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3187.ts
+#EXTINF:-1  tvg-chno="62" tvg-id="sport5plus.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 5 PLUS VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3188.ts
+#EXTINF:-1  tvg-chno="63" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-FOOD CHANNEL VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3189.ts
+#EXTINF:-1  tvg-chno="64" tvg-id="sport1.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBXLLcnwpdgwVmvObUqNPT1FK3a1zLOt55V_3PpP1yZbu.png",IL: YES SPORT 1 VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3190.ts
+#EXTINF:-1  tvg-chno="65" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-NATIONAL GEOGRAPHIC VIP SD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3191.ts
+#EXTINF:-1  tvg-chno="66" tvg-id="sport4.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 4 VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3192.ts
+#EXTINF:-1  tvg-chno="67" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: 12 KESHET IL VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3193.ts
+#EXTINF:-1  tvg-chno="68" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: HOT CINEMA 1 FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3194.ts
+#EXTINF:-1  tvg-chno="69" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: HOT CINEMA 3 FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3195.ts
+#EXTINF:-1  tvg-chno="70" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: HOT CINEMA 4 FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3196.ts
+#EXTINF:-1  tvg-chno="71" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-GOOD LIFE FHD VIP FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3197.ts
+#EXTINF:-1  tvg-chno="72" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-HOP ! FHD VIP FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3198.ts
+#EXTINF:-1  tvg-chno="73" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-TEENNICK FHD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3199.ts
+#EXTINF:-1  tvg-chno="74" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-VIVA PLUS FHD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3200.ts
+#EXTINF:-1  tvg-chno="75" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-YAM TICHONI 25 VIP FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3201.ts
+#EXTINF:-1  tvg-chno="76" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES SPORT 5 LIVE VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3202.ts
+#EXTINF:-1  tvg-chno="77" tvg-id="yestvdrama,il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES TV DRAMA HD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3203.ts
+#EXTINF:-1  tvg-chno="78" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-HISTORY FHD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3204.ts
+#EXTINF:-1  tvg-chno="79" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-HOME + VIP SD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3205.ts
+#EXTINF:-1  tvg-chno="80" tvg-id="yesmoviesaction.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES MOVIES ACTION HD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3206.ts
+#EXTINF:-1  tvg-chno="81" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES MOVIES DRAMA HD VIP HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3207.ts
+#EXTINF:-1  tvg-chno="82" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: HOT CHANNEL 3 FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3208.ts
+#EXTINF:-1  tvg-chno="83" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: HOT ZONE HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3209.ts
+#EXTINF:-1  tvg-chno="84" tvg-id="yesmoviescomedy.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES MOVIES COMEDY HD VIP FHD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3210.ts
+#EXTINF:-1  tvg-chno="85" tvg-id="juniorchannel.il" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",IL: YES-JUNIOR VIP SD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/3211.ts
+#EXTINF:-1  tvg-chno="86" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel1.png",[IL] CHANNEL 1
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4374.ts
+#EXTINF:-1  tvg-chno="87" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel8.png",[IL] CHANNEL 8
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4375.ts
+#EXTINF:-1  tvg-chno="88" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel9.png",[IL] CHANNEL 9 HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4376.ts
+#EXTINF:-1  tvg-chno="89" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel9.png",[IL] CHANNEL 9
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4377.ts
+#EXTINF:-1  tvg-chno="90" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel11.png",[IL] CHANNEL 11
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4378.ts
+#EXTINF:-1  tvg-chno="91" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel12.png",[IL] CHANNEL 12
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4379.ts
+#EXTINF:-1  tvg-chno="92" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel13.png",[IL] CHANNEL 13
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4380.ts
+#EXTINF:-1  tvg-chno="93" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel14.png",[IL] CHANNEL 14
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4381.ts
+#EXTINF:-1  tvg-chno="94" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/egototal.png",[IL] EGO TOTAL
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4382.ts
+#EXTINF:-1  tvg-chno="95" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/fun.png",[IL] FUN HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4383.ts
+#EXTINF:-1  tvg-chno="96" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/gold.png",[IL] GOLD HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4384.ts
+#EXTINF:-1  tvg-chno="97" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/goodlife.png",[IL] GOOD LIFE
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4385.ts
+#EXTINF:-1  tvg-chno="98" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/homeplus.png",[IL] HOME PLUS
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4386.ts
+#EXTINF:-1  tvg-chno="99" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hop.png",[IL] HOP
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4387.ts
+#EXTINF:-1  tvg-chno="100" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hopchildhood.png",[IL] HOP! CHILDHOOD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4388.ts
+#EXTINF:-1  tvg-chno="101" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hot3.png",[IL] HOT3 HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4389.ts
+#EXTINF:-1  tvg-chno="102" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/i24news.png",[IL] I24
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4390.ts
+#EXTINF:-1  tvg-chno="103" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/kabala.png",[IL] KABALA
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4391.ts
+#EXTINF:-1  tvg-chno="104" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/logi.png",[IL] LOGI
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4392.ts
+#EXTINF:-1  tvg-chno="105" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/luli.png",[IL] LULI
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4393.ts
+#EXTINF:-1  tvg-chno="106" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mikan.png",[IL] MIKAN
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4394.ts
+#EXTINF:-1  tvg-chno="107" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/ONE.png",[IL] ONE HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4395.ts
+#EXTINF:-1  tvg-chno="108" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/plus.png",[IL] PLUS  HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4396.ts
+#EXTINF:-1  tvg-chno="109" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/viva.png",[IL] VIVA
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4397.ts
+#EXTINF:-1  tvg-chno="110" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/vivaplus.png",[IL] VIVA+
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4398.ts
+#EXTINF:-1  tvg-chno="111" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yaldut.png",[IL] YALDUT
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4399.ts
+#EXTINF:-1  tvg-chno="112" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yamtihoni.png",[IL] YAMTIHONI
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4400.ts
+#EXTINF:-1  tvg-chno="113" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/zone.png",[IL] ZONE HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4401.ts
+#EXTINF:-1  tvg-chno="114" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/zoomtv.png",[IL] ZOOM
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4402.ts
+#EXTINF:-1  tvg-chno="115" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/halatv.png",[IL] HALA TV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4403.ts
+#EXTINF:-1  tvg-chno="116" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport1.png",[IL] SPORT 1
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4404.ts
+#EXTINF:-1  tvg-chno="117" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport2.png",[IL] SPORT 2
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4405.ts
+#EXTINF:-1  tvg-chno="118" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport3.png",[IL] SPORT 3
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4406.ts
+#EXTINF:-1  tvg-chno="119" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport4.png",[IL] SPORT 4
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4407.ts
+#EXTINF:-1  tvg-chno="120" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport5.png",[IL] SPORT 5
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4408.ts
+#EXTINF:-1  tvg-chno="121" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport5.png",[IL] SPORT 5 HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4409.ts
+#EXTINF:-1  tvg-chno="122" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport5live.png",[IL] SPORT 5  LIVE HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4410.ts
+#EXTINF:-1  tvg-chno="123" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/sport5live.png",[IL] SPORT5  LIVE
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4411.ts
+#EXTINF:-1  tvg-chno="124" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES SPORT 5 GOLD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4412.ts
+#EXTINF:-1  tvg-chno="125" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES ONE 2 SPORT
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4413.ts
+#EXTINF:-1  tvg-chno="126" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/eurosport1.png",[IL] YES EUROSPORT 1 HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4414.ts
+#EXTINF:-1  tvg-chno="127" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/eurosport2.png",[IL] YES EUROSPORT 2 HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4415.ts
+#EXTINF:-1  tvg-chno="128" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/disneychannel.png",[IL] DISNEY
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4416.ts
+#EXTINF:-1  tvg-chno="129" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/disneyjunior.png",[IL] DISNEY JR
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4417.ts
+#EXTINF:-1  tvg-chno="130" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/junior.png",[IL] JUNIOR
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4418.ts
+#EXTINF:-1  tvg-chno="131" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/nickjr.png",[IL] NICK JR
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4419.ts
+#EXTINF:-1  tvg-chno="132" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/nickelodeon.png",[IL] NICKELODEON
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4420.ts
+#EXTINF:-1  tvg-chno="133" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/babytv.png",[IL] BABY
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4421.ts
+#EXTINF:-1  tvg-chno="134" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesmovieskids.png",[IL] YES MOVIES KIDS HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4422.ts
+#EXTINF:-1  tvg-chno="135" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesmoviescomedy.png",[IL] YES MOVIES COMEDY
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4423.ts
+#EXTINF:-1  tvg-chno="136" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesaction.png",[IL] YES ACTION HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4424.ts
+#EXTINF:-1  tvg-chno="137" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesaction.png",[IL] YES ACTION
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4425.ts
+#EXTINF:-1  tvg-chno="138" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yescomedy.png",[IL] YES COMEDY HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4426.ts
+#EXTINF:-1  tvg-chno="139" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yescomedy.png",[IL] YES COMEDY
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4427.ts
+#EXTINF:-1  tvg-chno="140" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesdrama.png",[IL] YES DRAMA
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4428.ts
+#EXTINF:-1  tvg-chno="141" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesdrama.png",[IL] YES DRAMA HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4429.ts
+#EXTINF:-1  tvg-chno="142" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/drama.png",[IL] DRAMA HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4430.ts
+#EXTINF:-1  tvg-chno="143" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/action.png",[IL] ACTION HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4431.ts
+#EXTINF:-1  tvg-chno="144" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hot3.png",[IL] ENTERTAINMENT
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4432.ts
+#EXTINF:-1  tvg-chno="145" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/foodnetwork.png",[IL] FOOD NETWORK
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4433.ts
+#EXTINF:-1  tvg-chno="146" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/healthtv.png",[IL] HEALTH
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4434.ts
+#EXTINF:-1  tvg-chno="147" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/travelchannel.png",[IL] TRAVEL CHANNEL
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4435.ts
+#EXTINF:-1  tvg-chno="148" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mutv.png",[IL] YES MUTV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4436.ts
+#EXTINF:-1  tvg-chno="149" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yesdrama.png",[IL] YES MOVIES DRAMA HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4437.ts
+#EXTINF:-1  tvg-chno="150" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES TURKISH DRAMA 1
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4438.ts
+#EXTINF:-1  tvg-chno="151" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES TURKISH DRAMA 2
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4439.ts
+#EXTINF:-1  tvg-chno="152" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES TURKISH DRAMA-3
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4440.ts
+#EXTINF:-1  tvg-chno="153" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES TURKISH DRAMA PLUS
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4441.ts
+#EXTINF:-1  tvg-chno="154" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES DOCU HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4442.ts
+#EXTINF:-1  tvg-chno="155" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/history.png",[IL] YES HISTORY HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4443.ts
+#EXTINF:-1  tvg-chno="156" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/discovery.png",[IL] YES DISCOVERY HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4444.ts
+#EXTINF:-1  tvg-chno="157" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/natgeowild.png",[IL] YES NAT GEO WILD HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4445.ts
+#EXTINF:-1  tvg-chno="158" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png",[IL] YES NATIONAL GEOGRAPHIC HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4446.ts
+#EXTINF:-1  tvg-chno="159" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/animalplanet-clivebesle.png",[IL] YES ANIMAL PLANET
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4447.ts
+#EXTINF:-1  tvg-chno="160" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/12keshetil.png",[IL] 12 KESHET IL
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4448.ts
+#EXTINF:-1  tvg-chno="161" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel21.png",[IL] YES CHANNEL 21
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4449.ts
+#EXTINF:-1  tvg-chno="162" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/channel24.png",[IL] YES CHANNEL 24
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4450.ts
+#EXTINF:-1  tvg-chno="163" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/makan.png",[IL] YES KNEEST 33
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4451.ts
+#EXTINF:-1  tvg-chno="164" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/makan.png",[IL] YES KAN 33 (MAKAN TV)
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4452.ts
+#EXTINF:-1  tvg-chno="165" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yeskabbalahtv.png",[IL] YES CHANNEL66
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4453.ts
+#EXTINF:-1  tvg-chno="166" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yeschannal97.png",[IL] YES CHANNAL 97
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4454.ts
+#EXTINF:-1  tvg-chno="167" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/kabbalah.png",[IL] YES KABBALAH TV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4455.ts
+#EXTINF:-1  tvg-chno="168" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hidabroot.png",[IL] YES HIDABROOT CHANNEL
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4456.ts
+#EXTINF:-1  tvg-chno="169" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/teennick.png",[IL] YES TEENNICK HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4457.ts
+#EXTINF:-1  tvg-chno="170" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/baby.png",[IL] YES WIZ KIDZ
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4458.ts
+#EXTINF:-1  tvg-chno="171" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mtvhd.png",[IL] YES MTV HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4459.ts
+#EXTINF:-1  tvg-chno="172" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mtvhits.png",[IL] YES MTV HITS
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4460.ts
+#EXTINF:-1  tvg-chno="173" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mtv00s.png",[IL] YES MTV 00S
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4461.ts
+#EXTINF:-1  tvg-chno="174" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mtvclub.png",[IL] YES CLUB MTV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4462.ts
+#EXTINF:-1  tvg-chno="175" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/mtv80s.png",[IL] YES MTV 80S
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4463.ts
+#EXTINF:-1  tvg-chno="176" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yescbsreality.png",[IL] YES CBS REALITY
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4464.ts
+#EXTINF:-1  tvg-chno="177" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/yestvci.png",[IL] YES TVCI
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4465.ts
+#EXTINF:-1  tvg-chno="178" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/fashiontv.png",[IL] YES FASHION
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4466.ts
+#EXTINF:-1  tvg-chno="179" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/investigationdiscovery-jusowanusw.png",[IL] YES ID
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4467.ts
+#EXTINF:-1  tvg-chno="180" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/tlc.png",[IL] YES TLC
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4468.ts
+#EXTINF:-1  tvg-chno="181" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/metv.png",[IL] YES METV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4469.ts
+#EXTINF:-1  tvg-chno="182" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/rentv.png",[IL] YES REN TV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4470.ts
+#EXTINF:-1  tvg-chno="183" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/zeetv.png",[IL] YES ZEE TV
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4471.ts
+#EXTINF:-1  tvg-chno="184" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/eurostar.png",[IL] YES EUROSTAR
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4472.ts
+#EXTINF:-1  tvg-chno="185" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] YES KAN EDUCATION
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4473.ts
+#EXTINF:-1  tvg-chno="186" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/shoppingtv.png",[IL] YES SHOPPING
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4474.ts
+#EXTINF:-1  tvg-chno="187" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/jimjam.png",[IL] YES JIM JAM
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4475.ts
+#EXTINF:-1  tvg-chno="188" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hot3.png",[IL] HOT-ROMANTIC SERIES
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4476.ts
+#EXTINF:-1  tvg-chno="189" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hotcinema.png",[IL] HOT CINEMA 1
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4477.ts
+#EXTINF:-1  tvg-chno="190" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hotcinema.png",[IL] HOT CINEMA 2
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4478.ts
+#EXTINF:-1  tvg-chno="191" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hotcinema.png",[IL] HOT CINEMA 3
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4479.ts
+#EXTINF:-1  tvg-chno="192" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hotcinema.png",[IL] HOT CINEMA 4
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4480.ts
+#EXTINF:-1  tvg-chno="193" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hothbo.png",[IL] HOT HBO
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4481.ts
+#EXTINF:-1  tvg-chno="194" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="https://img.logo-cdn.cc/hotcomedycentral.png",[IL] HOT COMEDY CENTRAL
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4482.ts
+#EXTINF:-1  tvg-chno="195" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] HOT BOLLYWOOD HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4483.ts
+#EXTINF:-1  tvg-chno="196" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] HOT SENIOR HD
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4484.ts
+#EXTINF:-1  tvg-chno="197" tvg-id="" tvg-name="" group-title="IS- GENERAL | כללי" tvg-logo="",[IL] HOT BUZZ
+http://xtream-ie.org/live/HrVWrbku/KjQsRFSTG7K/4485.ts
+#EXTINF:0   tvg-chno="198" CUID="2549" tvg-name="IL- ONE 1 FHD (50FPS)" tvg-id="channelone.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/one%20.png" group-title="IS- SPORTS | ספורט",IL- ONE 1 FHD (50FPS)
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6321.ts
+#EXTINF:0   tvg-chno="199" CUID="2550" tvg-name="IL- ONE 1 FHD" tvg-id="channelone.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/one%20.png" group-title="IS- SPORTS | ספורט",IL- ONE 1 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6322.ts
+#EXTINF:0   tvg-chno="200" CUID="2551" tvg-name="IL- ONE 1 HD" tvg-id="channelone.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/one%20.png" group-title="IS- SPORTS | ספורט",IL- ONE 1 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6323.ts
+#EXTINF:0   tvg-chno="201" CUID="2552" tvg-name="IL- ONE 2 FHD (50FPS)" tvg-id="one2.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ONE2.jpg" group-title="IS- SPORTS | ספורט",IL- ONE 2 FHD (50FPS)
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6324.ts
+#EXTINF:0   tvg-chno="202" CUID="2553" tvg-name="IL- ONE 2 FHD" tvg-id="one2.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ONE2.jpg" group-title="IS- SPORTS | ספורט",IL- ONE 2 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6325.ts
+#EXTINF:0   tvg-chno="203" CUID="2554" tvg-name="IL- ONE 2 HD" tvg-id="one2.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ONE2.jpg" group-title="IS- SPORTS | ספורט",IL- ONE 2 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6326.ts
+#EXTINF:0   tvg-chno="204" CUID="2555" tvg-name="IL- YES SPORT 1 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT1%20HD%20_YES%20SPORT1%20HD.jpg" group-title="IS- SPORTS | ספורט",IL- YES SPORT 1 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6327.ts
+#EXTINF:0   tvg-chno="205" CUID="2556" tvg-name="IL- YES SPORT 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT1%20HD%20_YES%20SPORT1%20HD.jpg" group-title="IS- SPORTS | ספורט",IL- YES SPORT 1 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6328.ts
+#EXTINF:0   tvg-chno="206" CUID="2557" tvg-name="IL- YES SPORT 2 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%202%20HD_YES%20SPORT2%20HD.jpg" group-title="IS- SPORTS | ספורט",IL- YES SPORT 2 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6329.ts
+#EXTINF:0   tvg-chno="207" CUID="2558" tvg-name="IL- YES SPORT 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%202%20HD_YES%20SPORT2%20HD.jpg" group-title="IS- SPORTS | ספורט",IL- YES SPORT 2 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6330.ts
+#EXTINF:0   tvg-chno="208" CUID="2559" tvg-name="IL- YES SPORT 3 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%203%20HD_YES%20SPORT%203%20HD.png" group-title="IS- SPORTS | ספורט",IL- YES SPORT 3 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6331.ts
+#EXTINF:0   tvg-chno="209" CUID="2560" tvg-name="IL- YES SPORT 3 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%203%20HD_YES%20SPORT%203%20HD.png" group-title="IS- SPORTS | ספורט",IL- YES SPORT 3 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6332.ts
+#EXTINF:0   tvg-chno="210" CUID="2561" tvg-name="IL- YES SPORT 4 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%204%20HD_YES%20SPORT%204%20HD.png" group-title="IS- SPORTS | ספורט",IL- YES SPORT 4 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6333.ts
+#EXTINF:0   tvg-chno="211" CUID="2562" tvg-name="IL- YES SPORT 4 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%204%20HD_YES%20SPORT%204%20HD.png" group-title="IS- SPORTS | ספורט",IL- YES SPORT 4 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6334.ts
+#EXTINF:0   tvg-chno="212" CUID="2563" tvg-name="IL- SPORT 5 4K" tvg-id="5sport4k.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 4K
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6335.ts
+#EXTINF:0   tvg-chno="213" CUID="2564" tvg-name="IL- SPORT 5 FHD" tvg-id="5sport.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6336.ts
+#EXTINF:0   tvg-chno="214" CUID="2565" tvg-name="IL- SPORT 5 HD" tvg-id="5sport.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6337.ts
+#EXTINF:0   tvg-chno="215" CUID="2566" tvg-name="IL- SPORT 5 SD" tvg-id="5sport.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 SD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6338.ts
+#EXTINF:0   tvg-chno="216" CUID="2567" tvg-name="IL- SPORT 5+ LIVE FHD (50FPS)" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ LIVE FHD (50FPS)
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6339.ts
+#EXTINF:0   tvg-chno="217" CUID="2568" tvg-name="IL- SPORT 5+ LIVE FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ LIVE FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6340.ts
+#EXTINF:0   tvg-chno="218" CUID="2569" tvg-name="IL- SPORT 5+ LIVE HD" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ LIVE HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6341.ts
+#EXTINF:0   tvg-chno="219" CUID="2570" tvg-name="IL- SPORT 5+ STARS FHD (50FPS)" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ STARS FHD (50FPS)
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6342.ts
+#EXTINF:0   tvg-chno="220" CUID="2571" tvg-name="IL- SPORT 5+ STARS FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ STARS FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6343.ts
+#EXTINF:0   tvg-chno="221" CUID="2572" tvg-name="IL- SPORT 5+ STARS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5+ STARS HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6344.ts
+#EXTINF:0   tvg-chno="222" CUID="2573" tvg-name="IL- SPORT 5 PLUS FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 PLUS FHD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6345.ts
+#EXTINF:0   tvg-chno="223" CUID="2574" tvg-name="IL- SPORT 5 PLUS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20PLUS.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 PLUS HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6346.ts
+#EXTINF:0   tvg-chno="224" CUID="2575" tvg-name="IL- SPORT 5 GOLD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SPORT%205%20GOLD.jpg" group-title="IS- SPORTS | ספורט",IL- SPORT 5 GOLD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6347.ts
+#EXTINF:0   tvg-chno="225" CUID="2576" tvg-name="IL- FOX SPORT HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/foxsporteurope.png" group-title="IS- SPORTS | ספורט",IL- FOX SPORT HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6348.ts
+#EXTINF:0   tvg-chno="226" CUID="2577" tvg-name="IL- EUROSPORT 1 HD" tvg-id="eurosport.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1hds.png" group-title="IS- SPORTS | ספורט",IL- EUROSPORT 1 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6349.ts
+#EXTINF:0   tvg-chno="227" CUID="2578" tvg-name="IL- EUROSPORT 2 HD" tvg-id="eurosport2.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport2hdbe.png" group-title="IS- SPORTS | ספורט",IL- EUROSPORT 2 HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6350.ts
+#EXTINF:0   tvg-chno="228" CUID="2579" tvg-name="IL- TRACE SPÔRT STARS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tracesportstarshd.png" group-title="IS- SPORTS | ספורט",IL- TRACE SPÔRT STARS
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6351.ts
+#EXTINF:0   tvg-chno="229" CUID="2580" tvg-name="IL- EXTREME SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/extremesportschannel.png" group-title="IS- SPORTS | ספורט",IL- EXTREME SPORTS
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6352.ts
+#EXTINF:0   tvg-chno="230" CUID="2581" tvg-name="IL- ANIMAL PLANET" tvg-id="animalplanet.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/animalplanethd.png" group-title="IS- DOC | דוקומנטרי",IL- ANIMAL PLANET
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6353.ts
+#EXTINF:0   tvg-chno="231" CUID="2582" tvg-name="IL- E! ENTERTAINMENT" tvg-id="eentertainment.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/E!-ENTERTAINMENT-HD.jpg" group-title="IS- DOC | דוקומנטרי",IL- E! ENTERTAINMENT
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6354.ts
+#EXTINF:0   tvg-chno="232" CUID="2583" tvg-name="IL- NATIONAL GEOGRAPHIC HD" tvg-id="natgeohd.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nationalgeographicd.png" group-title="IS- DOC | דוקומנטרי",IL- NATIONAL GEOGRAPHIC HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6355.ts
+#EXTINF:0   tvg-chno="233" CUID="2584" tvg-name="IL- NATIONAL GEOGRAPHIC" group-title="IS- DOC | דוקומנטרי",IL- NATIONAL GEOGRAPHIC
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6356.ts
+#EXTINF:0   tvg-chno="234" CUID="2585" tvg-name="IL- NATIONAL GEO WILD HD" tvg-id="natgeowild.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nationalgeographicwildhd.png" group-title="IS- DOC | דוקומנטרי",IL- NATIONAL GEO WILD HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6357.ts
+#EXTINF:0   tvg-chno="235" CUID="2586" tvg-name="IL- NATIONAL GEO WILD" tvg-id="natgeowild.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nationalgeographicwildhd.png" group-title="IS- DOC | דוקומנטרי",IL- NATIONAL GEO WILD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6358.ts
+#EXTINF:0   tvg-chno="236" CUID="2587" tvg-name="IL- DISCOVERY HD" tvg-id="discovery.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DISCOVERY-HD.png" group-title="IS- DOC | דוקומנטרי",IL- DISCOVERY HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6359.ts
+#EXTINF:0   tvg-chno="237" CUID="2588" tvg-name="IL- DISCOVERY SCIENCE" tvg-id="discoveryscience.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/discoverysciencehd.png" group-title="IS- DOC | דוקומנטרי",IL- DISCOVERY SCIENCE
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6360.ts
+#EXTINF:0   tvg-chno="238" CUID="2589" tvg-name="IL- ID" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="IS- DOC | דוקומנטרי",IL- ID
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6361.ts
+#EXTINF:0   tvg-chno="239" CUID="2590" tvg-name="IL- YES MOVIES KIDS HD (MULTI-SUB)" tvg-id="yesmovieskids.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/YES-MOVIES-KIDS-IL.png" group-title="IS- KIDS | ילדים",IL- YES MOVIES KIDS HD (MULTI-SUB)
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6362.ts
+#EXTINF:0   tvg-chno="240" CUID="2591" tvg-name="IL- HOP" tvg-id="hope.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/HOP-!.png" group-title="IS- KIDS | ילדים",IL- HOP
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6363.ts
+#EXTINF:0   tvg-chno="241" CUID="2592" tvg-name="IL- HOP YALDUT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/HOP-!.png" group-title="IS- KIDS | ילדים",IL- HOP YALDUT
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6364.ts
+#EXTINF:0   tvg-chno="242" CUID="2593" tvg-name="IL- DISNEY HD" tvg-id="disneychannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/disneyhd.png" group-title="IS- KIDS | ילדים",IL- DISNEY HD
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6365.ts
+#EXTINF:0   tvg-chno="243" CUID="2594" tvg-name="IL- DISNEY JR" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/disneyjr.png" group-title="IS- KIDS | ילדים",IL- DISNEY JR
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6366.ts
+#EXTINF:0   tvg-chno="244" CUID="2595" tvg-name="IL- NICKELODEON" tvg-id="nickelodeon.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/NICKELODEON-HD.png" group-title="IS- KIDS | ילדים",IL- NICKELODEON
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6367.ts
+#EXTINF:0   tvg-chno="245" CUID="2596" tvg-name="IL- NICK JR" tvg-id="nickjr.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickjr.png" group-title="IS- KIDS | ילדים",IL- NICK JR
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6368.ts
+#EXTINF:0   tvg-chno="246" CUID="2597" tvg-name="IL- TEEN NICK" tvg-id="teennick.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/teennick.png" group-title="IS- KIDS | ילדים",IL- TEEN NICK
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6369.ts
+#EXTINF:0   tvg-chno="247" CUID="2598" tvg-name="IL- BABY TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/babytv.png" group-title="IS- KIDS | ילדים",IL- BABY TV
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6370.ts
+#EXTINF:0   tvg-chno="248" CUID="2599" tvg-name="IL- YES WIZ" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/wizhd.png" group-title="IS- KIDS | ילדים",IL- YES WIZ
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6371.ts
+#EXTINF:0   tvg-chno="249" CUID="2600" tvg-name="IVBORW0KGGOAAAANSUHEUGAAAJQAAADICAMAAAA5RJHQAAAA9LBMVEX////4J5N3ZVB80PGA0FGZ5PEL1FLY+V7D8/VJ7PMK3VX7/V/S7/R2KZTZ8FV2/P6+6PJS+P3D6FIV2FP7GCCCWOJ5RAKR4FA45FD+XEVNPZ+D3PT/8FJ8QDTXMJJK9FYIUOSYO9J7D7UWHMF6Z7O8DB7DSQF+4FD7ISXJZLWRRN3+5/P9TDR/9/V8MCZ6VQQFMT" group-title="IS- KIDS | ילדים",IVBORW0KGGOAAAANSUHEUGAAAJQAAADICAMAAAA5RJHQAAAA9LBMVEX////4J5N3ZVB80PGA0FGZ5PEL1FLY+V7D8/VJ7PMK3VX7/V/S7/R2KZTZ8FV2/P6+6PJS+P3D6FIV2FP7GCCCWOJ5RAKR4FA45FD+XEVNPZ+D3PT/8FJ8QDTXMJJK9FYIUOSYO9J7D7UWHMF6Z7O8DB7DSQF+4FD7ISXJZLWRRN3+5/P9TDR/9/V8MCZ6VQQFMT
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6372.ts
+#EXTINF:0   tvg-chno="250" CUID="2601" tvg-name="IL- JIMJAM" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/015jimjam.png" group-title="IS- KIDS | ילדים",IL- JIMJAM
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6373.ts
+#EXTINF:0   tvg-chno="251" CUID="2602" tvg-name="IL- JUNIOR" tvg-id="juniorchannel.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/junior.png" group-title="IS- KIDS | ילדים",IL- JUNIOR
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6374.ts
+#EXTINF:0   tvg-chno="252" CUID="2603" tvg-name="IL- MTV ISREAL" tvg-id="mtv.il" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/032mtv.png" group-title="IS- MUSIC | מוּסִיקָה",IL- MTV ISREAL
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6375.ts
+#EXTINF:0   tvg-chno="253" CUID="2604" tvg-name="IL- MTV HITS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mtvhits.png" group-title="IS- MUSIC | מוּסִיקָה",IL- MTV HITS
+http://xtream-ie.org/live/Pgw17dowwS/SB5aVzGs4/6376.ts
