@@ -1,157 +1,90 @@
-#EXTM3U
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e77d3c28aef6754968dac63a3bddfb94.jpg" ,9 Kanal
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/23362
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/cd7bad9dae632d16de520dc3427113d1.png" ,Baby TV
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163444
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7f1bd4efa8024c5eab0a82a5aa812c80.png" ,CBS Reality
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163445
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/267be5482552a5d6806f930b4f0d55b0.png" ,Channel 24
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/283819
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/c4c1f0869b04f671d9f95294e3da19ab.jpeg" ,Channel 66
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/298074
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/28b698b15c5120c081c3f8ce17a19804.png" ,Discovery Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163446
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b1b98b6471928ce1fccdc92b8d74e28a.png" ,Disney Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/282786
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/c4bb1fdd23c87c156ecd715d9f0c4466.png" ,Disney Junior
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163450
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Eurosport 1
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/302353
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1c41a2a9b6f34b62faa1ea4a8808cfd5.png" ,Food Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163449
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/4b1ce16dca366cf7b852e52b40b8af38.png" ,Good Life
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163451
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/91c15276fb515c49a9ce2a7b322bbed5.png" ,Hala TV
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/147162
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Health Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163452
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/5eea8f78156fce5b7e709d9252974cb8.png" ,History
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297070
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/fd14da29ffab881828fd9bb628dc97f9.png" ,Home +
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163453
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/5e7c7487e710c858c9e03d6ac818e5a9.png" ,HOP
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163454
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/d23d10409c27c8654080dbf477b96d8e.png" ,HOT 3
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/90952
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/596e03c2ff18208e68d5559e903f3c74.png" ,HOT Channel 8
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163457
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/0521984b66dd478ef21aea3003b6f193.png" ,HOT Cinema 1
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297060
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/0c3542198df3d320b682b29c6287d633.png" ,HOT Cinema 2
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/171758
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/1829e557b65ec78b515eecf5208af087.png" ,HOT Cinema 3
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163458
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/65749272a851444da0dd5b0adeab92e0.png" ,HOT Cinema 4
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163461
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT Cinema Family
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299592
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/b32f430edfef0da48756104d1a46bd32.png" ,HOT Comedy Central
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163459
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT DIY
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299593
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT EGO
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299591
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/07ac2f57883aaebbd342a16c2a209ce7.png" ,HOT Entertainment
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163448
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT Food
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299190
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/fecc8947c1288e7f7ae787549707f156.png" ,HOT HBO
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297052
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT Health
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299589
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Hot Kids
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297053
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,HOT Luli
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/151368
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/b88d3e424f1d29e77b7f589b007f0c47.png" ,HOT Zone
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/151379
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,I24 News Arabic
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/300594
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/fdb1269acf27e825e9bd8dadd0563d70.jpg" ,Investigation Discovery
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/282780
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/dead60011b5a858d54a688d76b3fcb86" ,Jesus Shelanu
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/284614
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/916063460db6647ea259e57a0dae1165.png" ,Junior
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/90954
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/c4b11a2bf43814fa0060a39c3c652a50.png" ,Kabbalah TV
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/158596
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/d6fd293a3bd306b567987fe0716182ef.svg" ,KAN 11
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/283821
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/670736251ed35e8674185b935b910908.png" ,Keshet 12
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/245400
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/c1efc2159c28446bdc16804a5ac1f27c.png" ,Knesset Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/23363
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,LifeTime
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163464
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/f53b410f9fd3e1f0258718a23deed00b.png" ,Makan
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163466
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/e02fb338ffd03f65c883a3007e3b7d4b.svg" ,NAT GEO
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14782
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d3adec9a5b269bf920bc63c8a57041ef.png" ,NAT GEO Wild
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163469
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/b7a8a95cb957da1e2ed57239d9c6af05.svg" ,Nick Jr
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/90956
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0cf1e0a9f842ae2651ba28be4b7a3304.png" ,One
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14775
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/d2d3b0cc384ed76fbb7760f72636cd1c.png" ,One 2
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163471
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/71909b104db633e28fb9d646e6daa243.png" ,Reshet 13
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14772
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/936bba3b8fdeebe2cca2772358564ad0.png" ,TeenNick
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163447
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7851bad002045fd918f133cb0994a73e.png" ,TLC
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/282781
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/d79a525395df8456fc8377b5f95de8da.png" ,Travel Channel
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/171743
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/59441eb30ee6b534590117c166cad063.png" ,Turkish Drama 2
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297055
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/ea7eca565a3bcef3d2fdb96da499f92c.png" ,Viva
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/90947
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/fcfad3741f62fa2e8bbe74658a9994eb.png" ,Viva Plus
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297079
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/a9c64fac46b5c53509244446067e8806.png" ,Yam Tichoni
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297057
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/c37eb58dc874bab18d668fdf57c471dc.png" ,Yes Bollywood
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297067
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/914191a6b3c446ce85c9314381be2e80.png" ,Yes Docu
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/24124
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Yes E!
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/166425
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e2c8cd02ee290bc9c8fb5cb3d491bd5.png" ,Yes Israeli
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/171738
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/3dd54a05306f07e43b5c7bf6f3320228.png" ,Yes Movies Action
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14776
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/f51ad7fda9eef61655a4b340e9038241.png" ,Yes Movies Comedy
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14781
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/2dbb37087b62776d6c408c8cf8e9b17b.png" ,Yes Movies Drama
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297076
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/bd6211eea28d6849fc9ad847a7041c8c.png" ,Yes Movies Kids
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/196398
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Yes Shopping
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/302355
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" ,Yes Sport 1
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14785
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ea5f7e1657fe4ca80ec2c9b4c71c43db.png" ,Yes Sport 2
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14787
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a00c1aac9c07960a982c16385e23460b.png" ,Yes Sport 3
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/91282
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/89a451a18fa4be6ffe0b50d5ad2a6f4a.png" ,Yes Sport 4
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/40609
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9678624c67f6ef9d184369e3bb25a73f.png" ,Yes Sport 5
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/299189
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/073919a81b876a3b099bed32c5474b2d.png" ,Yes Sport 5 Gold
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/147174
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3ef66741c946d1b761a1a01ea05dee65.png" ,Yes Sport 5 Live
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/91281
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/618a0173d3c8ac53dd7985282dc2e644.png" ,Yes Sport 5 Plus
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/282063
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/3aba02d70d9cc12068dbcefcb9b19015.png" ,Yes Sport 5 Stars
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/14788
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/b4a4df6015b3ba94eb815717c02de0cd.png" ,Yes TV Action
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297075
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/e8cc0f25128722b2af14ae9e94550b62.png" ,Yes TV Comedy
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/297063
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/824a3a8d3cc31acb7ed823e360192446.png" ,Yes TV Drama
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/163468
-#EXTINF:-1 group-title="Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/45d4a34978efb6f0bdc7fcefc9a1191c.png" ,Zoom
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/90949
+#EXTINF:0 tvg-chno="362" CUID="108" number="280" tvg-id="iz_:IL: Channel 14" tvg-name="iz_:IL: Channel 14" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Израиль 14 сер.png" group-title="ISRAEL",Израиль 14
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3LzgxMTIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTA4IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODExMi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="363" CUID="247" number="281" tvg-id="iz_:IL: Channel 11" tvg-name="iz_:IL: Channel 11" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/11TVIL200.png" group-title="ISRAEL",Израиль 11 (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgzMDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjQ3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODMwOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="364" CUID="150" number="282" tvg-id="iz_:IL: Channel 12" tvg-name="iz_:IL: Channel 12" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/12TVKESHETIL200.png" group-title="ISRAEL",Израиль 12
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgxNjAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTUwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE2MC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="365" CUID="134" number="283" tvg-id="iz_:IL: Channel 13" tvg-name="iz_:IL: Channel 13" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/1200px-Ch13_logo_2019.svg (1).png" group-title="ISRAEL",Израиль 13 (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgxNDMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTM0IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE0My9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="366" CUID="103" number="284" tvg-id="epg4:342" tvg-name="epg4:342" arc-timeshift="504" arc-time="504" catchup="shift" catchup-days="21" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/9TVIL200.png" group-title="ISRAEL",Израиль 9
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0Njo4ODg3LzgxMDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTAzIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODEwNy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="367" CUID="221" number="285" tvg-id="iz_:IL: TeenNick" tvg-name="iz_:IL: TeenNick" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/teen nick сер.png" group-title="ISRAEL",TeenNick (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgyMzMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjIxIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIzMy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="368" CUID="139" number="286" tvg-id="iz_:IL: Disney Channel HD" tvg-name="iz_:IL: Disney Channel HD" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/DISNEYENG200.png" group-title="ISRAEL",Disney (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgxNDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTM5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE0OS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="369" CUID="220" number="287" tvg-id="iz_:IL: Hop" tvg-name="iz_:IL: Hop" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HOP IL сер.png" group-title="ISRAEL",hop (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgyMzIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjIwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIzMi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="370" CUID="243" number="288" tvg-id="iz_:IL: Baby TV" tvg-name="iz_:IL: Baby TV" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/BABYTVIL200.png" group-title="ISRAEL",Baby (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgzMDUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjQzIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODMwNS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="371" CUID="219" number="289" tvg-id="iz_:IL: Nick Jr HD" tvg-name="iz_:IL: Nick Jr HD" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NICKJR200.png" group-title="ISRAEL",Nick Jr (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgyMzEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjE5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIzMS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="372" CUID="267" number="290" tvg-id="iz_:IL: Sport 1 FHD" tvg-name="iz_:IL: Sport 1 FHD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/SPORT1IL2001.png" group-title="ISRAEL",Sport 1 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgzMzkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjY3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODMzOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="373" CUID="269" number="291" tvg-id="iz_:IL: Sport 2 FHD" tvg-name="iz_:IL: Sport 2 FHD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/SPORT2IL2001.png" group-title="ISRAEL",SPORT 2 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgzNDEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjY5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM0MS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="374" CUID="268" number="292" tvg-id="iz_:IL: Sport 3 FHD" tvg-name="iz_:IL: Sport 3 FHD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/SPORT3IL2001.png" group-title="ISRAEL",Sport 3 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgzNDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjY4IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM0MC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="375" CUID="373" number="293" tvg-id="iz_:IL: Sport 4 FHD" tvg-name="iz_:IL: Sport 4 FHD" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/SPORT4IL2001.png" group-title="ISRAEL",Sport 4 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzczIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUxMy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="376" CUID="357" number="294" tvg-id="iz_:IL: Sport 5" tvg-name="iz_:IL: Sport 5" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/5SPORTIL2200.png" group-title="ISRAEL",Sport 5 (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3Lzg0MjAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzU3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODQyMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="377" CUID="225" number="295" tvg-id="iz_:IL: Sport 5 Livе" tvg-name="iz_:IL: Sport 5 Livе" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/5SPORTLIVEIL2200.png" group-title="ISRAEL",5LIVE HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgyMzkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjI1IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIzOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="378" CUID="278" number="344" tvg-id="" tvg-name="" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/EINT200.png" group-title="ISRAEL",E!
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjc4IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM1OS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="379" CUID="107" number="373" tvg-id="tvteam_:IL: CBS Reality" tvg-name="tvteam_:IL: CBS Reality" arc-timeshift="24" arc-time="24" catchup="shift" catchup-days="1" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/CBSREALITY200.png" group-title="ISRAEL",CBS Reality (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgxMTEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMTA3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODExMS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="380" CUID="284" number="393" tvg-id="iz_:IL: Viva+" tvg-name="iz_:IL: Viva+" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/VIVIPLUSIL200.png" group-title="ISRAEL",Viva+
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgzNzIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjg0IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM3Mi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="381" CUID="285" number="394" tvg-id="iz_:IL: Disney Jr." tvg-name="iz_:IL: Disney Jr." arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/DISNEYJUNIOR200.png" group-title="ISRAEL",Disney Jr (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgzNzMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMjg1IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM3My9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="382" CUID="304" number="402" tvg-id="epg4:342" tvg-name="epg4:342" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/9TVIL200.png" group-title="ISRAEL",Израиль 9 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzA0IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUyNC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="383" CUID="305" number="403" tvg-id="iz_:IL: Luli" tvg-name="iz_:IL: Luli" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Luli IL сер.png" group-title="ISRAEL",LULI (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzA1IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUxNy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="384" CUID="306" number="404" tvg-id="" tvg-name="" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HIDABROOTTVIL200.png" group-title="ISRAEL",Hidabroot (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3Lzg1MzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzA2IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUzMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="385" CUID="308" number="405" tvg-id="iz_:IL: Viva" tvg-name="iz_:IL: Viva" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/VIVIIL200.png" group-title="ISRAEL",Viva (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3Lzg1MjYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzA4IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUyNi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="386" CUID="349" number="413" tvg-id="iz_:IL: Home Plus" tvg-name="iz_:IL: Home Plus" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HOMEPLUSIL200.png" group-title="ISRAEL",Home Plus (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3Lzg3MDMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzQ5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcwMy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="387" CUID="350" number="414" tvg-id="iz_:IL: ONE 1 HD" tvg-name="iz_:IL: ONE 1 HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/ONEHDIL200.png" group-title="ISRAEL",ONE HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3Lzg3MDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzUwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcwNC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="388" CUID="360" number="415" tvg-id="iz_:IL: Discovery Channel HD" tvg-name="iz_:IL: Discovery Channel HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/DISCOVERYHD200.png" group-title="ISRAEL",Discovery HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3Lzg3MTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzYwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcxOC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="389" CUID="363" number="416" tvg-id="iz_:IL: Travel Channel HD" tvg-name="iz_:IL: Travel Channel HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Travel Channel.png" group-title="ISRAEL",Travel Channel (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3Lzg3MjEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzYzIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyMS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="390" CUID="364" number="417" tvg-id="" tvg-name="" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TURKISHDRAMA200.png" group-title="ISRAEL",Turkish Dramas Plus (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3Lzg3MjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY0IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyMi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="391" CUID="365" number="418" tvg-id="iz_:IL: ONE 2 HD" tvg-name="iz_:IL: ONE 2 HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/ONE2IL200.png" group-title="ISRAEL",ONE 2 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3Lzg3MjQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY1IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyNC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="392" CUID="366" number="419" tvg-id="iz_:IL: Ego Total" tvg-name="iz_:IL: Ego Total" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Ego Total сер.png" group-title="ISRAEL",Ego Total (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3Lzg3MjYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY2IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyNi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="393" CUID="367" number="420" tvg-id="iz_:Food Network HD" tvg-name="iz_:Food Network HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/FOODNETWORK200.png" group-title="ISRAEL",Food Network (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3Lzg3MjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyNy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="394" CUID="368" number="421" tvg-id="iz_:IL: Health Channel HD" tvg-name="iz_:IL: Health Channel HD" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Health сер.png" group-title="ISRAEL",Health (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3Lzg3MjgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY4IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyOC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="395" CUID="369" number="422" tvg-id="" tvg-name="" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Entertainment сер.png" group-title="ISRAEL",Entertainment (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3Lzg3MjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzY5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODcyOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="396" CUID="370" number="423" tvg-id="iz_:IL: Kan Chinuchit 23" tvg-name="iz_:IL: Kan Chinuchit 23" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/KAN 23 сер.png" group-title="ISRAEL",KAN23 (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3Lzg3MzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzcwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODczMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="397" CUID="371" number="424" tvg-id="iz_:IL: HOT Cinema 1 HD" tvg-name="iz_:IL: HOT Cinema 1 HD" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HOT C1 сер.png" group-title="ISRAEL",HOT_Cinema 1 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzcxIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUxOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="398" CUID="372" number="425" tvg-id="iz_:IL: HOT Cinema 4 HD" tvg-name="iz_:IL: HOT Cinema 4 HD" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HOT C4 сер.png" group-title="ISRAEL",HOT_Cinema 4 HD (IL)
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzcyIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUxOC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="399" CUID="374" number="426" tvg-id="iz_:IL: HOT Cinema 2 HD" tvg-name="iz_:IL: HOT Cinema 2 HD" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/HOT C2 сер.png" group-title="ISRAEL",HOT_Cinema 2 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiMzc0IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODUxMi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="400" CUID="425" number="443" tvg-id="iz_:IL: Sport 5 Plus" tvg-name="iz_:IL: Sport 5 Plus" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/5SPORTPLUSIL2200.png" group-title="ISRAEL",SPORT 5 PLUS HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDI1IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE0MS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="401" CUID="426" number="444" tvg-id="iz_:IL: Sport 5 Stars" tvg-name="iz_:IL: Sport 5 Stars" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/5SPORTSTARSIL2200.png" group-title="ISRAEL",SPORT 5 STARS HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDI2IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODE4Ni9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="402" CUID="427" number="445" tvg-id="iz_:IL: Yam Tihoni HD" tvg-name="iz_:IL: Yam Tihoni HD" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/YAMTICHONI200.png" group-title="ISRAEL",Yamtihoni IL
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDI3IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODEyMy9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="403" CUID="429" number="446" tvg-id="iz_:IL: Channel 11" tvg-name="iz_:IL: Channel 11" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/11TVIL200.png" group-title="ISRAEL",Израиль 11 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDI5IiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM0OC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="404" CUID="430" number="447" tvg-id="iz_:IL: Channel 12" tvg-name="iz_:IL: Channel 12" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Израиль 12 сер.png" group-title="ISRAEL",Израиль 12 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDMwIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODQwMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="405" CUID="431" number="448" tvg-id="iz_:IL: Channel 13" tvg-name="iz_:IL: Channel 13" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/13TVIL200.png" group-title="ISRAEL",Израиль 13 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDMxIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM1Mi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0 tvg-chno="406" CUID="432" number="449" tvg-id="iz_:IL: Channel 14" tvg-name="iz_:IL: Channel 14" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Израиль 14 сер.png" group-title="ISRAEL",Израиль 14 HD
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4NWZkNTUxIiwicCI6ImE4NWZkNTUxYmE4ZTQzNmQiLCJjIjoiNDMyIiwidCI6IjFiMTNlMDU2YmMwMzJjZDE3MjQ0OGNmOTUyZWE1ODNmIiwiZCI6IjE1NTE5OCIsInIiOiIxNTgzNzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODM0OS9pbmRleC5tM3U4P3R/index.m3u8
