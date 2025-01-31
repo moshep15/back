@@ -1,351 +1,101 @@
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12283/index.m3u8
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="baby-tv" tvg-logo="http://1lot.tv/ch/7039.png" ,BABY TV [IL]
-http://s.only4.tv/7039/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7040.png" ,JUNIOR [IL]
-http://s.only4.tv/7040/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="discovery-channel" tvg-logo="http://1lot.tv/ch/7041.png" ,DISCOVERY CHANNEL HD [IL]
-http://s.only4.tv/7041/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="disney-channel-pl" tvg-logo="http://1lot.tv/ch/7042.png" ,DISNEY CHANNEL HD [IL]
-http://s.only4.tv/7042/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="e-entertaiment-pl" tvg-logo="http://1lot.tv/ch/7043.png" ,E! [IL]
-http://s.only4.tv/7043/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="national-geographic" tvg-logo="http://1lot.tv/ch/7047.png" ,NATIONAL GEOGRAPHICS HD [IL]
-http://s.only4.tv/7047/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="nat-geo-wild" tvg-logo="http://1lot.tv/ch/7048.png" ,NAT GEO WILD HD [IL]
-http://s.only4.tv/7048/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-sport-1" tvg-logo="http://1lot.tv/ch/7049.png" ,SPORT 1 HD [IL]
-http://s.only4.tv/7049/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-sport-2" tvg-logo="http://1lot.tv/ch/7050.png" ,SPORT 2 HD [IL]
-http://s.only4.tv/7050/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-sport-3" tvg-logo="http://1lot.tv/ch/7051.png" ,SPORT 3 HD [IL]
-http://s.only4.tv/7051/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-sport-4" tvg-logo="http://1lot.tv/ch/7052.png" ,SPORT 4 HD [IL]
-http://s.only4.tv/7052/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-sport-5" tvg-logo="http://1lot.tv/ch/7053.png" ,SPORT 5 HD [IL]
-http://s.only4.tv/7053/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/7054.png" ,HOT TV Israeli Cinema HD [IL]
-http://s.only4.tv/7054/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="5sport-live-il" tvg-logo="http://1lot.tv/ch/7055.png" ,SPORT 5 LIVE HD [IL]
-http://s.only4.tv/7055/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="5sport-gold-il" tvg-logo="http://1lot.tv/ch/7056.png" ,SPORT 5 GOLD [IL]
-http://s.only4.tv/7056/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="5sport-stars-il" tvg-logo="http://1lot.tv/ch/7046.png" ,SPORT 5 STARS [IL]
-http://s.only4.tv/7046/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-doku" tvg-logo="http://1lot.tv/ch/7058.png" ,YES DOCU HD [IL]
-http://s.only4.tv/7058/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="channel-12-il" tvg-logo="http://1lot.tv/ch/7062.png" ,12 Keshet [IL]
-http://s.only4.tv/7062/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7063.png" ,GOOD LIFE TV [IL]
-http://s.only4.tv/7063/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7064.png" ,Channel 24 [IL]
-http://s.only4.tv/7064/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="history" tvg-logo="http://1lot.tv/ch/7065.png" ,HISTORY HD [IL]
-http://s.only4.tv/7065/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="channel-13-il" tvg-logo="http://1lot.tv/ch/7067.png" ,13 Reshet [IL]
-http://s.only4.tv/7067/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes2" tvg-logo="http://1lot.tv/ch/7070.png" ,YES MOVIES ACTION HD [IL]
-http://s.only4.tv/7070/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes3" tvg-logo="http://1lot.tv/ch/7071.png" ,YES MOVIES COMEDY HD [IL]
-http://s.only4.tv/7071/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes1" tvg-logo="http://1lot.tv/ch/7072.png" ,YES MOVIES DRAMA HD [IL]
-http://s.only4.tv/7072/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-movies-kids" tvg-logo="http://1lot.tv/ch/7073.png" ,YES MOVIES KIDS HD [IL]
-http://s.only4.tv/7073/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/7074.png" ,YAM TIHONI PLUS HD [IL]
-http://s.only4.tv/7074/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/7075.png" ,HOT TV Cinema Family HD [IL]
-http://s.only4.tv/7075/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7076.png" ,Luli TV [IL]
-http://s.only4.tv/7076/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7077.png" ,HOT Zone HD [IL]
-http://s.only4.tv/7077/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-comedy" tvg-logo="http://1lot.tv/ch/7081.png" ,YES TV COMEDY HD [IL]
-http://s.only4.tv/7081/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes-drama" tvg-logo="http://1lot.tv/ch/7082.png" ,YES TV DRAMA HD [IL]
-http://s.only4.tv/7082/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="9kanal-israel" tvg-logo="http://1lot.tv/ch/7084.png" ,Channel 9 HD [IL]
-http://s.only4.tv/7084/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="disney-jr" tvg-logo="http://1lot.tv/ch/7087.png" ,DISNEY JR. HD [IL]
-http://s.only4.tv/7087/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7106.png" ,MAKAN HD [IL]
-http://s.only4.tv/7106/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7107.png" ,Real TV [IL]
-http://s.only4.tv/7107/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7109.png" ,Channel 14 [IL]
-http://s.only4.tv/7109/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="nickelodeon-ru" tvg-logo="http://1lot.tv/ch/7110.png" ,Nickelodeon HD [IL]
-http://s.only4.tv/7110/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="one-il" tvg-logo="http://1lot.tv/ch/7111.png" ,ONE 1 HD [IL]
-http://s.only4.tv/7111/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7114.png" ,VIVA Telenovelas [IL]
-http://s.only4.tv/7114/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7115.png" ,VIVA Istanbul [IL]
-http://s.only4.tv/7115/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7116.png" ,YAM TIHONI HD [IL]
-http://s.only4.tv/7116/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7118.png" ,FREE TV MOVIES COMEDY HD [IL]
-http://s.only4.tv/7118/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/7119.png" ,STAR Channel [IL]
-http://s.only4.tv/7119/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/7120.png" ,ONE 1 DOCO HD [IL]
-http://s.only4.tv/7120/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8386.png" ,Wiz [IL]
-http://s.only4.tv/8386/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="travel-channel" tvg-logo="http://1lot.tv/ch/8387.png" ,Travel Channel [IL]
-http://s.only4.tv/8387/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8394.png" ,Big 26 LIVE [IL]
-http://s.only4.tv/8394/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8396.png" ,HOP [IL]
-http://s.only4.tv/8396/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8397.png" ,YAM TIHONI 2 [IL]
-http://s.only4.tv/8397/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8398.png" ,Viva Premium HD [IL]
-http://s.only4.tv/8398/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="food-network-eu" tvg-logo="http://1lot.tv/ch/8399.png" ,Food Network [IL]
-http://s.only4.tv/8399/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8400.png" ,Health Channel [IL]
-http://s.only4.tv/8400/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8401.png" ,Humor Channel [IL]
-http://s.only4.tv/8401/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8403.png" ,HOT Cinema 2 [IL]
-http://s.only4.tv/8403/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8406.png" ,HOT TV 8 HD [IL]
-http://s.only4.tv/8406/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8407.png" ,HOT TV Cinema Family [IL]
-http://s.only4.tv/8407/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8408.png" ,HOT HBO HD [IL]
-http://s.only4.tv/8408/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8409.png" ,HOT TV Bidur Israeli HD [IL]
-http://s.only4.tv/8409/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8410.png" ,HOT Comedy Central HD [IL]
-http://s.only4.tv/8410/index.m3u8?token=YwQouHsBvm
-#EXTINF:-1 group-title="Israel 🇮🇱 " tvg-id="yes4" tvg-logo="http://1lot.tv/ch/8413.png" ,YES TV Movies Israeli Kino HD [IL]
-http://s.only4.tv/8413/index.m3u8?token=YwQouHsBvm
-#EXTINF:0 tvg-rec="3",Kan Educational HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7190/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2329/index.m3u8
-#EXTINF:0 tvg-rec="3",Reshet 13 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2330/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2331/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan 11 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2332/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Jr IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2333/index.m3u8
-#EXTINF:0 tvg-rec="3",TeenNick IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2334/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2337/index.m3u8
-#EXTINF:0 tvg-rec="3",hop IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2338/index.m3u8
-#EXTINF:0 tvg-rec="3",Home Plus IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2339/index.m3u8
-#EXTINF:0 tvg-rec="3",ONE HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2340/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 5 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2341/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Israeli Cinema
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2342/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes DRAMA HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2343/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes DOCU HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2344/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes COMEDY HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2345/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes ACTION HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2346/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Comedy IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2348/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Kids IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2349/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Action IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2350/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Drama IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2351/index.m3u8
-#EXTINF:0 tvg-rec="3",Hot HBO HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2354/index.m3u8
-#EXTINF:0 tvg-rec="3",Good Life IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2355/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT cinema 4 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2356/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT cinema 1 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2357/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2358/index.m3u8
-#EXTINF:0 tvg-rec="3",ZOOM IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2359/index.m3u8
-#EXTINF:0 tvg-rec="3",Hot Zone
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2360/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2361/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 5+ Live HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2362/index.m3u8
-#EXTINF:0 tvg-rec="3",Harutz Hadramot Haturkiyot
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2363/index.m3u8
-#EXTINF:0 tvg-rec="3",Hot Luli
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2364/index.m3u8
-#EXTINF:0 tvg-rec="3",Movies Kids IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2365/index.m3u8
-#EXTINF:0 tvg-rec="3",Junior IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2366/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT 3
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2367/index.m3u8
-#EXTINF:0 tvg-rec="3",Hop! Yaldut Israelit
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2368/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 98 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2369/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2370/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT cinema 3 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2372/index.m3u8
-#EXTINF:0 tvg-rec="3",ONE 2 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2373/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2374/index.m3u8
-#EXTINF:0 tvg-rec="3",Ego Total IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2376/index.m3u8
-#EXTINF:0 tvg-rec="3",Food Network IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2377/index.m3u8
-#EXTINF:0 tvg-rec="3",Health IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2378/index.m3u8
-#EXTINF:0 tvg-rec="3",Entertainment IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2379/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan Elady
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2380/index.m3u8
-#EXTINF:0 tvg-rec="3",Mekan 33
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2381/index.m3u8
-#EXTINF:0 tvg-rec="3",Viva+ IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2382/index.m3u8
-#EXTINF:0 tvg-rec="3",i24 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2386/index.m3u8
-#EXTINF:0 tvg-rec="3",VIVA IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2387/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 4 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2389/index.m3u8
-#EXTINF:0 tvg-rec="3",Yamtihoni IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2390/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 5 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2391/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Docu FHD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7113/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 orig
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7203/index.m3u8
-#EXTINF:0 tvg-rec="0",EGO TOTAL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12207/index.m3u8
-#EXTINF:0 tvg-rec="0",EXTREME IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12208/index.m3u8
-#EXTINF:0 tvg-rec="0",FOOD CHANNE IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12209/index.m3u8
-#EXTINF:0 tvg-rec="0",HEALTH CHANNEL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12210/index.m3u8
-#EXTINF:0 tvg-rec="0",HIDABRUT IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12211/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT3 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12214/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT CINEMA 2 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12215/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT8 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12216/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT COMEDY CENTRAL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12217/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT CINEMA 4 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12218/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT ENTERTAINMENT HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12219/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT CINEMA 3 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12220/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT ZONE HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12222/index.m3u8
-#EXTINF:0 tvg-rec="0",HUMOR CHANNEL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12223/index.m3u8
-#EXTINF:0 tvg-rec="0",LIFETIME HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12224/index.m3u8
-#EXTINF:0 tvg-rec="0",MUSIC 24 IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12226/index.m3u8
-#EXTINF:0 tvg-rec="0",ONE 2 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12231/index.m3u8
-#EXTINF:0 tvg-rec="0",5 STARS HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12232/index.m3u8
-#EXTINF:0 tvg-rec="0",YAM TIHONI HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12235/index.m3u8
-#EXTINF:0 tvg-rec="0",CHANNEL 12 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12236/index.m3u8
-#EXTINF:0 tvg-rec="0",ערוץ 24
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12237/index.m3u8
-#EXTINF:0 tvg-rec="0",ערוץ 14
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12239/index.m3u8
-#EXTINF:0 tvg-rec="0",JUNIOR IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12240/index.m3u8
-#EXTINF:0 tvg-rec="0",DISCOVERY CHANNEL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12241/index.m3u8
-#EXTINF:0 tvg-rec="0",DISNEY CHANNEL HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12242/index.m3u8
-#EXTINF:0 tvg-rec="0",E! IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12243/index.m3u8
-#EXTINF:0 tvg-rec="0",HOP HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12244/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT CINEMA 1 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12245/index.m3u8
-#EXTINF:0 tvg-rec="0",LULI IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12246/index.m3u8
-#EXTINF:0 tvg-rec="0",NATIONAL GEOGRAPHICS HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12247/index.m3u8
-#EXTINF:0 tvg-rec="0",NET GEO_WILD HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12248/index.m3u8
-#EXTINF:0 tvg-rec="0",SPORT 1 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12249/index.m3u8
-#EXTINF:0 tvg-rec="0",SPORT 2 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12250/index.m3u8
-#EXTINF:0 tvg-rec="0",SPORT 3 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12251/index.m3u8
-#EXTINF:0 tvg-rec="0",SPORT 5 GOLD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12254/index.m3u8
-#EXTINF:0 tvg-rec="0",SPORT 5 LIVE HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12255/index.m3u8
-#EXTINF:0 tvg-rec="0",5Stars HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12256/index.m3u8
-#EXTINF:0 tvg-rec="0",YES ISRAELI CINEMA IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12257/index.m3u8
-#EXTINF:0 tvg-rec="0",YES DOCU HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12258/index.m3u8
-#EXTINF:0 tvg-rec="0",NAT GEO WILD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12259/index.m3u8
-#EXTINF:0 tvg-rec="0",CHANNEL 13 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12260/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12261/index.m3u8
-#EXTINF:0 tvg-rec="0",CHANNEL 24 MUSIC HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12262/index.m3u8
-#EXTINF:0 tvg-rec="0",HALA TV IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12264/index.m3u8
-#EXTINF:0 tvg-rec="0",HISTORY HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12265/index.m3u8
-#EXTINF:0 tvg-rec="0",A+ HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12266/index.m3u8
-#EXTINF:0 tvg-rec="0",BOLLYWOOD HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12267/index.m3u8
-#EXTINF:0 tvg-rec="0",BOLLYSHOW HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12268/index.m3u8
-#EXTINF:0 tvg-rec="0",Knesset Channel IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12269/index.m3u8
-#EXTINF:0 tvg-rec="0",YES MOVIES ACTION HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12270/index.m3u8
-#EXTINF:0 tvg-rec="0",YES MOVIES COMEDY HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12271/index.m3u8
-#EXTINF:0 tvg-rec="0",YES MOVIES DRAMA HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12272/index.m3u8
-#EXTINF:0 tvg-rec="0",YES MOVIES KIDS HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12273/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV MUSIC IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12274/index.m3u8
-#EXTINF:0 tvg-rec="0",STARS IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12278/index.m3u8
-#EXTINF:0 tvg-rec="0",YES TV ACTION HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12280/index.m3u8
-#EXTINF:0 tvg-rec="0",YES TV COMEDY HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12281/index.m3u8
-#EXTINF:0 tvg-rec="0",YES TV DRAMA HD IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12282/index.m3u8
-#EXTINF:0 tvg-rec="0",WIZ IL
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/12283/index.m3u8
+#EXTM3U
+#EXTINF:-1,Israel: ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1,Israel: Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1,Israel: Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1,Israel: Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,Israel: Sport אתר ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
+#EXTINF:-1,Israel: هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1,IL: Baby TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163444
+#EXTINF:-1,IL: BollyShow
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90946
+#EXTINF:-1,IL: CH 9
+http://skylogic.site:8080/esterichannel50con/36cb6c13/23362
+#EXTINF:-1,IL: CH 11 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14771
+#EXTINF:-1,IL: CH 12 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172325
+#EXTINF:-1,IL: CH 20
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14773
+#EXTINF:-1,IL: Disney Junior
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163450
+#EXTINF:-1,IL: HALA TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147162
+#EXTINF:-1,IL: Hidabroot Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24102
+#EXTINF:-1,IL: HOME +
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163453
+#EXTINF:-1,IL: HOT #
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163448
+#EXTINF:-1,IL: HOT 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90952
+#EXTINF:-1,IL: HOT C4
+http://skylogic.site:8080/esterichannel50con/36cb6c13/171758
+#EXTINF:-1,IL: JUNIOR
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90954
+#EXTINF:-1,IL: Kabbalah TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/158596
+#EXTINF:-1,IL: Keshet 12 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/23363
+#EXTINF:-1,IL: Knesset Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24105
+#EXTINF:-1,IL: MIKAN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163467
+#EXTINF:-1,IL: MUSIC 24
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90955
+#EXTINF:-1,IL: Reshet 13
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14772
+#EXTINF:-1,IL: Teen nick
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163447
+#EXTINF:-1,IL: VIVA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163477
+#EXTINF:-1,IL: VIVA PLUS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90947
+#EXTINF:-1,IL: YES 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14775
+#EXTINF:-1,IL: YES 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14776
+#EXTINF:-1,IL: Yes DOCU
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24124
+#EXTINF:-1,IL: Yes Hala FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166424
+#EXTINF:-1,IL: Yes Knesest Tv
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14783
+#EXTINF:-1,IL: Yes Movies Action FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196396
+#EXTINF:-1,IL: YES Movies COMEDY
+http://skylogic.site:8080/esterichannel50con/36cb6c13/40607
+#EXTINF:-1,IL: Yes Shopping
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172319
+#EXTINF:-1,IL: YES SPORT 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172324
+#EXTINF:-1,IL: YES SPORT 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172322
+#EXTINF:-1,IL: YES SPORT 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196394
+#EXTINF:-1,IL: YES SPORT 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172320
+#EXTINF:-1,IL: YES SPORT 5
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172323
+#EXTINF:-1,IL: YES SPORT 5 PLUS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14789
+#EXTINF:-1,IL: Yes TeenNick FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196416
+#EXTINF:-1,IL: Yes Travel Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/171743
+#EXTINF:-1,IL: YES TV ACTION HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163479
+#EXTINF:-1,IL: YES TV COMEDY HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14781
+#EXTINF:-1,IL: YES TV DRAMA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14782
+#EXTINF:-1,IL: Yes Viva HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14786
+#EXTINF:-1,IL: ZOOM HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90949
