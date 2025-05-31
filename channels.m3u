@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",ערוץ הקומדיות
+https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/profile/0/profileManifest.m3u8?_uid=e8cd7312-22a7-4118-932c-12867673cfb7&rK=a6&_did=dc3f38af5e7d93ae302bca252efcc54d4eb79e8c
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",ערוץ הריאליטי
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_1.m3u8
