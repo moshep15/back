@@ -8,3 +8,6 @@ https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/in
 
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7f5a916948b4bd9a0db18be35ef3d3f/version/4/width/320/height/180/quality/70.jpg",ערוץ הנופש
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_1.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2021/03/10/Live10032021.gif",קשת 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1748781857~acl=%2f*~data=hdntl~hmac=e73e5adab66384c0d00822d320e2bd692001faac3501ab1f538e2594ac547458/profileManifest.m3u8?_uid=212b89b9-4f35-4e76-ae72-e62933691ccb&rK=b6&_did=27e3f669-9e5b-4b96-9c73-15d6133f8595
