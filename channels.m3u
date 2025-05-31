@@ -15,6 +15,9 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hd
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d1b1e11e36248d4a164b2ce4d660e5e/version/36/width/288/height/153/",רשת 13
 https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/profileManifest.m3u8?_uid=4153f688-dae1-4e4a-8ddc-464c44fd3661&rK=a1&_did=9ad170aa-ef47-45ed-822f-1adf7b446ec5
 
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2020/02/17/logocleannew_i.jpg",ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1748783608~acl=%2f*~data=hdntl~hmac=97513c8197d77ac03a9431d02bf5775fce39fa2a1d293d4bf707aef99fedc11f/video_10801920_p_1.m3u8
+
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_Eretz_i_NEW.jpg",ערוץ ארץ נהדרת
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1748782044~acl=%2f*~data=hdntl~hmac=9f63346599f0a4125ed559efb21db9e39cd1c1a8bbee47e66a9edd795ac8721c/video_5761024_p_0.m3u8
 
