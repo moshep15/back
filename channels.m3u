@@ -18,11 +18,11 @@ https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_Eretz_i_NEW.jpg",ערוץ ארץ נהדרת
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1748782044~acl=%2f*~data=hdntl~hmac=9f63346599f0a4125ed559efb21db9e39cd1c1a8bbee47e66a9edd795ac8721c/video_5761024_p_0.m3u8
 
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_Eretz_i_NEW.jpg",ערוץ סברי מרנן
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_savri_i_NEW.jpg",ערוץ סברי מרנן
 https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1748782074~acl=%2f*~data=hdntl~hmac=69d1197b27697d946d4052f46677c1c762d30795dc2f2f193734b8c38cc633d2/video_5761024_p_0.m3u8
 
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_Eretz_i_NEW.jpg",ערוץ חתונמי
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_hatunami_i_NEW.jpg",ערוץ חתונמי
 https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1748782120~acl=%2f*~data=hdntl~hmac=0a6603cafc37ca5f0a049568765451c3d3ba3244543b089abcf13d9067643dc1/video_5761024_p_0.m3u8
 
-#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_Eretz_i_NEW.jpg",ערוץ נינג'ה ישראל
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_ninja_i_NEW.jpg",ערוץ נינג'ה ישראל
 https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1748782165~acl=%2f*~data=hdntl~hmac=24190941991964515d8d6adbdc7fccaf65f55ae311711132622a0b8198ef9d3c/video_5761024_p_0.m3u8
