@@ -32,3 +32,7 @@ https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=17487
 
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_ninja_i_NEW.jpg",ערוץ הכוכב הבא
 https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1749965988~acl=%2f*~data=hdntl~hmac=8bbe8c8bcbbdb8e05579b5425a56714d587ef5e2330c62d5c37bdfde988b21bf/video_5761024_p_0.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c460a545df0644ba986ff12ba99aa94f/version/5/width/320/height/180/quality/70.jpg",CNN
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+
