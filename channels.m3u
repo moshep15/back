@@ -23,6 +23,7 @@ https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=17487
 
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2024/10/28/chanel_kohav_i_NEW.jpg",ערוץ הכוכב הבא
 https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1749965988~acl=%2f*~data=hdntl~hmac=8bbe8c8bcbbdb8e05579b5425a56714d587ef5e2330c62d5c37bdfde988b21bf/video_5761024_p_0.m3u8
+
 #EXTINF:-1 tvg-id="11" group-title="TV" tvg-logo="https://img.mako.co.il/2021/03/10/Live10032021.gif",קשת 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1748781857~acl=%2f*~data=hdntl~hmac=e73e5adab66384c0d00822d320e2bd692001faac3501ab1f538e2594ac547458/profileManifest.m3u8?_uid=212b89b9-4f35-4e76-ae72-e62933691ccb&rK=b6&_did=27e3f669-9e5b-4b96-9c73-15d6133f8595
 
