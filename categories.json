@@ -1,0 +1,244 @@
+[
+  {
+    "label": "test1",
+    "items": [
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+9%3A+%D7%9E%D7%96%D7%A8%D7%97+%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%94&amp;url=--kaltura--0_20sjokia%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1550331889%252FM137689.sub_.01_m0rvtn.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "01:20"
+      },
+      {
+        "label": "new6",
+        "url": "pplugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+8%3A+%D7%9C%D7%91%D7%A0%D7%95%D7%9F&amp;url=--kaltura--0_071htfw4%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1549619354%252FM137688.sub_.06_chjwil.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "01:30"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+7%3A+%D7%9E%D7%A8%D7%95%D7%A7%D7%95&amp;url=--kaltura--0_4vfo75ai%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1549017823%252Fpassport-recipe-s02-ep07-full.sub_.18_hnsjdj.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "01:40"
+      },
+      {
+        "label": "test7",
+        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D08.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%A0%D7%99%D7%94+%D7%91%D7%95%D7%A7%D7%A9%D7%98%D7%99%D7%99%D7%9F%5B%2FCOLOR%5D+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253De22724718be78910VgnVCM100000700a10acRCRD%2526videoChannelId%253D996fc9fd609d3910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F08%252FGalit_Ilanit_080825_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "02:00"
+      },
+      {
+        "label": "new",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+08.08.25+-+%D7%A9%D7%A8%D7%95%D7%9F+%D7%A6%27%D7%A8%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D1ddb8e46d0578910VgnVCM200000650a10acRCRD%2526videoChannelId%253Dfe0f31f62b628910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F08%252FOtef_Israel_080825_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "10:00"
+      },
+      {
+        "label": "test1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+03.04.17+-+%D7%A7%D7%A6%D7%99%D7%A6%D7%95%D7%AA+%D7%A9%D7%9C+%D7%A1%D7%91%D7%AA%D7%90+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D21baadca2723b510VgnVCM2000002a0c10acRCRD%2526videoChannelId%253D4a97c377dfe1b510VgnVCM2000002a0c10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2017%252F04%252F03%252FHD-1_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "10:20"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+01.08.25+-+%D7%90%D7%95%D7%A8%D7%9F+%D7%94%D7%9B%D7%A1%D7%98%D7%A8+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D6838e9f8c0b38910VgnVCM200000650a10acRCRD%2526videoChannelId%253Dfe0f31f62b628910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F01%252FOtef_Israel3_02_010825_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "10:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+25.07.25+-+%D7%AA%D7%9E%D7%A8+%D7%A2%D7%96%D7%90%D7%A0%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Da9ec6f052a638910VgnVCM200000650a10acRCRD%2526videoChannelId%253Dfe0f31f62b628910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F25%252FOtef_Israel3_01_250525_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "11:00"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+04.04.25+-+%D7%A1%D7%95%D7%A9%D7%99+%D7%90%D7%A1%D7%99%D7%99%D7%AA%D7%99-%D7%99%D7%9D+%D7%AA%D7%99%D7%9B%D7%95%D7%A0%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D38d08561d85f5910VgnVCM200000650a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F04%252FOhlim_Et_Jerusalem_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "11:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+26.08.23+-+%D7%A1%D7%9C%D7%98+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%90%D7%A1%D7%99%D7%99%D7%AA%D7%99+%D7%9E%D7%A4%D7%A0%D7%A7+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2f7e33666953a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F08%252F27%252F24_Mazminim_Shulhan2_01_270823_vod_re_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "11:40"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+11.04.25+-+%D7%A8%D7%97%D7%95%D7%91+%D7%A2%D7%96%D7%94+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D4782760036e16910VgnVCM100000700a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F11%252FOhalim_Et_Yerushalaim_110425_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "12:00"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+02.09.23+-+%D7%91%D7%95%D7%A8%D7%A7%D7%A1+%D7%91%D7%A9%D7%A8+%D7%A2%D7%A9%D7%99%D7%A8+%D7%91%D7%98%D7%A2%D7%9E%D7%99%D7%9D+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0a8d675aeeb4a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F03%252F24_Mazminim_Shulhan2_02_030923_vod_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "12:20"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+25.04.25+-+%D7%9E%D7%A8%D7%9B%D7%96+%D7%94%D7%A2%D7%99%D7%A8+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D7137b86d27666910VgnVCM100000700a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F25%252FOchlim_Et_Yerushalayim_03_250425_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "12:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+04.02.25+-+%D7%9E%D7%92%D7%9C%D7%99%D7%9D+%D7%90%D7%AA+%D7%90%D7%95%D7%A4%D7%A7%D7%99%D7%9D+%D7%A2%D7%9D+%D7%A9%D7%92%D7%91+%D7%9E%D7%A9%D7%94+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253De43c2c01adfc4910VgnVCM100000700a10acRCRD%2526videoChannelId%253D0311cae58acc4910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F02%252F04%252FMegalim_Et_Ofakim_040225_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "13:00"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+09.09.23+-+%D7%A4%D7%A1%D7%98%D7%94+%D7%A7%D7%95%D7%A0%D7%9B%D7%99%D7%95%D7%AA+%D7%95%D7%9B%D7%93%D7%95%D7%A8%D7%99+%D7%91%D7%A9%D7%A8+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D11b06d47ddf6a810VgnVCM200000650a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F10%252F24_mazminim_shulchan2_03_100923_vod_kfgl54_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "13:20"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+04.02.25+-+%D7%9E%D7%92%D7%9C%D7%99%D7%9D+%D7%90%D7%AA+%D7%90%D7%95%D7%A4%D7%A7%D7%99%D7%9D+%D7%A2%D7%9D+%D7%A9%D7%92%D7%91+%D7%9E%D7%A9%D7%94+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253De43c2c01adfc4910VgnVCM100000700a10acRCRD%2526videoChannelId%253D0311cae58acc4910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F02%252F04%252FMegalim_Et_Ofakim_040225_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "13:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+14.10.24+-+%D7%A1%D7%A0%D7%93%D7%A8%D7%94+%D7%95%D7%A9%D7%92%D7%91+%D7%91%D7%A9%D7%93%D7%A8%D7%95%D7%AA+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D4d89fa3923c62910VgnVCM100000700a10acRCRD%2526videoChannelId%253Dab7337826eb62910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F19%252FMegalim_Et_Sderot_1_181024_VOD_kljhg342_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "14:00"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+19.12.24+-+%D7%9E%D7%A1%D7%A2+%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99+%D7%91%D7%A9%D7%93%D7%A8%D7%95%D7%AA+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D1247e332fb9d3910VgnVCM100000700a10acRCRD%2526videoChannelId%253Dab7337826eb62910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F19%252FMegalim_Et_Sderot_02_191224_VOD_arc1212_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "14:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+04.08.25+-+%D7%A1%D7%99%D7%95%D7%A8+%D7%91%D7%A2%D7%99%D7%A8+%D7%94%D7%93%D7%A8%D7%95%D7%9E%D7%99%D7%AA+%D7%91%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D659680f8ffe68910VgnVCM200000650a10acRCRD%2526videoChannelId%253D263d4b8611078910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F04%252FMegalim_Et_Ashkelon_01_040825_VOD_re_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "15:00"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+8+%2A+31.07.25+-+%D7%A0%D7%99%D7%95+%D7%99%D7%95%D7%A8%D7%A7+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Df0f555a867a58910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F31%252FTaam_Shel_Hul_08_310725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "15:30"
+      },
+      {
+        "label": "new1",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+7+%2A+24.07.25+-+%D7%98%D7%91%D7%99%D7%9C%D7%99%D7%A1%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Db7fb7a3b81638910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F24%252FTaam_shel_Hul_7_240725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "16:00"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+6+%2A+10.07.25+-+%D7%91%D7%95%D7%93%D7%A4%D7%A9%D7%98+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dc1af5da0313f7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F10%252FTaam_shel_Hul_06_100725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "16:30"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+5+%2A+03.07.25+-+%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Db432211aadec7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F03%252FTaam_shel_Hul_05_030725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "17:00"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+4+%2A+26.06.25+-+%D7%90%D7%AA%D7%95%D7%A0%D7%94+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Df56fab93ce5a7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F26%252FTaam_Shel_Hul_04_260625_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "17:30"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+12.06.25+-+%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D++&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D69f9353143e57910VgnVCM200000650a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F12%252FTaam_Shel_Hul_3_120625_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "18:00"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+05.06.25+-+%D7%A8%D7%95%D7%9E%D7%90+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Da0f4d21c69937910VgnVCM200000650a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F05%252FTaam_Shel_Hul_2_050625_vod_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "18:30"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+29.05.25+-+%D7%A4%D7%A8%D7%99%D7%96+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D16bb08d99a517910VgnVCM200000650a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F29%252FTaam_Shel_Hul_1_290525_VOD_re_autoOrient_i.jpg&amp;module=keshet&amp;moredata=bes",
+        "time": "19:00"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+8+%2A+20.07.25+-+%D7%A8%D7%96+%D7%94%D7%A8%D7%A9%D7%A7%D7%95+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D15eb7177a3718910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F20%252FTamara_VeHaverim_08_200725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "19:30"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+10%3A+%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%94&amp;url=--kaltura--0_93npbepo%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1550936679%252Fpassport-recipe-s02-ep10-full.sub_.08_huvgbn.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "19:35"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+26.08.23+-+%D7%A1%D7%9C%D7%98+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%90%D7%A1%D7%99%D7%99%D7%AA%D7%99+%D7%9E%D7%A4%D7%A0%D7%A7+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2f7e33666953a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F08%252F27%252F24_Mazminim_Shulhan2_01_270823_vod_re_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "19:40"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+02.09.23+-+%D7%91%D7%95%D7%A8%D7%A7%D7%A1+%D7%91%D7%A9%D7%A8+%D7%A2%D7%A9%D7%99%D7%A8+%D7%91%D7%98%D7%A2%D7%9E%D7%99%D7%9D+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0a8d675aeeb4a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F03%252F24_Mazminim_Shulhan2_02_030923_vod_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "19:50"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+09.09.23+-+%D7%A4%D7%A1%D7%98%D7%94+%D7%A7%D7%95%D7%A0%D7%9B%D7%99%D7%95%D7%AA+%D7%95%D7%9B%D7%93%D7%95%D7%A8%D7%99+%D7%91%D7%A9%D7%A8+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D11b06d47ddf6a810VgnVCM200000650a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F10%252F24_mazminim_shulchan2_03_100923_vod_kfgl54_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "19:55"
+      },
+      {
+        "label": "new4",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+7+%2A+13.07.25+-+%D7%A9%D7%9C%D7%9E%D7%95%D7%A8+%D7%A9%D7%98%D7%A8%D7%95%D7%96%D7%9E%D7%9F++&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D89a4a1bcb14f7910VgnVCM200000650a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F13%252FTamara_Vehaverim_07_130725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "20:00"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+6+%2A+06.07.25+-+%D7%9C%D7%99%D7%94%D7%99%D7%90+%D7%92%D7%A8%D7%99%D7%A0%D7%A8++&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D3f93776406ed7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F06%252FTamara_Vehaverim_06_060725_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "20:30"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+5+%2A+30.06.25+-+%D7%93%D7%95%D7%9F+%D7%9C%D7%A0%D7%99+%D7%92%D7%91%D7%90%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dff6ba22787fb7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F30%252FTamara_Vehaverim_300625_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "21:00"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+4+%2A+26.06.25+-+%D7%A8%D7%99%D7%98%D7%94+%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dff21ab93ce5a7910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F26%252FTamara_VeHaverim_04_260625_VOD_01_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "21:30"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+12%3A+%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%94&amp;url=--kaltura--0_bop8f8tj%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1552069803%252FM137692.sub_.01_gmyuee.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "21:40"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%93%D7%A8%D7%9B%D7%95%D7%9F+%D7%9C%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%2C+%D7%A2%D7%95%D7%A0%D7%94+2%2C+%D7%A4%D7%A8%D7%A7+11%3A+%D7%94%D7%95%D7%93%D7%95&amp;url=--kaltura--0_hc6nrm10%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1551541779%252FM137691.sub_.04_uhqsrz.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "21:45"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+08.06.25+-+%D7%9C%D7%99%D7%A7%D7%99+%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%A8%D7%92+%D7%9E%D7%99%D7%9B%D7%90%D7%9C%D7%99+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D60d4e1fe97f37910VgnVCM200000650a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F06%252F08%252FTamara_Vehaverim_080625_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "22:00"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+25.05.25+-+%D7%94%D7%A9%D7%A3+%D7%A2%D7%95%D7%9E%D7%A8+%D7%9E%D7%99%D7%9C%D7%A8+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Db4f99d9e03607910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F25%252FTamara_Vehaverim_02_250525_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "22:30"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+18.05.25+-+%D7%93%D7%A0%D7%99%D7%AA+%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%A8%D7%92+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D23244dfb3a3d6910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F18%252FTamara_Vehaverim_01_180525_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "23:00"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+18.05.25+-+%D7%93%D7%A0%D7%99%D7%AA+%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%A8%D7%92+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D23244dfb3a3d6910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F18%252FTamara_Vehaverim_01_180525_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "23:20"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%91%D7%90%D7%A0%D7%95+%D7%9C%D7%90%D7%A4%D7%95%D7%AA%2C+%D7%A4%D7%A8%D7%A7+6%3A+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D&amp;url=--kaltura--1_eu5tn506%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1602776597%252Fcame_to_bake_s1_ep06_full.sub_._cig6yl.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "23:30"
+      },
+      {
+        "label": "new5",
+        "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+18.05.25+-+%D7%93%D7%A0%D7%99%D7%AA+%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%A8%D7%92+&amp;url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D23244dfb3a3d6910VgnVCM100000700a10acRCRD%2526videoChannelId%253D997bd4bc3c3d6910VgnVCM200000650a10acRCRD&amp;mode=4&amp;iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F18%252FTamara_Vehaverim_01_180525_VOD_autoOrient_i.jpg&amp;module=keshet&amp;moredata=best",
+        "time": "23:40"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%91%D7%90%D7%A0%D7%95+%D7%9C%D7%90%D7%A4%D7%95%D7%AA%2C+%D7%A4%D7%A8%D7%A7+5%3A+%D7%91%D7%A7%D7%A2%D7%94&amp;url=--kaltura--1_5uqgpvt9%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1602193237%252Fcame_to_bake_s1_ep05_full.sub_._i6lrww.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "23:40"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%91%D7%90%D7%A0%D7%95+%D7%9C%D7%90%D7%A4%D7%95%D7%AA%2C+%D7%A4%D7%A8%D7%A7+4%3A+%D7%94%D7%A2%D7%99%D7%A8+%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94&amp;url=--kaltura--1_9i3kng2q%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1601798882%252FM162863.sub_.06_daqesh.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "23:45"
+      },
+      {
+        "label": "new6",
+        "url": "plugin://plugin.video.idanplus/?name=%D7%91%D7%90%D7%A0%D7%95+%D7%9C%D7%90%D7%A4%D7%95%D7%AA%2C+%D7%A4%D7%A8%D7%A7+3%3A+%D7%9E%D7%97%D7%A0%D7%94+%D7%99%D7%94%D7%95%D7%93%D7%94&amp;url=--kaltura--1_a6ip8hvh%253D%253D%253D&amp;mode=3&amp;iconimage=https%253A%252F%252Fmedia3.reshet.tv%252Fimage%252Fupload%252Ft_vod-player-poster%252Fv1600961782%252FM162862.sub_.04_awvabs.jpg&amp;module=reshet&amp;moredata=best",
+        "time": "23:50"
+      }
+    ]
+  },
+  {
+    "label": "test2",
+    "items": []
