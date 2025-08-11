@@ -728,25 +728,5 @@
         "time": "23:40"
       }
     ]
-  },
-  {
-    "label": "romantic_movies",
-    "items": [
-      {
-        "label": "the_wall",
-        "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;name=1080p+WEB-DL+2025+%D7%96.%D7%9E+%D7%9E%D7%9C%D7%97%D7%9E%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA.mp4&amp;iconimage=https://image.tmdb.org/t/p/original//yvirUYrva23IudARHn3mMGVxWqM.jpg&amp;fanart=https://image.tmdb.org/t/p/original//kqHypb4MdEBUFiphf49bK99T4cn.jpg&amp;description=1.75+GB&amp;url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;no_subs=1&amp;season=%20&amp;episode=%20&amp;mode=3&amp;original_title=War of the Worlds&amp;id=755898&amp;data=",
-        "time": "14:00"
-      },
-      {
-        "label": "קייטי טיילור נגד אמנדה סראנו 3קייטי טיילור נגד אמנדה סראנו 3",
-        "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;name=1080p+WEB-DL+2025+%D7%96.%D7%9E+%D7%9E%D7%9C%D7%97%D7%9E%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA.mp4&amp;iconimage=https://image.tmdb.org/t/p/original//yvirUYrva23IudARHn3mMGVxWqM.jpg&amp;fanart=https://image.tmdb.org/t/p/original//kqHypb4MdEBUFiphf49bK99T4cn.jpg&amp;description=1.75+GB&amp;url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;no_subs=1&amp;season=%20&amp;episode=%20&amp;mode=3&amp;original_title=War of the Worlds&amp;id=755898&amp;data=",
-        "time": "14:20"
-      },
-      {
-        "label": "קטסטרופה מוחלטת: אמריקן אפרלקטסטרופה מוחלטת: אמריקן אפרל",
-        "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;name=1080p+WEB-DL+2025+%D7%96.%D7%9E+%D7%9E%D7%9C%D7%97%D7%9E%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA.mp4&amp;iconimage=https://image.tmdb.org/t/p/original//yvirUYrva23IudARHn3mMGVxWqM.jpg&amp;fanart=https://image.tmdb.org/t/p/original//kqHypb4MdEBUFiphf49bK99T4cn.jpg&amp;description=1.75+GB&amp;url=%7B%22id%22%3A+%223535%22%2C+%22m_id%22%3A+133004525568%2C+%22c_id%22%3A+-1001966795276%7D&amp;no_subs=1&amp;season=%20&amp;episode=%20&amp;mode=3&amp;original_title=War of the Worlds&amp;id=755898&amp;data=",
-        "time": "14:40"
-      }
-    ]
   }
 ]
