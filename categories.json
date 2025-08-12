@@ -734,20 +734,34 @@
     "items": [
       {
         "label": "מעבר לחוק פרק 1",
-        "url": "https://video.sibnet.ru/shell.php?videoid=5983731",
+        "url": "https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
         "time": "06:00"
       },
       {
         "label": "מעבר לחוק פרק 2",
-        "url": "https://video.sibnet.ru/shell.php?videoid=5983763",
+        "url": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
         "time": "06:20"
       },
       {
         "label": "מעבר לחוק פרק 3",
         "url": "https://video.sibnet.ru/v/436abd9853f8fe43518adbfa0e297879/5988142.mp4",
         "time": "06:40"
+      },
+      {
+        "label": "מרי הורגת אנשים פרק 1",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5980809",
+        "time": "18:20"
+      },
+      {
+        "label": "מרי הורגת אנשים פרק 2",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5982032",
+        "time": "18:40"
+      },
+      {
+        "label": "מרי הורגת אנשים פרק 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5987186",
+        "time": "19:00"
       }
     ]
   }
-
 ]
