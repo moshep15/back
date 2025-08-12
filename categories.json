@@ -734,12 +734,12 @@
     "items": [
       {
         "label": "מעבר לחוק פרק 1",
-        "url": "https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5983731",
         "time": "06:00"
       },
       {
         "label": "מעבר לחוק פרק 2",
-        "url": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5983763",
         "time": "06:20"
       },
       {
@@ -749,4 +749,5 @@
       }
     ]
   }
+
 ]
