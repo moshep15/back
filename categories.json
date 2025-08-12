@@ -728,5 +728,25 @@
         "time": "23:40"
       }
     ]
+  },
+  {
+    "label": "korean",
+    "items": [
+      {
+        "label": "מעבר לחוק פרק 1",
+        "url": "https://video.sibnet.ru/v/21268be168ca0c4f1a3e6c7d32967379/5983731.mp4",
+        "time": "06:00"
+      },
+      {
+        "label": "מעבר לחוק פרק 2",
+        "url": "https://video.sibnet.ru/v/d107417643fa159db02342ab99ad86b4/5983763.mp4",
+        "time": "06:20"
+      },
+      {
+        "label": "מעבר לחוק פרק 3",
+        "url": "https://video.sibnet.ru/v/436abd9853f8fe43518adbfa0e297879/5988142.mp4",
+        "time": "06:40"
+      }
+    ]
   }
 ]
