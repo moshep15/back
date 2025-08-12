@@ -1,35 +1,39 @@
 {
-    "series": [
+  "series": [
+    {
+      "title": "המילוט",
+      "episodes": [
         {
-            "title": "המילוט",
-            "episodes": [
-                {
-                    "title": "פרק 1",
-                    "url": "https://archive.org/download/prison1/video.mp4"
-                },
-                {
-                    "title": "פרק 2",
-                    "url": "https://ia800906.us.archive.org/4/items/S_LINE/SLine01.mp4"
-                }
-            ]
+          "title": "פרק 1",
+          "url": "https://archive.org/download/prison1/video.mp4"
         },
         {
-            "title": "החברים",
-            "episodes": [
-                {
-                    "title": "פרק 1",
-                    "url": "https://archive.org/download/friends1/video.mp4"
-                }
-            ]
-        },
-        {
-            "title": "מעבר לחוק",
-            "episodes": [
-                {
-                    "title": "מעבר לחוק פרק 1",
-                    "url": "https://video.sibnet.ru/shell.php?videoid=5983731"
-                }
-            ]
+          "title": "פרק 2",
+          "url": "https://ia800906.us.archive.org/4/items/S_LINE/SLine01.mp4"
         }
-    ]
+      ]
+    },
+    {
+      "title": "החברים",
+      "episodes": [
+        {
+          "title": "פרק 1",
+          "url": "https://archive.org/download/friends1/video.mp4"
+        }
+      ]
+    },
+    {
+      "title": "מעבר לחוק",
+      "episodes": [
+        {
+          "title": "מעבר לחוק פרק 1",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5983731"
+        },
+        {
+          "title": "פרק 2",
+          "url": "https://video.sibnet.ru/v/d107417643fa159db02342ab99ad86b4/5983763.mp4"
+        }
+      ]
+    }
+  ]
 }
