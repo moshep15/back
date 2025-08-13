@@ -748,6 +748,21 @@
         "time": "06:40"
       },
       {
+        "label": "טריגר פרק 1",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5983002",
+        "time": "07:00"
+      },
+      {
+        "label": "טריגר פרק 2",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5983029",
+        "time": "07:20"
+      },
+      {
+        "label": "טריגר פרק 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=5980513",
+        "time": "07:40"
+      },
+      {
         "label": "מרי הורגת אנשים פרק 1",
         "url": "https://video.sibnet.ru/shell.php?videoid=5980809",
         "time": "18:20"
@@ -761,6 +776,11 @@
         "label": "מרי הורגת אנשים פרק 3",
         "url": "https://video.sibnet.ru/shell.php?videoid=5987186",
         "time": "19:00"
+      },
+      {
+        "label": "בדיקה",
+        "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%224748%22%2C+%22m_id%22%3A+2338324480%2C+%22c_id%22%3A+-1001402919915%7D&amp;name=%D7%94%D7%A9%D7%91%D7%95%D7%99&amp;iconimage=https://image.tmdb.org/t/p/original//tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg&amp;fanart=https://image.tmdb.org/t/p/original//4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg&amp;description=%5BCOLOR+blue%5D1080p+WEB-DL+2025+%D7%96%D7%99%D7%A8%D7%94+%D7%9E%D7%93%D7%99%D7%94+%D7%94%D7%A9%D7%91%D7%95%D7%99.mkv%5B%2FCOLOR%5D%0A1.9+GB%0A%D7%90%D7%93%D7%9D+%D7%97%D7%9E%D7%95%D7%A9+%D7%A0%D7%9B%D7%A0%D7%A1+%D7%9C%D7%97%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C+%D7%90%D7%A4%D6%BC%D7%9C+%D7%91%D7%9C%D7%91+%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D%2C+%D7%95%D7%94%D7%9E%D7%A9%D7%98%D7%A8%D7%94+%D7%A0%D7%93%D7%A8%D7%A9%D7%AA+%D7%9C%D7%A4%D7%A2%D7%95%D7%9C+%D7%91%D7%96%D7%94%D7%99%D7%A8%D7%95%D7%AA+%D7%9B%D7%93%D7%99+%D7%9C%D7%A4%D7%AA%D7%95%D7%A8+%D7%90%D7%AA+%D7%94%D7%A1%D7%99%D7%98%D7%95%D7%90%D7%A6%D7%99%D7%94+%D7%94%D7%9E%D7%90%D7%AA%D7%92%D7%A8%D7%AA.&amp;url=%7B%22id%22%3A+%224748%22%2C+%22m_id%22%3A+2338324480%2C+%22c_id%22%3A+-1001402919915%7D&amp;no_subs=0&amp;season=0&amp;episode=0&amp;mode=3&amp;original_title=iHostage&amp;id=1371202&amp;data=",
+        "time": "19:20"
       }
     ]
   }
