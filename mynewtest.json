@@ -1,71 +1,118 @@
 {
-  "categories": {
-    "movies": [
-      {
-        "title": " [COLOR orange]פרק 3 * 18.08.25[/COLOR] - [COLOR yellow]מה השתבש בחופה?[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+18.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9E%D7%94+%D7%94%D7%A9%D7%AA%D7%91%D7%A9+%D7%91%D7%97%D7%95%D7%A4%D7%94%7C%7C%7C%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D9aed111bddbb8910VgnVCM100000700a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F18%252FHatuna_Mimabat_Sheni_03_180825_VOD_2_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "16:00"
-      },
-      {
-        "title": " [COLOR orange]פרק 2 * 12.08.25[/COLOR] - [COLOR yellow]ערב הבכורה השני[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+12.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A2%D7%A8%D7%91+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94+%D7%94%D7%A9%D7%A0%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D3a0f27cb41998910VgnVCM200000650a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F12%252FHatuna_MImabat_Sheni_02_120825_VOD__autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "16:05"
-      },
-      {
-        "title": " [COLOR orange]פרק 10 * 10.07.24[/COLOR] - [COLOR yellow]אחרי 17 שנים[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+10+%2A+10.07.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%97%D7%A8%D7%99+17+%D7%A9%D7%A0%D7%99%D7%9D%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D524f31115e190910VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F07%252F10%252Fahava_gdola_mehahaim_100724_06_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "18:00"
-      },
-      {
-        "title": " [COLOR orange]פרק 11 * 09.09.24[/COLOR] - [COLOR yellow]האהבה של אבי לוי[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+11+%2A+09.09.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%90%D7%94%D7%91%D7%94+%D7%A9%D7%9C+%D7%90%D7%91%D7%99+%D7%9C%D7%95%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D727a6fbf04690910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F09%252F09%252Fahava_gdola_090924_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "18:05"
-      },
-      {
-        "title": " [COLOR orange]פרק 12 * 13.03.25[/COLOR] - [COLOR yellow]תרמית החתונה[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+12+%2A+13.03.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%AA%D7%A8%D7%9E%D7%99%D7%AA+%D7%94%D7%97%D7%AA%D7%95%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8cbdd02c88a85910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F03%252F13%252FAhava_Gdola_Mehachaim_12_130325_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "18:10"
-      },
-      {
-        "title": "בדיקה",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+18.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9E%D7%94+%D7%94%D7%A9%D7%AA%D7%91%D7%A9+%D7%91%D7%97%D7%95%D7%A4%D7%94%7C%7C%7C%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D9aed111bddbb8910VgnVCM100000700a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F18%252FHatuna_Mimabat_Sheni_03_180825_VOD_2_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:00"
-      },
-      {
-        "title": " [COLOR orange]פרק 2 * 12.08.25[/COLOR] - [COLOR yellow]ערב הבכורה השני[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+12.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A2%D7%A8%D7%91+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94+%D7%94%D7%A9%D7%A0%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D3a0f27cb41998910VgnVCM200000650a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F12%252FHatuna_MImabat_Sheni_02_120825_VOD__autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:00"
-      },
-      {
-        "title": " [COLOR orange]פרק 1 * 22.11.22[/COLOR] - [COLOR yellow]פרק הבכורה[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+1+%2A+22.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A4%D7%A8%D7%A7+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D17cc63f7c8e94810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F22%252Fahava_gdola1_01_221122_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:05"
-      },
-      {
-        "title": " [COLOR orange]פרק 2 * 24.11.22[/COLOR] - [COLOR yellow]שידוך משמיים[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+24.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A9%D7%99%D7%93%D7%95%D7%9A+%D7%9E%D7%A9%D7%9E%D7%99%D7%99%D7%9D%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2b210277de8a4810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F24%252Fahava_gdola1_02_241122_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:10"
-      },
-      {
-        "title": " [COLOR orange]פרק 3 * 28.11.22[/COLOR] - [COLOR yellow]סוד משפחתי[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+28.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A1%D7%95%D7%93+%D7%9E%D7%A9%D7%A4%D7%97%D7%AA%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D261c507a36db4810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F28%252Fahava_gdola1_281122_03_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:15"
-      },
-      {
-        "title": " [COLOR orange]פרק 5 * 12.12.22[/COLOR] - [COLOR yellow]לב אמיץ[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+5+%2A+12.12.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9C%D7%91+%D7%90%D7%9E%D7%99%D7%A5%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8834d85fdd505810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F12%252F12%252Fahava_gdola_05_121222_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:20"
-      },
-      {
-        "title": " [COLOR orange]פרק 6 * 02.10.23[/COLOR] - [COLOR yellow]המפגש אחרי 30 שנה[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+6+%2A+02.10.23%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%9E%D7%A4%D7%92%D7%A9+%D7%90%D7%97%D7%A8%D7%99+30+%D7%A9%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D58826cb728ada810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F10%252F02%252Fahava_gdola_mehaim_06_021023_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:25"
-      },
-      {
-        "title": " [COLOR orange]פרק 7 * 25.06.24[/COLOR] - [COLOR yellow]רומיאו ויוליה[/COLOR] ",
-        "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+7+%2A+25.06.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A8%D7%95%D7%9E%D7%99%D7%90%D7%95+%D7%95%D7%99%D7%95%D7%9C%D7%99%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dbbfab13d27430910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F06%252F25%252Fahava_gdola_250624_vod_autoOrient_i.jpg&module=keshet&moredata=best",
-        "time": "21:30"
-      }
-    ]
-  }
+    "categories": {
+        "movies": [
+            {
+                "title": " [COLOR orange]פרק 3 * 18.08.25[/COLOR] - [COLOR yellow]מה השתבש בחופה?[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+18.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9E%D7%94+%D7%94%D7%A9%D7%AA%D7%91%D7%A9+%D7%91%D7%97%D7%95%D7%A4%D7%94%7C%7C%7C%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D9aed111bddbb8910VgnVCM100000700a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F18%252FHatuna_Mimabat_Sheni_03_180825_VOD_2_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "16:00"
+            },
+            {
+                "title": " [COLOR orange]פרק 2 * 12.08.25[/COLOR] - [COLOR yellow]ערב הבכורה השני[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+12.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A2%D7%A8%D7%91+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94+%D7%94%D7%A9%D7%A0%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D3a0f27cb41998910VgnVCM200000650a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F12%252FHatuna_MImabat_Sheni_02_120825_VOD__autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "16:05"
+            },
+            {
+                "title": " [COLOR orange]פרק 10 * 10.07.24[/COLOR] - [COLOR yellow]אחרי 17 שנים[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+10+%2A+10.07.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%97%D7%A8%D7%99+17+%D7%A9%D7%A0%D7%99%D7%9D%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D524f31115e190910VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F07%252F10%252Fahava_gdola_mehahaim_100724_06_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "18:00"
+            },
+            {
+                "title": " [COLOR orange]פרק 11 * 09.09.24[/COLOR] - [COLOR yellow]האהבה של אבי לוי[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+11+%2A+09.09.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%90%D7%94%D7%91%D7%94+%D7%A9%D7%9C+%D7%90%D7%91%D7%99+%D7%9C%D7%95%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D727a6fbf04690910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F09%252F09%252Fahava_gdola_090924_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "18:05"
+            },
+            {
+                "title": " [COLOR orange]פרק 12 * 13.03.25[/COLOR] - [COLOR yellow]תרמית החתונה[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+12+%2A+13.03.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%AA%D7%A8%D7%9E%D7%99%D7%AA+%D7%94%D7%97%D7%AA%D7%95%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8cbdd02c88a85910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F03%252F13%252FAhava_Gdola_Mehachaim_12_130325_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "18:10"
+            },
+            {
+                "title": "בדיקה",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+18.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9E%D7%94+%D7%94%D7%A9%D7%AA%D7%91%D7%A9+%D7%91%D7%97%D7%95%D7%A4%D7%94%7C%7C%7C%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D9aed111bddbb8910VgnVCM100000700a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F18%252FHatuna_Mimabat_Sheni_03_180825_VOD_2_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:00"
+            },
+            {
+                "title": " [COLOR orange]פרק 2 * 12.08.25[/COLOR] - [COLOR yellow]ערב הבכורה השני[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+12.08.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A2%D7%A8%D7%91+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94+%D7%94%D7%A9%D7%A0%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D3a0f27cb41998910VgnVCM200000650a10acRCRD%2526videoChannelId%253D4a9624dc53388910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F08%252F12%252FHatuna_MImabat_Sheni_02_120825_VOD__autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:00"
+            },
+            {
+                "title": " [COLOR orange]פרק 1 * 22.11.22[/COLOR] - [COLOR yellow]פרק הבכורה[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+1+%2A+22.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A4%D7%A8%D7%A7+%D7%94%D7%91%D7%9B%D7%95%D7%A8%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D17cc63f7c8e94810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F22%252Fahava_gdola1_01_221122_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:05"
+            },
+            {
+                "title": " [COLOR orange]פרק 2 * 24.11.22[/COLOR] - [COLOR yellow]שידוך משמיים[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+2+%2A+24.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A9%D7%99%D7%93%D7%95%D7%9A+%D7%9E%D7%A9%D7%9E%D7%99%D7%99%D7%9D%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2b210277de8a4810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F24%252Fahava_gdola1_02_241122_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:10"
+            },
+            {
+                "title": " [COLOR orange]פרק 3 * 28.11.22[/COLOR] - [COLOR yellow]סוד משפחתי[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+3+%2A+28.11.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A1%D7%95%D7%93+%D7%9E%D7%A9%D7%A4%D7%97%D7%AA%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D261c507a36db4810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F11%252F28%252Fahava_gdola1_281122_03_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:15"
+            },
+            {
+                "title": " [COLOR orange]פרק 5 * 12.12.22[/COLOR] - [COLOR yellow]לב אמיץ[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+5+%2A+12.12.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9C%D7%91+%D7%90%D7%9E%D7%99%D7%A5%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8834d85fdd505810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F12%252F12%252Fahava_gdola_05_121222_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:20"
+            },
+            {
+                "title": " [COLOR orange]פרק 6 * 02.10.23[/COLOR] - [COLOR yellow]המפגש אחרי 30 שנה[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+6+%2A+02.10.23%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%9E%D7%A4%D7%92%D7%A9+%D7%90%D7%97%D7%A8%D7%99+30+%D7%A9%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D58826cb728ada810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F10%252F02%252Fahava_gdola_mehaim_06_021023_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:25"
+            },
+            {
+                "title": " [COLOR orange]פרק 7 * 25.06.24[/COLOR] - [COLOR yellow]רומיאו ויוליה[/COLOR] ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+7+%2A+25.06.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A8%D7%95%D7%9E%D7%99%D7%90%D7%95+%D7%95%D7%99%D7%95%D7%9C%D7%99%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dbbfab13d27430910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F06%252F25%252Fahava_gdola_250624_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:30"
+            }
+        ],
+        "tvshows": [
+            {
+                "title": " פרק 4 * 01.12.22 - אהבה במאסר ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+4+%2A+01.12.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%94%D7%91%D7%94+%D7%91%D7%9E%D7%90%D7%A1%D7%A8%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D28ae64c20bcc4810VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F12%252F01%252Fahava_gdola_04_011222_02_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:00"
+            },
+            {
+                "title": " פרק 5 * 12.12.22 - לב אמיץ ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+5+%2A+12.12.22%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%9C%D7%91+%D7%90%D7%9E%D7%99%D7%A5%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8834d85fdd505810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2022%252F12%252F12%252Fahava_gdola_05_121222_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:05"
+            },
+            {
+                "title": " פרק 6 * 02.10.23 - המפגש אחרי 30 שנה ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+6+%2A+02.10.23%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%9E%D7%A4%D7%92%D7%A9+%D7%90%D7%97%D7%A8%D7%99+30+%D7%A9%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D58826cb728ada810VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F10%252F02%252Fahava_gdola_mehaim_06_021023_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:10"
+            },
+            {
+                "title": " פרק 7 * 25.06.24 - רומיאו ויוליה ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+7+%2A+25.06.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%A8%D7%95%D7%9E%D7%99%D7%90%D7%95+%D7%95%D7%99%D7%95%D7%9C%D7%99%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dbbfab13d27430910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F06%252F25%252Fahava_gdola_250624_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:15"
+            },
+            {
+                "title": " פרק 8 * 04.07.24 - הבלתי אפשרי - אפשרי ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+8+%2A+04.07.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%91%D7%9C%D7%AA%D7%99+%D7%90%D7%A4%D7%A9%D7%A8%D7%99+-+%D7%90%D7%A4%D7%A9%D7%A8%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Daf08958f1fe40910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F07%252F04%252Fahava_gdola_08_040724_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:20"
+            },
+            {
+                "title": " פרק 9 * 09.07.24 - אהבה בקהילה סודית ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+9+%2A+09.07.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%94%D7%91%D7%94+%D7%91%D7%A7%D7%94%D7%99%D7%9C%D7%94+%D7%A1%D7%95%D7%93%D7%99%D7%AA%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D426b4fea7b270910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F07%252F09%252Fahava_gdola_09_090724_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:25"
+            },
+            {
+                "title": " פרק 10 * 10.07.24 - אחרי 17 שנים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+10+%2A+10.07.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%90%D7%97%D7%A8%D7%99+17+%D7%A9%D7%A0%D7%99%D7%9D%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D524f31115e190910VgnVCM100000700a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F07%252F10%252Fahava_gdola_mehahaim_100724_06_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:30"
+            },
+            {
+                "title": " פרק 11 * 09.09.24 - האהבה של אבי לוי ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+11+%2A+09.09.24%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%94%D7%90%D7%94%D7%91%D7%94+%D7%A9%D7%9C+%D7%90%D7%91%D7%99+%D7%9C%D7%95%D7%99%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D727a6fbf04690910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F09%252F09%252Fahava_gdola_090924_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:35"
+            },
+            {
+                "title": " פרק 12 * 13.03.25 - תרמית החתונה ",
+                "url": "plugin://plugin.video.idanplus/?name=+%5BCOLOR+orange%5D%D7%A4%D7%A8%D7%A7+12+%2A+13.03.25%5B%2FCOLOR%5D+-+%5BCOLOR+yellow%5D%D7%AA%D7%A8%D7%9E%D7%99%D7%AA+%D7%94%D7%97%D7%AA%D7%95%D7%A0%D7%94%5B%2FCOLOR%5D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8cbdd02c88a85910VgnVCM200000650a10acRCRD%2526videoChannelId%253D261efa83a7e94810VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F03%252F13%252FAhava_Gdola_Mehachaim_12_130325_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "21:40"
+            }
+        ]
+    }
 }
