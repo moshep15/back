@@ -292,6 +292,151 @@
                 "title": " פרק 8 * 31.07.25 - ניו יורק ",
                 "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+8+%2A+31.07.25+-+%D7%A0%D7%99%D7%95+%D7%99%D7%95%D7%A8%D7%A7+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Df0f555a867a58910VgnVCM100000700a10acRCRD%2526videoChannelId%253D15c485bd92617910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F07%252F31%252FTaam_Shel_Hul_08_310725_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
                 "time": "23:25"
+            },
+            {
+                "title": " פרק 5 * 16.05.25 - אזור מאה שערים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+5+%2A+16.05.25+-+%D7%90%D7%96%D7%95%D7%A8+%D7%9E%D7%90%D7%94+%D7%A9%D7%A2%D7%A8%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Db50f82eadc2d6910VgnVCM200000650a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F16%252FOchlim_Et_Yerushalaim2_05_160525_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:00"
+            },
+            {
+                "title": " פרק 4 * 09.05.25 - העיר העתיקה ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+4+%2A+09.05.25+-+%D7%94%D7%A2%D7%99%D7%A8+%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253De029267a1a9a6910VgnVCM200000650a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F05%252F09%252FOchlim_Et_Yerushalayim2_04_090525_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:05"
+            },
+            {
+                "title": " פרק 3 * 25.04.25 - מרכז העיר ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+25.04.25+-+%D7%9E%D7%A8%D7%9B%D7%96+%D7%94%D7%A2%D7%99%D7%A8+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D7137b86d27666910VgnVCM100000700a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F25%252FOchlim_Et_Yerushalayim_03_250425_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:10"
+            },
+            {
+                "title": " פרק 2 * 11.04.25 - רחוב עזה ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+11.04.25+-+%D7%A8%D7%97%D7%95%D7%91+%D7%A2%D7%96%D7%94+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D4782760036e16910VgnVCM100000700a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F11%252FOhalim_Et_Yerushalaim_110425_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:15"
+            },
+            {
+                "title": " פרק 1 * 04.04.25 - סושי אסייתי-ים תיכוני ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+04.04.25+-+%D7%A1%D7%95%D7%A9%D7%99+%D7%90%D7%A1%D7%99%D7%99%D7%AA%D7%99-%D7%99%D7%9D+%D7%AA%D7%99%D7%9B%D7%95%D7%A0%D7%99+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D38d08561d85f5910VgnVCM200000650a10acRCRD%2526videoChannelId%253De69ac173a6bf5910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F04%252F04%252FOhlim_Et_Jerusalem_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:20"
+            },
+            {
+                "title": " פרק 13 * 03.04.25 -  קרן אגם מתכון עם סיפור  ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+13+%2A+03.04.25+-++%D7%A7%D7%A8%D7%9F+%D7%90%D7%92%D7%9D+%D7%9E%D7%AA%D7%9B%D7%95%D7%9F+%D7%A2%D7%9D+%D7%A1%D7%99%D7%A4%D7%95%D7%A8++&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D934c5ba1ae5f5910VgnVCM100000700a10acRCRD%2526videoChannelId%253De576365070644910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F01%252F13%252FKerenAgam_x5_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:25"
+            },
+            {
+                "title": " פרק 12 * 11.03.25 - המתכונים שקרן גדלה עליהם ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+12+%2A+11.03.25+-+%D7%94%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D+%D7%A9%D7%A7%D7%A8%D7%9F+%D7%92%D7%93%D7%9C%D7%94+%D7%A2%D7%9C%D7%99%D7%94%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D17ccc63b9bf75910VgnVCM100000700a10acRCRD%2526videoChannelId%253De576365070644910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F03%252F11%252FMatkon_Im_Sipur_12_110325_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:30"
+            },
+            {
+                "title": " פרק 11 * 06.03.25 - המתכונים האהובים על הילדים  ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+11+%2A+06.03.25+-+%D7%94%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D+%D7%94%D7%90%D7%94%D7%95%D7%91%D7%99%D7%9D+%D7%A2%D7%9C+%D7%94%D7%99%D7%9C%D7%93%D7%99%D7%9D++&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D52788a94e7665910VgnVCM100000700a10acRCRD%2526videoChannelId%253De576365070644910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F03%252F06%252FMatkon_Im_Sipur_11_060325_VOD_autoOrient._autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:35"
+            },
+            {
+                "title": " פרק 10 * 25.02.25 - איטליה אהובתי ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+10+%2A+25.02.25+-+%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94+%D7%90%D7%94%D7%95%D7%91%D7%AA%D7%99+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D48aed520eeb35910VgnVCM200000650a10acRCRD%2526videoChannelId%253De576365070644910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F02%252F25%252FMatkon_Im_Sipur_250225_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:40"
+            },
+            {
+                "title": " פרק 9 * 18.02.25 - קינוחי המסעדות של שנות ה-80 ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+9+%2A+18.02.25+-+%D7%A7%D7%99%D7%A0%D7%95%D7%97%D7%99+%D7%94%D7%9E%D7%A1%D7%A2%D7%93%D7%95%D7%AA+%D7%A9%D7%9C+%D7%A9%D7%A0%D7%95%D7%AA+%D7%94-80+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dbdff80513e715910VgnVCM200000650a10acRCRD%2526videoChannelId%253De576365070644910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F02%252F18%252FMatkon_Im_Sipur_09_180225_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:45"
+            },
+            {
+                "title": " פרק 8 * 02.01.25 - עולם השוקולד ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+8+%2A+02.01.25+-+%D7%A2%D7%95%D7%9C%D7%9D+%D7%94%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0771f0543a124910VgnVCM100000700a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2025%252F01%252F02%252FShemo_Shpitz_08_020125_VOD_ckf876_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:50"
+            },
+            {
+                "title": " פרק 7 * 30.12.24 - בצק פריך ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+7+%2A+30.12.24+-+%D7%91%D7%A6%D7%A7+%D7%A4%D7%A8%D7%99%D7%9A+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D88b779c748114910VgnVCM200000650a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F30%252FShemo_Shpitz_07_301224_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "07:55"
+            },
+            {
+                "title": " פרק 6 * 25.12.24 - קינוחים אישיים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+6+%2A+25.12.24+-+%D7%A7%D7%99%D7%A0%D7%95%D7%97%D7%99%D7%9D+%D7%90%D7%99%D7%A9%D7%99%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dddb79c3d908f3910VgnVCM100000700a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F25%252FShemo_Shpitz_06_251224_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:00"
+            },
+            {
+                "title": " פרק 5 * 23.12.24 - בצק רבוך ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+5+%2A+23.12.24+-+%D7%91%D7%A6%D7%A7+%D7%A8%D7%91%D7%95%D7%9A+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dd904dfae9ade3910VgnVCM200000650a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F23%252FShemo_Shpitz_05_231224_VOD_sgj271_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:05"
+            },
+            {
+                "title": " פרק 4 * 18.12.24 - עולם הלחם ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+4+%2A+18.12.24+-+%D7%A2%D7%95%D7%9C%D7%9D+%D7%94%D7%9C%D7%97%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D81597152ec3d3910VgnVCM200000650a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F18%252FShemo_Shpitz_04_181224_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:10"
+            },
+            {
+                "title": " פרק 3 * 16.12.24 - עוגות גבוהות ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+3+%2A+16.12.24+-+%D7%A2%D7%95%D7%92%D7%95%D7%AA+%D7%92%D7%91%D7%95%D7%94%D7%95%D7%AA+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D4a2f8d4a55ac3910VgnVCM100000700a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F16%252FShemo_Shpitz_03_161224_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:15"
+            },
+            {
+                "title": " פרק 2 * 11.12.24 - בצק שמרים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+2+%2A+11.12.24+-+%D7%91%D7%A6%D7%A7+%D7%A9%D7%9E%D7%A8%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dc49e47f34c2b3910VgnVCM200000650a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F11%252FShemo_Shpitz_02_111224_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:20"
+            },
+            {
+                "title": " פרק 1 * 09.12.24 - בצק עלים ובצק פילו ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+1+%2A+09.12.24+-+%D7%91%D7%A6%D7%A7+%D7%A2%D7%9C%D7%99%D7%9D+%D7%95%D7%91%D7%A6%D7%A7+%D7%A4%D7%99%D7%9C%D7%95+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dffde01a3b6aa3910VgnVCM200000650a10acRCRD%2526videoChannelId%253D8e40e6e274793910VgnVCM200000650a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F12%252F09%252FShemo_Shpitz_01_091224_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:25"
+            },
+            {
+                "title": " פרק 12 * 27.11.24 - בראנץ' ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+12+%2A+27.11.24+-+%D7%91%D7%A8%D7%90%D7%A0%D7%A5%27+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D734dc224ae763910VgnVCM200000650a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F27%252FAruha_Tivonit_12_271124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:30"
+            },
+            {
+                "title": " פרק 11 * 26.11.24 - ארוחה ללא גלוטן ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+11+%2A+26.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%94+%D7%9C%D7%9C%D7%90+%D7%92%D7%9C%D7%95%D7%98%D7%9F+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D1372826252363910VgnVCM100000700a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F26%252FHarovha_Tivoenit_261124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:35"
+            },
+            {
+                "title": " פרק 10 * 25.11.24 - ארוחה מנחמת ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+10+%2A+25.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%94+%D7%9E%D7%A0%D7%97%D7%9E%D7%AA+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D4de09fa4d2e53910VgnVCM200000650a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F25%252FAruha_Tivonit_10_251124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:40"
+            },
+            {
+                "title": " פרק 9 * 20.11.24 - פיקניק ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+9+%2A+20.11.24+-+%D7%A4%D7%99%D7%A7%D7%A0%D7%99%D7%A7+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0e7a587391a33910VgnVCM100000700a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F20%252FAruha_Tivonit_09_201124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:45"
+            },
+            {
+                "title": " פרק 8 * 19.11.24 - ארוחת מטוגנים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+8+%2A+19.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%AA+%D7%9E%D7%98%D7%95%D7%92%D7%A0%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2bcf357701a33910VgnVCM100000700a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F19%252FAruha_Tivonit_08_191124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:50"
+            },
+            {
+                "title": " פרק 7 * 18.11.24 - ארוחה לילדים ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+7+%2A+18.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%94+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D52ab357701a33910VgnVCM100000700a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F18%252FAruha_Tivonit_07_131124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "08:55"
+            },
+            {
+                "title": " פרק 6 * 13.11.24 - ארוחת שישי ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+6+%2A+13.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%AA+%D7%A9%D7%99%D7%A9%D7%99+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253Dfce3d1f483f13910VgnVCM200000650a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F13%252FAruha_Tivonit_06_131124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "09:00"
+            },
+            {
+                "title": " פרק 5 * 12.11.24 - ארוחת דייט אלגנטי ",
+                "url": "plugin://plugin.video.idanplus/?name=+%D7%A4%D7%A8%D7%A7+5+%2A+12.11.24+-+%D7%90%D7%A8%D7%95%D7%97%D7%AA+%D7%93%D7%99%D7%99%D7%98+%D7%90%D7%9C%D7%92%D7%A0%D7%98%D7%99+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D8b532c8ea5a13910VgnVCM200000650a10acRCRD%2526videoChannelId%253D9ae67d4642922910VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2024%252F11%252F12%252FAruha_Tivonit_05_121124_VOD_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "09:05"
+            },
+            {
+                "title": " 09.09.23 - פסטה קונכיות וכדורי בשר ",
+                "url": "plugin://plugin.video.idanplus/?name=+09.09.23+-+%D7%A4%D7%A1%D7%98%D7%94+%D7%A7%D7%95%D7%A0%D7%9B%D7%99%D7%95%D7%AA+%D7%95%D7%9B%D7%93%D7%95%D7%A8%D7%99+%D7%91%D7%A9%D7%A8+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D11b06d47ddf6a810VgnVCM200000650a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F10%252F24_mazminim_shulchan2_03_100923_vod_kfgl54_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "09:10"
+            },
+            {
+                "title": " 02.09.23 - בורקס בשר עשיר בטעמים ",
+                "url": "plugin://plugin.video.idanplus/?name=+02.09.23+-+%D7%91%D7%95%D7%A8%D7%A7%D7%A1+%D7%91%D7%A9%D7%A8+%D7%A2%D7%A9%D7%99%D7%A8+%D7%91%D7%98%D7%A2%D7%9E%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0a8d675aeeb4a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F03%252F24_Mazminim_Shulhan2_02_030923_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "09:15"
+            },
+            {
+                "title": " 26.08.23 - סלט פטריות אסייתי מפנק ",
+                "url": "plugin://plugin.video.idanplus/?name=+26.08.23+-+%D7%A1%D7%9C%D7%98+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%90%D7%A1%D7%99%D7%99%D7%AA%D7%99+%D7%9E%D7%A4%D7%A0%D7%A7+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D2f7e33666953a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F08%252F27%252F24_Mazminim_Shulhan2_01_270823_vod_re_autoOrient_i.jpg&module=keshet&moredata=best",
+                "time": "09:20"
             }
         ],
         "smurfdubil": [
