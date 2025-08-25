@@ -1002,7 +1002,7 @@
             },
             {
                 "title": "אהבת ענקים - חלק א • הסדרה החדשה של הדרדסים • עונה 2",
-                "url": "plugin://plugin.video.youtube/play/?video_id=G-quM1nfbk4",
+                "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%224124%22%2C+%22m_id%22%3A+52228521984%2C+%22c_id%22%3A+-1002554050967%7D&amp;name=1080p+WEB-DL+2025+%D7%96.%D7%9E+%D7%9E%D7%9C%D7%97%D7%9E%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA.mkv&amp;iconimage=https://image.tmdb.org/t/p/original//yvirUYrva23IudARHn3mMGVxWqM.jpg&amp;fanart=https://image.tmdb.org/t/p/original//iZLqwEwUViJdSkGVjePGhxYzbDb.jpg&amp;description=https%3A%2F%2Ft.me%2Fseretra2%0A1.75+GB&amp;url=%7B%22id%22%3A+%224124%22%2C+%22m_id%22%3A+52228521984%2C+%22c_id%22%3A+-1002554050967%7D&amp;no_subs=1&amp;season=%20&amp;episode=%20&amp;mode=3&amp;original_title=War of the Worlds&amp;id=755898&amp;data=",
                 "time": "22:35"
             },
             {
@@ -1014,4 +1014,5 @@
     }
 
 }
+
 
