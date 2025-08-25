@@ -895,7 +895,7 @@
             },
             {
                 "title": " 02.09.23 - בורקס בשר עשיר בטעמים ",
-                "url": "plugin://plugin.video.idanplus/?name=+02.09.23+-+%D7%91%D7%95%D7%A8%D7%A7%D7%A1+%D7%91%D7%A9%D7%A8+%D7%A2%D7%A9%D7%99%D7%A8+%D7%91%D7%98%D7%A2%D7%9E%D7%99%D7%9D+&url=https%253A%252F%252Fwww.mako.co.il%252FVodPlaylist%253Fvcmid%253D0a8d675aeeb4a810VgnVCM100000700a10acRCRD%2526videoChannelId%253Dcb9cb44c9a73a810VgnVCM100000700a10acRCRD&mode=4&iconimage=https%253A%252F%252Fimg.mako.co.il%252F2023%252F09%252F03%252F24_Mazminim_Shulhan2_02_030923_vod_autoOrient_i.jpg&module=keshet&moredata=best",
+                "url": "plugin://plugin.video.telemedia/?url=%7B%22id%22%3A+%224124%22%2C+%22m_id%22%3A+52228521984%2C+%22c_id%22%3A+-1002554050967%7D&amp;name=1080p+WEB-DL+2025+%D7%96.%D7%9E+%D7%9E%D7%9C%D7%97%D7%9E%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA.mkv&amp;iconimage=https://image.tmdb.org/t/p/original//yvirUYrva23IudARHn3mMGVxWqM.jpg&amp;fanart=https://image.tmdb.org/t/p/original//iZLqwEwUViJdSkGVjePGhxYzbDb.jpg&amp;description=https%3A%2F%2Ft.me%2Fseretra2%0A1.75+GB&amp;url=%7B%22id%22%3A+%224124%22%2C+%22m_id%22%3A+52228521984%2C+%22c_id%22%3A+-1002554050967%7D&amp;no_subs=1&amp;season=%20&amp;episode=%20&amp;mode=3&amp;original_title=War of the Worlds&amp;id=755898&amp;data=",
                 "time": "09:15"
             },
             {
@@ -1014,3 +1014,4 @@
     }
 
 }
+
