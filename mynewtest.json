@@ -2250,6 +2250,513 @@
                 "url": "plugin://plugin.video.youtube/play/?video_id=boWgSAvuQDc",
                 "time": "22:40"
             }
+        ],
+        "general": [
+            {
+                "title": "ארץ הטייקונים",
+                "url": "PlayMedia(\"plugin://plugin.video.idanplus/?name=%D7%90%D7%A8%D7%A5+%D7%94%D7%98%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F859031%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fg4ajz3gq%252F%2525D7%252598%2525D7%252599%2525D7%252599%2525D7%2525A7%2525D7%252595%2525D7%2525A0%2525D7%252599%2525D7%25259D-1.jpg%253Frxy%253D0.5462369487782096%252C0.4756689587640346%2526width%253D490%2526height%253D272%2526rnd%253D133909211252300000&module=kan&moredata=best\")",
+                "time": "10:00"
+            },
+            {
+                "title": "עליבאבא",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A2%D7%9C%D7%99%D7%91%D7%90%D7%91%D7%90&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F859033%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fihihprst%252F%2525D7%252598%2525D7%252599%2525D7%252599%2525D7%2525A7%2525D7%252595%2525D7%2525A0%2525D7%252599%2525D7%25259D-2.jpg%253Frxy%253D0.46456506700031175%252C0.34922431045730795%2526width%253D490%2526height%253D272%2526rnd%253D133909211191400000&module=kan&moredata=best",
+                "time": "10:05"
+            },
+            {
+                "title": "פרק 1 - ארה\"ב",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%90%D7%A8%D7%94%22%D7%91&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F447786%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Feqybe1kz%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-1.jpg%253Frxy%253D0.47461432212512666%252C0.5876098922467689%2526width%253D490%2526height%253D272%2526rnd%253D133657752056400000&module=kan&moredata=best",
+                "time": "10:10"
+            },
+            {
+                "title": "פרק 2 - רוסיה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%A8%D7%95%D7%A1%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F447788%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F4kjj2mqj%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-2.jpg%253Frxy%253D0.4923353657098895%252C0.34284610433773177%2526width%253D490%2526height%253D272%2526rnd%253D133657751982900000&module=kan&moredata=best",
+                "time": "10:15"
+            },
+            {
+                "title": "פרק 3 - סין",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%A1%D7%99%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F447791%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fiihpnqpx%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-3.jpg%253Frxy%253D0.6178091887242486%252C0.5299696824364052%2526width%253D490%2526height%253D272%2526rnd%253D133657751948370000&module=kan&moredata=best",
+                "time": "10:20"
+            },
+            {
+                "title": "זוכרים את מרקש",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%96%D7%95%D7%9B%D7%A8%D7%99%D7%9D+%D7%90%D7%AA+%D7%9E%D7%A8%D7%A7%D7%A9&url=https%253A%252F%252Fwww.kan.org.il%252Fhttps%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-372745%252F163979%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fjynfsjc2%252Fremembering-marrakech1_shani-beradt_shani-cohen_-hor.jpg%253Fwidth%253D1920%2526amp%253Bheight%253D1080%2526amp%253Brnd%253D133325996967930000&module=kan&moredata=best",
+                "time": "10:25"
+            },
+            {
+                "title": "פרק 1",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F361160%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F3mubdxhv%252F2023-4-30-imgid-99289_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133285726154730000&module=kan&moredata=best",
+                "time": "10:30"
+            },
+            {
+                "title": "מישהו לגור איתו | פרק 2",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%9E%D7%99%D7%A9%D7%94%D7%95+%D7%9C%D7%92%D7%95%D7%A8+%D7%90%D7%99%D7%AA%D7%95+%7C+%D7%A4%D7%A8%D7%A7+2&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F365663%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fejgfydbg%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657094189000000&module=kan&moredata=best",
+                "time": "10:35"
+            },
+            {
+                "title": "פרק 3 - תום",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%AA%D7%95%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F365665%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fph1a5p35%252Fs0421902_100_08_13_00still001.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133522139811370000&module=kan&moredata=best",
+                "time": "10:40"
+            },
+            {
+                "title": "פרק 4 - משפחת קלארק",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%9E%D7%A9%D7%A4%D7%97%D7%AA+%D7%A7%D7%9C%D7%90%D7%A8%D7%A7&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F365670%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Flzpdm2yj%252Fs0421903-youtube00_05_07_01still001jpg11.jpg%253Frxy%253D0.5172623124135793%252C0.5045666354932499%2526width%253D490%2526height%253D272%2526rnd%253D133522139832430000&module=kan&moredata=best",
+                "time": "10:45"
+            },
+            {
+                "title": "פרק 5 - רז וטיטי",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%A8%D7%96+%D7%95%D7%98%D7%99%D7%98%D7%99&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F367817%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fte0nhrz2%252F5.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133522138610830000&module=kan&moredata=best",
+                "time": "10:50"
+            },
+            {
+                "title": "פרק 6 - אלמוג ודן",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%90%D7%9C%D7%9E%D7%95%D7%92+%D7%95%D7%93%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F367823%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzftdyphi%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133522138597270000&module=kan&moredata=best",
+                "time": "10:55"
+            },
+            {
+                "title": "פרק 7 - הכלבה סברינה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+7+-+%D7%94%D7%9B%D7%9C%D7%91%D7%94+%D7%A1%D7%91%D7%A8%D7%99%D7%A0%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F367825%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fz00ggura%252F7.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133324722361770000&module=kan&moredata=best",
+                "time": "11:00"
+            },
+            {
+                "title": "פרק 8 - המתקשרת",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+8+-+%D7%94%D7%9E%D7%AA%D7%A7%D7%A9%D7%A8%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-327417%252Fs1%252F436695%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fuyvleinm%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657305485430000&module=kan&moredata=best",
+                "time": "11:05"
+            },
+            {
+                "title": "פרק 1 - החיים בגיל 150",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%94%D7%97%D7%99%D7%99%D7%9D+%D7%91%D7%92%D7%99%D7%9C+150&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896505%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fb2sjpizm%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133908529557100000&module=kan&moredata=best",
+                "time": "11:10"
+            },
+            {
+                "title": "פרק 2 - זיהוי רגשות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%96%D7%99%D7%94%D7%95%D7%99+%D7%A8%D7%92%D7%A9%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896511%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fvdcakf35%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Frxy%253D0.6092153391606772%252C0.30547065422281666%2526width%253D490%2526height%253D272%2526rnd%253D133946443055970000&module=kan&moredata=best",
+                "time": "11:15"
+            },
+            {
+                "title": "פרק 3 - חימוש המידע",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%97%D7%99%D7%9E%D7%95%D7%A9+%D7%94%D7%9E%D7%99%D7%93%D7%A2&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896515%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fie4dr13w%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Frxy%253D0.5247215794336737%252C0.3151621262120397%2526width%253D490%2526height%253D272%2526rnd%253D133946443780370000&module=kan&moredata=best",
+                "time": "11:20"
+            },
+            {
+                "title": "פרק 4 - האם היתוך הגרעיני הוא האנרגייה של העתיד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%94%D7%90%D7%9D+%D7%94%D7%99%D7%AA%D7%95%D7%9A+%D7%94%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99+%D7%94%D7%95%D7%90+%D7%94%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%99%D7%94+%D7%A9%D7%9C+%D7%94%D7%A2%D7%AA%D7%99%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896519%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fkcqhjoq2%252Ftf_hannahfry_fusion_synd_00-00-00-15_1920x1080_2205054019696.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133946444541400000&module=kan&moredata=best",
+                "time": "11:25"
+            },
+            {
+                "title": "פרק 5 - הכלה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%94%D7%9B%D7%9C%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896524%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fcv0jo2bo%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Frxy%253D0.47020947638399413%252C0.4023853741150475%2526width%253D490%2526height%253D272%2526rnd%253D133946446037000000&module=kan&moredata=best",
+                "time": "11:30"
+            },
+            {
+                "title": "פרק 6 - השבת הפרא",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%94%D7%A9%D7%91%D7%AA+%D7%94%D7%A4%D7%A8%D7%90&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-896497%252Fs1%252F896528%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fd4sj4lf3%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8.jpg%253Frxy%253D0.5901361030932892%252C0.6543636458348476%2526width%253D490%2526height%253D272%2526rnd%253D133946447126430000&module=kan&moredata=best",
+                "time": "11:35"
+            },
+            {
+                "title": "הבחירה - פרק 1",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%94+-+%D7%A4%D7%A8%D7%A7+1&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13225%252Fs1%252F130014%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fkpzfdaof%252Fhttps-kanstaticazureedgenet-download-pictures-2021-4-19-imgid-51265_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272847166270000&module=kan&moredata=best",
+                "time": "11:40"
+            },
+            {
+                "title": "הגוונים - פרק 2",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%94%D7%92%D7%95%D7%95%D7%A0%D7%99%D7%9D+-+%D7%A4%D7%A8%D7%A7+2&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13225%252Fs1%252F130017%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fksvibjo3%252Fhttps-kanstaticazureedgenet-download-pictures-2021-4-28-imgid-51817_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272847186300000&module=kan&moredata=best",
+                "time": "11:45"
+            },
+            {
+                "title": "העתיד - פרק 3",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%94%D7%A2%D7%AA%D7%99%D7%93+-+%D7%A4%D7%A8%D7%A7+3&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13225%252Fs1%252F130020%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fqg1f2wzt%252Fhttps-kanstaticazureedgenet-download-pictures-2021-4-20-imgid-51333_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272847205400000&module=kan&moredata=best",
+                "time": "11:50"
+            },
+            {
+                "title": "הבית - פרק 4",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%94%D7%91%D7%99%D7%AA+-+%D7%A4%D7%A8%D7%A7+4&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13225%252Fs1%252F130023%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fmf3agxwq%252Fhttps-kanstaticazureedgenet-download-pictures-2021-4-26-imgid-51693_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272847266030000&module=kan&moredata=best",
+                "time": "11:55"
+            },
+            {
+                "title": "פרק 1 - לא יכול להיות שזה אמיתי",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%9C%D7%90+%D7%99%D7%9B%D7%95%D7%9C+%D7%9C%D7%94%D7%99%D7%95%D7%AA+%D7%A9%D7%96%D7%94+%D7%90%D7%9E%D7%99%D7%AA%D7%99&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-914710%252Fs1%252F914718%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fsa3ebqdk%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-1.jpg%253Frxy%253D0.5380990830784816%252C0.35954604489137854%2526width%253D490%2526height%253D272%2526rnd%253D133994808203170000&module=kan&moredata=best",
+                "time": "12:00"
+            },
+            {
+                "title": "פרק 2 - פפירוס, דורבן, ושני מיליון דולר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%A4%D7%A4%D7%99%D7%A8%D7%95%D7%A1%2C+%D7%93%D7%95%D7%A8%D7%91%D7%9F%2C+%D7%95%D7%A9%D7%A0%D7%99+%D7%9E%D7%99%D7%9C%D7%99%D7%95%D7%9F+%D7%93%D7%95%D7%9C%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-914710%252Fs1%252F914722%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F2gck3cc4%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-2.jpg%253Frxy%253D0.4669047760690193%252C0.3517875194927219%2526width%253D490%2526height%253D272%2526rnd%253D133994808250130000&module=kan&moredata=best",
+                "time": "12:05"
+            },
+            {
+                "title": "פרק 3 - המתווך השתיין",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%94%D7%9E%D7%AA%D7%95%D7%95%D7%9A+%D7%94%D7%A9%D7%AA%D7%99%D7%99%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-914710%252Fs1%252F914728%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F45abz1wq%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-3.jpg%253Frxy%253D0.3804909679142017%252C0.33053461095724634%2526width%253D490%2526height%253D272%2526rnd%253D133994808310300000&module=kan&moredata=best",
+                "time": "12:10"
+            },
+            {
+                "title": "פרק 4 - האיש בעל אלף הפרצופים",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%94%D7%90%D7%99%D7%A9+%D7%91%D7%A2%D7%9C+%D7%90%D7%9C%D7%A3+%D7%94%D7%A4%D7%A8%D7%A6%D7%95%D7%A4%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-914710%252Fs1%252F914734%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fmmgf0afj%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-4.jpg%253Frxy%253D0.5548533885713021%252C0.43153396652909026%2526width%253D490%2526height%253D272%2526rnd%253D133994808332730000&module=kan&moredata=best",
+                "time": "12:15"
+            },
+            {
+                "title": "פרק 5 - מערת האימה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%9E%D7%A2%D7%A8%D7%AA+%D7%94%D7%90%D7%99%D7%9E%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-914710%252Fs1%252F914738%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Foouesulo%252F%2525D7%2525A9%2525D7%252595%2525D7%252593%2525D7%252593%2525D7%252599-%2525D7%252590%2525D7%252595%2525D7%2525A6%2525D7%2525A8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133984481348900000&module=kan&moredata=best",
+                "time": "12:20"
+            },
+            {
+                "title": "פרק 1 | היכרות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+%7C+%D7%94%D7%99%D7%9B%D7%A8%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F380762%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Flqyn0gsz%252Fdownload.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133326047159930000&module=kan&moredata=best",
+                "time": "12:25"
+            },
+            {
+                "title": "פרק 2 | עבר, הווה, עתיד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+%7C+%D7%A2%D7%91%D7%A8%2C+%D7%94%D7%95%D7%95%D7%94%2C+%D7%A2%D7%AA%D7%99%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F383234%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F14pnbdcw%252Fscreenshot-2023-06-01-122508.jpg%253Frxy%253D0.5246349485902791%252C0.458588232480948%2526width%253D490%2526height%253D272%2526rnd%253D133657277016430000&module=kan&moredata=best",
+                "time": "12:30"
+            },
+            {
+                "title": "פרק 3 | חינוך פיננסי",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+%7C+%D7%97%D7%99%D7%A0%D7%95%D7%9A+%D7%A4%D7%99%D7%A0%D7%A0%D7%A1%D7%99&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F393041%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzvjnapw0%252Fvlcsnap-2023-06-13-12h05m17s652.jpg%253Frxy%253D0.49187358121470665%252C0.30821128825760685%2526width%253D490%2526height%253D272%2526rnd%253D133522137326700000&module=kan&moredata=best",
+                "time": "12:35"
+            },
+            {
+                "title": "פרק 4 | חבר לעת צרה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+%7C+%D7%97%D7%91%D7%A8+%D7%9C%D7%A2%D7%AA+%D7%A6%D7%A8%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F402601%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fc1qduwmw%252Fvlcsnap-2023-06-18-12h40m41s030.jpg%253Frxy%253D0.361734202166586%252C0.38656115785611667%2526width%253D490%2526height%253D272%2526rnd%253D133324671769400000&module=kan&moredata=best",
+                "time": "12:40"
+            },
+            {
+                "title": "פרק 5 | האדם המשחק",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+%7C+%D7%94%D7%90%D7%93%D7%9D+%D7%94%D7%9E%D7%A9%D7%97%D7%A7&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F419286%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Foj5ltbsk%252Fscreenshot_38.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657282256700000&module=kan&moredata=best",
+                "time": "12:45"
+            },
+            {
+                "title": "פרק 6 - פרידה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%A4%D7%A8%D7%99%D7%93%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F422039%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F04bfwh55%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A2%2525D7%252595%2525D7%2525A0%2525D7%252594-2-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-6.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657251336000000&module=kan&moredata=best",
+                "time": "12:50"
+            },
+            {
+                "title": "פרק 7 - סוף עונה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+7+-+%D7%A1%D7%95%D7%A3+%D7%A2%D7%95%D7%A0%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13712%252Fs2%252F440446%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fbizh5boy%252Fvlcsnap-2023-07-10-13h16m09s934.jpg%253Frxy%253D0.5613441847793836%252C0.4140571425831171%2526width%253D490%2526height%253D272%2526rnd%253D133657302188830000&module=kan&moredata=best",
+                "time": "12:55"
+            },
+            {
+                "title": "פרק 1 - בליז",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%91%D7%9C%D7%99%D7%96&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738144%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F255jpeht%252F1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661339133030000&module=kan&moredata=best",
+                "time": "13:00"
+            },
+            {
+                "title": "פרק 2 - סינגפור",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%A1%D7%99%D7%A0%D7%92%D7%A4%D7%95%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738151%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F1q5nkvkn%252F2.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661339014930000&module=kan&moredata=best",
+                "time": "13:05"
+            },
+            {
+                "title": "פרק 3 - מלבורן",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%9E%D7%9C%D7%91%D7%95%D7%A8%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738158%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzjwbhvwt%252F3.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661338806430000&module=kan&moredata=best",
+                "time": "13:10"
+            },
+            {
+                "title": "פרק 4 - טורקיה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%98%D7%95%D7%A8%D7%A7%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738164%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fsr4prak2%252F5.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661338365670000&module=kan&moredata=best",
+                "time": "13:15"
+            },
+            {
+                "title": "פרק 5 - פלורידה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%A4%D7%9C%D7%95%D7%A8%D7%99%D7%93%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738161%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzznin4ee%252F4.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661338607700000&module=kan&moredata=best",
+                "time": "13:20"
+            },
+            {
+                "title": "פרק 6 - צ'ילה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%A6%27%D7%99%D7%9C%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738168%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fx1ogazgj%252F6.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661337947500000&module=kan&moredata=best",
+                "time": "13:25"
+            },
+            {
+                "title": "פרק 7 - אגם קומו",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+7+-+%D7%90%D7%92%D7%9D+%D7%A7%D7%95%D7%9E%D7%95&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738170%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fx1el5a2b%252F7.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661337876700000&module=kan&moredata=best",
+                "time": "13:30"
+            },
+            {
+                "title": "פרק 8 - סנטיאגו",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+8+-+%D7%A1%D7%A0%D7%98%D7%99%D7%90%D7%92%D7%95&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs2%252F738172%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fuxpmsuzk%252F8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661337578470000&module=kan&moredata=best",
+                "time": "13:35"
+            },
+            {
+                "title": "פרק 1 - לאגוס, סנט לוסיה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%9C%D7%90%D7%92%D7%95%D7%A1%2C+%D7%A1%D7%A0%D7%98+%D7%9C%D7%95%D7%A1%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162447%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fx01cqwek%252F2023-3-13-imgid-95843_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133267576097430000&module=kan&moredata=best",
+                "time": "13:40"
+            },
+            {
+                "title": "פרק 2 - איסלנד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%90%D7%99%D7%A1%D7%9C%D7%A0%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162450%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F0fygjrgl%252F2023-3-13-imgid-95851_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133267576118830000&module=kan&moredata=best",
+                "time": "13:45"
+            },
+            {
+                "title": "פרק 3 - דובאי",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%93%D7%95%D7%91%D7%90%D7%99&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162453%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fqbinb0fh%252F2023-3-13-imgid-95845_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133267576140930000&module=kan&moredata=best",
+                "time": "13:50"
+            },
+            {
+                "title": "פרק 4 - פולין",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%A4%D7%95%D7%9C%D7%99%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162456%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fuhqfsb2p%252F2023-3-13-imgid-95846_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133267576163330000&module=kan&moredata=best",
+                "time": "13:55"
+            },
+            {
+                "title": "פרק 5 - אוסטריה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162459%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fa15ikliq%252Fimage.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657787149600000&module=kan&moredata=best",
+                "time": "14:00"
+            },
+            {
+                "title": "פרק 6 - אירלנד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%90%D7%99%D7%A8%D7%9C%D7%A0%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-11694%252Fs1%252F162462%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzlrfby5o%252F2023-3-13-imgid-95849_b.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133267576206400000&module=kan&moredata=best",
+                "time": "14:05"
+            },
+            {
+                "title": "פרק 1 - טרי הוטל, שוודיה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%98%D7%A8%D7%99+%D7%94%D7%95%D7%98%D7%9C%2C+%D7%A9%D7%95%D7%95%D7%93%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845128%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fpubodxlq%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580691000000&module=kan&moredata=best",
+                "time": "14:10"
+            },
+            {
+                "title": "פרק 2 - בריול, איטליה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%91%D7%A8%D7%99%D7%95%D7%9C%2C+%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845129%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fzadh43zi%252Fartboard-1.jpg%253Frxy%253D0.6011595639516676%252C0.46729070944064915%2526width%253D490%2526height%253D272%2526rnd%253D133996580663830000&module=kan&moredata=best",
+                "time": "14:15"
+            },
+            {
+                "title": "פרק 3 - הקסבה של טובקאל, מרוקו",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%94%D7%A7%D7%A1%D7%91%D7%94+%D7%A9%D7%9C+%D7%98%D7%95%D7%91%D7%A7%D7%90%D7%9C%2C+%D7%9E%D7%A8%D7%95%D7%A7%D7%95&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845130%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fsmdmgnql%252Fartboard-1.jpg%253Frxy%253D0.39419183185505724%252C0.2929928634715289%2526width%253D490%2526height%253D272%2526rnd%253D133996580612970000&module=kan&moredata=best",
+                "time": "14:20"
+            },
+            {
+                "title": "פרק 4 - אסטנסיה סרו גידו, צ'ילה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%90%D7%A1%D7%98%D7%A0%D7%A1%D7%99%D7%94+%D7%A1%D7%A8%D7%95+%D7%92%D7%99%D7%93%D7%95%2C+%D7%A6%27%D7%99%D7%9C%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845131%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F35fnfpnd%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580551870000&module=kan&moredata=best",
+                "time": "14:25"
+            },
+            {
+                "title": "פרק 5 - שינלאני, מקסיקו",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%A9%D7%99%D7%A0%D7%9C%D7%90%D7%A0%D7%99%2C+%D7%9E%D7%A7%D7%A1%D7%99%D7%A7%D7%95&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845132%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fwo5lrjzr%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580568630000&module=kan&moredata=best",
+                "time": "14:30"
+            },
+            {
+                "title": "פרק 6 - הושי אונסן, יפן",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%94%D7%95%D7%A9%D7%99+%D7%90%D7%95%D7%A0%D7%A1%D7%9F%2C+%D7%99%D7%A4%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845133%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fpgpplzzs%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580415700000&module=kan&moredata=best",
+                "time": "14:35"
+            },
+            {
+                "title": "פרק 7 - מלון בודיר, איסלנד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+7+-+%D7%9E%D7%9C%D7%95%D7%9F+%D7%91%D7%95%D7%93%D7%99%D7%A8%2C+%D7%90%D7%99%D7%A1%D7%9C%D7%A0%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845134%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fdsefnhn4%252Fartboard-1.jpg%253Frxy%253D0.6174991217487684%252C0.3462505386287601%2526width%253D490%2526height%253D272%2526rnd%253D133996580399030000&module=kan&moredata=best",
+                "time": "14:40"
+            },
+            {
+                "title": "פרק 8 - קאסר אל סאראב של אננטרה, איחוד האמירויות הערביות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+8+-+%D7%A7%D7%90%D7%A1%D7%A8+%D7%90%D7%9C+%D7%A1%D7%90%D7%A8%D7%90%D7%91+%D7%A9%D7%9C+%D7%90%D7%A0%D7%A0%D7%98%D7%A8%D7%94%2C+%D7%90%D7%99%D7%97%D7%95%D7%93+%D7%94%D7%90%D7%9E%D7%99%D7%A8%D7%95%D7%99%D7%95%D7%AA+%D7%94%D7%A2%D7%A8%D7%91%D7%99%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845136%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F4ptcifty%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580382500000&module=kan&moredata=best",
+                "time": "14:45"
+            },
+            {
+                "title": "פרק 9 - קאסה דה סאו לואנזו, פורטוגל",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+9+-+%D7%A7%D7%90%D7%A1%D7%94+%D7%93%D7%94+%D7%A1%D7%90%D7%95+%D7%9C%D7%95%D7%90%D7%A0%D7%96%D7%95%2C+%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%9C&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845138%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F1dojwibm%252Fartboard-1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133996580340730000&module=kan&moredata=best",
+                "time": "14:50"
+            },
+            {
+                "title": "פרק 10 - טורידון, סקוטלנד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+10+-+%D7%98%D7%95%D7%A8%D7%99%D7%93%D7%95%D7%9F%2C+%D7%A1%D7%A7%D7%95%D7%98%D7%9C%D7%A0%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-845122%252Fs1%252F845140%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fm4fpyzxs%252Fartboard-1.jpg%253Frxy%253D0.7046434299999728%252C0.4188746411158935%2526width%253D490%2526height%253D272%2526rnd%253D133996580323700000&module=kan&moredata=best",
+                "time": "14:55"
+            },
+            {
+                "title": "פרק 1 - כלבי ים ודגי צלף",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%9B%D7%9C%D7%91%D7%99+%D7%99%D7%9D+%D7%95%D7%93%D7%92%D7%99+%D7%A6%D7%9C%D7%A3&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794166%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F5gglqyzo%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-1.jpg%253Frxy%253D0.4752683697933372%252C0.3331959306772441%2526width%253D490%2526height%253D272%2526rnd%253D134012834301130000&module=kan&moredata=best",
+                "time": "15:00"
+            },
+            {
+                "title": "פרק 2 - מנטה ריי ודגי בוקסר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%9E%D7%A0%D7%98%D7%94+%D7%A8%D7%99%D7%99+%D7%95%D7%93%D7%92%D7%99+%D7%91%D7%95%D7%A7%D7%A1%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794167%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fstlh5yth%252F%2525D7%252594%2525D7%252590%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A0%2525D7%252595%2525D7%2525A1-%2525D7%252594%2525D7%2525A9%2525D7%2525A7%2525D7%252598-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-2.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834262000000&module=kan&moredata=best",
+                "time": "15:05"
+            },
+            {
+                "title": "פרק 3 - מדוזות מתפוצצות והקראקן",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%9E%D7%93%D7%95%D7%96%D7%95%D7%AA+%D7%9E%D7%AA%D7%A4%D7%95%D7%A6%D7%A6%D7%95%D7%AA+%D7%95%D7%94%D7%A7%D7%A8%D7%90%D7%A7%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794156%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fcgqnbht0%252F%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-3-%2525D7%2525AA%2525D7%25259E%2525D7%252595%2525D7%2525A0%2525D7%252594-%2525D7%2525A0%2525D7%2525A7%2525D7%252599%2525D7%252594.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834573800000&module=kan&moredata=best",
+                "time": "15:10"
+            },
+            {
+                "title": "פרק 4 - העמלץ הכחול ודרקון הים הכחול",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%94%D7%A2%D7%9E%D7%9C%D7%A5+%D7%94%D7%9B%D7%97%D7%95%D7%9C+%D7%95%D7%93%D7%A8%D7%A7%D7%95%D7%9F+%D7%94%D7%99%D7%9D+%D7%94%D7%9B%D7%97%D7%95%D7%9C&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794159%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F1qfnid1d%252F%2525D7%2525A4%2525D7%2525A8%2525D7%2525A74-%2525D7%2525AA%2525D7%25259E%2525D7%252595%2525D7%2525A0%2525D7%252594-%2525D7%2525A0%2525D7%2525A7%2525D7%252599%2525D7%252594.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834514700000&module=kan&moredata=best",
+                "time": "15:15"
+            },
+            {
+                "title": "פרק 5 - עיני קיפוד וכרישים צמאי דם",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%A2%D7%99%D7%A0%D7%99+%D7%A7%D7%99%D7%A4%D7%95%D7%93+%D7%95%D7%9B%D7%A8%D7%99%D7%A9%D7%99%D7%9D+%D7%A6%D7%9E%D7%90%D7%99+%D7%93%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794161%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fmhojtzte%252F%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-5-%2525D7%2525AA%2525D7%25259E%2525D7%252595%2525D7%2525A0%2525D7%252594-%2525D7%2525A0%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%252594.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834455600000&module=kan&moredata=best",
+                "time": "15:20"
+            },
+            {
+                "title": "פרק 6 - צלופח מורנה וברקודה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%A6%D7%9C%D7%95%D7%A4%D7%97+%D7%9E%D7%95%D7%A8%D7%A0%D7%94+%D7%95%D7%91%D7%A8%D7%A7%D7%95%D7%93%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794168%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fgsxn1tt3%252F%2525D7%2525A4%2525D7%25259C%2525D7%252590%2525D7%252599-%2525D7%252594%2525D7%252590%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A0%2525D7%252595%2525D7%2525A1-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-6.jpg%253Frxy%253D0.4895162102683576%252C0.4048050414490428%2526width%253D490%2526height%253D272%2526rnd%253D134012834190200000&module=kan&moredata=best",
+                "time": "15:25"
+            },
+            {
+                "title": "פרק 7 - כוחו של הלובסטר והתולעים הצולפות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+7+-+%D7%9B%D7%95%D7%97%D7%95+%D7%A9%D7%9C+%D7%94%D7%9C%D7%95%D7%91%D7%A1%D7%98%D7%A8+%D7%95%D7%94%D7%AA%D7%95%D7%9C%D7%A2%D7%99%D7%9D+%D7%94%D7%A6%D7%95%D7%9C%D7%A4%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794169%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F0fwmbiv5%252F%2525D7%2525A4%2525D7%25259C%2525D7%252590%2525D7%252599-%2525D7%252594%2525D7%252590%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A0%2525D7%252595%2525D7%2525A1-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-7.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834138070000&module=kan&moredata=best",
+                "time": "15:30"
+            },
+            {
+                "title": "פרק 8 - תמנון נמלט ולווייתן כחול",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+8+-+%D7%AA%D7%9E%D7%A0%D7%95%D7%9F+%D7%A0%D7%9E%D7%9C%D7%98+%D7%95%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F+%D7%9B%D7%97%D7%95%D7%9C&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-794147%252Fs1%252F794170%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fdt4flh3l%252F%2525D7%2525A4%2525D7%25259C%2525D7%252590%2525D7%252599-%2525D7%252594%2525D7%252590%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A0%2525D7%252595%2525D7%2525A1-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-8.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134012834073470000&module=kan&moredata=best",
+                "time": "15:35"
+            },
+            {
+                "title": "בינה מלאכותית: אימה אנושית",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%91%D7%99%D7%A0%D7%94+%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA%3A+%D7%90%D7%99%D7%9E%D7%94+%D7%90%D7%A0%D7%95%D7%A9%D7%99%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fhttps%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445788%252F448315%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F1zefcwwy%252F2_clean-cover-image_1920x1080_no-logo.jpg%253Fwidth%253D1920%2526amp%253Bheight%253D1080%2526amp%253Brnd%253D133657751811400000&module=kan&moredata=best",
+                "time": "15:40"
+            },
+            {
+                "title": "פרק 1 - שביל ירדן",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%A9%D7%91%D7%99%D7%9C+%D7%99%D7%A8%D7%93%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13461%252F%25D7%25A2%25D7%2595%25D7%25A0%25D7%2594-2%252F741985%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fqfaay2mf%252F1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661413614430000&module=kan&moredata=best",
+                "time": "15:45"
+            },
+            {
+                "title": "פרק 2 - קמינו דה קוסטה ריקה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%A7%D7%9E%D7%99%D7%A0%D7%95+%D7%93%D7%94+%D7%A7%D7%95%D7%A1%D7%98%D7%94+%D7%A8%D7%99%D7%A7%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13461%252F%25D7%25A2%25D7%2595%25D7%25A0%25D7%2594-2%252F741987%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F134osj2j%252F2.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661413531730000&module=kan&moredata=best",
+                "time": "15:50"
+            },
+            {
+                "title": "פרק 3 - הר האולימפוס",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%94%D7%A8+%D7%94%D7%90%D7%95%D7%9C%D7%99%D7%9E%D7%A4%D7%95%D7%A1&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13461%252F%25D7%25A2%25D7%2595%25D7%25A0%25D7%2594-2%252F741989%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fcnziduag%252F3.jpg%253Frxy%253D0.5963123521368937%252C0.4186830359754777%2526width%253D490%2526height%253D272%2526rnd%253D133661413516500000&module=kan&moredata=best",
+                "time": "15:55"
+            },
+            {
+                "title": "פרק 4 - דרך הליקית",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%93%D7%A8%D7%9A+%D7%94%D7%9C%D7%99%D7%A7%D7%99%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13461%252F%25D7%25A2%25D7%2595%25D7%25A0%25D7%2594-2%252F741990%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F5qfnvobr%252F4.jpg%253Frxy%253D0.46034244680927283%252C0.48504035115850536%2526width%253D490%2526height%253D272%2526rnd%253D133662143928270000&module=kan&moredata=best",
+                "time": "16:00"
+            },
+            {
+                "title": "פרק 1 - עיצוב וארכיטקטורה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%A2%D7%99%D7%A6%D7%95%D7%91+%D7%95%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A8%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-741066%252F741867%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fh14d33di%252Fs0439555_100_01_29_19still001.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661400821500000&module=kan&moredata=best",
+                "time": "16:05"
+            },
+            {
+                "title": "פרק 2 - היסטוריה וזהות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94+%D7%95%D7%96%D7%94%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-741066%252F741871%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fnnehk1w4%252F1.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661400745600000&module=kan&moredata=best",
+                "time": "16:10"
+            },
+            {
+                "title": "פרק 3 - חוויית יום המשחק",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%97%D7%95%D7%95%D7%99%D7%99%D7%AA+%D7%99%D7%95%D7%9D+%D7%94%D7%9E%D7%A9%D7%97%D7%A7&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-741066%252F741876%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fcv5pemlw%252F%2525D7%2525A4.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133661400729570000&module=kan&moredata=best",
+                "time": "16:15"
+            },
+            {
+                "title": "פרק 1 - 20 הקשוחים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+20+%D7%94%D7%A7%D7%A9%D7%95%D7%97%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs2%252F828948%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fgbpebvzh%252F%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-1.jpg%253Frxy%253D0.4625816686381375%252C0.49381866781972916%2526width%253D490%2526height%253D272%2526rnd%253D134006073636430000&module=kan&moredata=best",
+                "time": "16:20"
+            },
+            {
+                "title": "פרק 2 - 20 המומחים המימיים",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+20+%D7%94%D7%9E%D7%95%D7%9E%D7%97%D7%99%D7%9D+%D7%94%D7%9E%D7%99%D7%9E%D7%99%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs2%252F828951%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fbpsj2cmy%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-2.jpg%253Frxy%253D0.5577149225598904%252C0.43646752589476995%2526width%253D490%2526height%253D272%2526rnd%253D134006076216570000&module=kan&moredata=best",
+                "time": "16:25"
+            },
+            {
+                "title": "פרק 3 - 20 החכמים והמיומנים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+20+%D7%94%D7%97%D7%9B%D7%9E%D7%99%D7%9D+%D7%95%D7%94%D7%9E%D7%99%D7%95%D7%9E%D7%A0%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs2%252F828952%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fdw3lmbld%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-3.jpg%253Frxy%253D0.40074289441392047%252C0.42748481691857154%2526width%253D490%2526height%253D272%2526rnd%253D134006076166900000&module=kan&moredata=best",
+                "time": "16:30"
+            },
+            {
+                "title": "פרק 4 - 20 ההורים הטובים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+20+%D7%94%D7%94%D7%95%D7%A8%D7%99%D7%9D+%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs2%252F828954%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fw2bnrgqo%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-4.jpg%253Frxy%253D0.4643090087002665%252C0.5748933744766996%2526width%253D490%2526height%253D272%2526rnd%253D134006076140230000&module=kan&moredata=best",
+                "time": "16:35"
+            },
+            {
+                "title": "פרק 5 - 20 אומני התחפושות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+20+%D7%90%D7%95%D7%9E%D7%A0%D7%99+%D7%94%D7%AA%D7%97%D7%A4%D7%95%D7%A9%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs2%252F828955%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fjubpky0r%252F%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-5.jpg%253Frxy%253D0.5326419585175111%252C0.5095971099859271%2526width%253D490%2526height%253D272%2526rnd%253D134006076123930000&module=kan&moredata=best",
+                "time": "16:40"
+            },
+            {
+                "title": "פרק 1 - 20 המהירים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+20+%D7%94%D7%9E%D7%94%D7%99%D7%A8%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs1%252F725347%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fbyoertrx%252F1%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134005921755900000&module=kan&moredata=best",
+                "time": "16:45"
+            },
+            {
+                "title": "פרק 2 - 20 הבנאים הטובים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+20+%D7%94%D7%91%D7%A0%D7%90%D7%99%D7%9D+%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs1%252F725351%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fz4lmdpe5%252F2.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134005921806670000&module=kan&moredata=best",
+                "time": "16:50"
+            },
+            {
+                "title": "פרק 3 - 20 הפרפורמרים הטובים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+20+%D7%94%D7%A4%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%A8%D7%99%D7%9D+%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs1%252F725356%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fdofbxtit%252F3.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134005921834570000&module=kan&moredata=best",
+                "time": "16:55"
+            },
+            {
+                "title": "פרק 4 - 20 הגבוהים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+20+%D7%94%D7%92%D7%91%D7%95%D7%94%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs1%252F725363%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fpemf53jg%252F4.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134005921850730000&module=kan&moredata=best",
+                "time": "17:00"
+            },
+            {
+                "title": "פרק 5 - 20 הציידים הטובים ביותר",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+20+%D7%94%D7%A6%D7%99%D7%99%D7%93%D7%99%D7%9D+%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D+%D7%91%D7%99%D7%95%D7%AA%D7%A8&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-725343%252Fs1%252F725364%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Frscn0nbr%252F5.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D134005921913900000&module=kan&moredata=best",
+                "time": "17:05"
+            },
+            {
+                "title": "פרק 1 - אנרגיה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-720754%252F720759%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Faogfffjs%252Fqqmhdur5sceqoh3ysqseg9pe5pu.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133660412236000000&module=kan&moredata=best",
+                "time": "17:10"
+            },
+            {
+                "title": "פרק 2 - מזון ומים",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%9E%D7%96%D7%95%D7%9F+%D7%95%D7%9E%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-720754%252F720763%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fhf2o4sh1%252F53s2tiljkduscyq0gxchbfewbpg.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133660412299570000&module=kan&moredata=best",
+                "time": "17:15"
+            },
+            {
+                "title": "פרק 3 - תחבורה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-720754%252F720764%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fsekbkesc%252Fe8aqytoryze525lmjdxv0kbkptu.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133660412578400000&module=kan&moredata=best",
+                "time": "17:20"
+            },
+            {
+                "title": "פרק 4 - בית הגידול האנושי",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%91%D7%99%D7%AA+%D7%94%D7%92%D7%99%D7%93%D7%95%D7%9C+%D7%94%D7%90%D7%A0%D7%95%D7%A9%D7%99&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-720754%252F720765%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Ftzmhomki%252F7ezv77d3tev5eofhm3fyflq85gm.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133660412601300000&module=kan&moredata=best",
+                "time": "17:25"
+            },
+            {
+                "title": "פרק 1 - בחירה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%91%D7%97%D7%99%D7%A8%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-446342%252F446345%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F35nmcsgd%252Fs042681100_02_12_09still001.jpg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133657742274330000&module=kan&moredata=best",
+                "time": "17:30"
+            },
+            {
+                "title": "פרק 2 - חופש",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%97%D7%95%D7%A4%D7%A9&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-446342%252F447422%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fqgnh4puo%252Fs042681200_10_58_10still002.jpg%253Frxy%253D0.3476301951409997%252C0.4483127185383899%2526width%253D490%2526height%253D272%2526rnd%253D133657755056200000&module=kan&moredata=best",
+                "time": "17:35"
+            },
+            {
+                "title": "פרק 3 - חיים",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%97%D7%99%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-446342%252F446401%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Ft4biw24f%252Fs042681300_29_39_15still002.jpg%253Frxy%253D0.37797321181405846%252C0.4826985689407132%2526width%253D490%2526height%253D272%2526rnd%253D133657742116830000&module=kan&moredata=best",
+                "time": "17:40"
+            },
+            {
+                "title": "פרק 4 - עתיד",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%A2%D7%AA%D7%99%D7%93&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-446342%252F447428%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F0ybctz2z%252Fs042681400_26_18_19still003.jpg%253Frxy%253D0.6283052710375103%252C0.30966744674621793%2526width%253D490%2526height%253D272%2526rnd%253D133657754963500000&module=kan&moredata=best",
+                "time": "17:45"
+            },
+            {
+                "title": "פזמון חוזר - ההיסטוריה של ישראל באירוויזיון",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%96%D7%9E%D7%95%D7%9F+%D7%97%D7%95%D7%96%D7%A8+-+%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94+%D7%A9%D7%9C+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+%D7%91%D7%90%D7%99%D7%A8%D7%95%D7%95%D7%99%D7%96%D7%99%D7%95%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fhttps%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-718683%252F718684%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fa3jd4nwj%252F1920x1080_no-logo_.jpg%253Fwidth%253D1920%2526amp%253Bheight%253D1080%2526amp%253Brnd%253D133545660044170000&module=kan&moredata=best",
+                "time": "17:50"
+            },
+            {
+                "title": "פרק 1 - אורזי המזוודות",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%90%D7%95%D7%A8%D7%96%D7%99+%D7%94%D7%9E%D7%96%D7%95%D7%95%D7%93%D7%95%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102427%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fxbwnpnjw%252Fhttps-kanstaticazureedgenet-download-pictures-2019-5-21-imgid-13069_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272860942000000&module=kan&moredata=best",
+                "time": "17:55"
+            },
+            {
+                "title": "פרק 2 - מרחק נגיעה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+2+-+%D7%9E%D7%A8%D7%97%D7%A7+%D7%A0%D7%92%D7%99%D7%A2%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102429%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fg1eeqr2o%252F%2525D7%2525A8%2525D7%252599%2525D7%25259C%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A9%2525D7%25259F2.jpg%253Frxy%253D0.4406664399863992%252C0.4062268777112017%2526width%253D490%2526height%253D272%2526rnd%253D133953483881800000&module=kan&moredata=best",
+                "time": "18:00"
+            },
+            {
+                "title": "פרק 3 - היום הראשון",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+3+-+%D7%94%D7%99%D7%95%D7%9D+%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102432%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F255duxkm%252Fhttps-kanstaticazureedgenet-download-pictures-2022-10-16-imgid-13723_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272860976230000&module=kan&moredata=best",
+                "time": "18:05"
+            },
+            {
+                "title": "פרק 4 - ריח של בית",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+4+-+%D7%A8%D7%99%D7%97+%D7%A9%D7%9C+%D7%91%D7%99%D7%AA&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102435%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fhwnbbyiw%252Fhttps-kanstaticazureedgenet-download-pictures-2019-6-10-imgid-14370_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272860992370000&module=kan&moredata=best",
+                "time": "18:10"
+            },
+            {
+                "title": "פרק 5 - יום הולדת שמח",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+5+-+%D7%99%D7%95%D7%9D+%D7%94%D7%95%D7%9C%D7%93%D7%AA+%D7%A9%D7%9E%D7%97&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102437%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fbsid4qbn%252Fhttps-kanstaticazureedgenet-download-pictures-2019-6-18-imgid-14898_aa.jpeg%253Fwidth%253D490%2526height%253D272%2526rnd%253D133272861008630000&module=kan&moredata=best",
+                "time": "18:15"
+            },
+            {
+                "title": "פרק 6 - בשנה הבאה",
+                "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+6+-+%D7%91%D7%A9%D7%A0%D7%94+%D7%94%D7%91%D7%90%D7%94&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-13768%252Fs1%252F102439%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252F1pxpve43%252F%2525D7%2525A8%2525D7%252599%2525D7%25259C%2525D7%252595%2525D7%2525A7%2525D7%252599%2525D7%252599%2525D7%2525A9%2525D7%25259F6.jpg%253Frxy%253D0.5902754165249915%252C0.43524308326200184%2526width%253D490%2526height%253D272%2526rnd%253D133953480631830000&module=kan&moredata=best",
+                "time": "18:20"
+            }
         ]
     }
 }
