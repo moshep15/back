@@ -2253,16 +2253,6 @@
         ],
         "general": [
             {
-                "title": "ארץ הטייקונים",
-                "url": "PlayMedia(\"plugin://plugin.video.idanplus/?name=%D7%90%D7%A8%D7%A5+%D7%94%D7%98%D7%99%D7%99%D7%A7%D7%95%D7%A0%D7%99%D7%9D&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F859031%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fg4ajz3gq%252F%2525D7%252598%2525D7%252599%2525D7%252599%2525D7%2525A7%2525D7%252595%2525D7%2525A0%2525D7%252599%2525D7%25259D-1.jpg%253Frxy%253D0.5462369487782096%252C0.4756689587640346%2526width%253D490%2526height%253D272%2526rnd%253D133909211252300000&module=kan&moredata=best\")",
-                "time": "10:00"
-            },
-            {
-                "title": "עליבאבא",
-                "url": "plugin://plugin.video.idanplus/?name=%D7%A2%D7%9C%D7%99%D7%91%D7%90%D7%91%D7%90&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F859033%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Fihihprst%252F%2525D7%252598%2525D7%252599%2525D7%252599%2525D7%2525A7%2525D7%252595%2525D7%2525A0%2525D7%252599%2525D7%25259D-2.jpg%253Frxy%253D0.46456506700031175%252C0.34922431045730795%2526width%253D490%2526height%253D272%2526rnd%253D133909211191400000&module=kan&moredata=best",
-                "time": "10:05"
-            },
-            {
                 "title": "פרק 1 - ארה\"ב",
                 "url": "plugin://plugin.video.idanplus/?name=%D7%A4%D7%A8%D7%A7+1+-+%D7%90%D7%A8%D7%94%22%D7%91&url=https%253A%252F%252Fwww.kan.org.il%252Fcontent%252Fkan%252Fkan-11%252Fp-445792%252F447786%252F&mode=3&iconimage=https%253A%252F%252Fmobapi.kan.org.il%252Fmedia%252Feqybe1kz%252F%2525D7%25259C%2525D7%252590%2525D7%2525AA%2525D7%2525A8-%2525D7%2525A4%2525D7%2525A8%2525D7%2525A7-1.jpg%253Frxy%253D0.47461432212512666%252C0.5876098922467689%2526width%253D490%2526height%253D272%2526rnd%253D133657752056400000&module=kan&moredata=best",
                 "time": "10:10"
