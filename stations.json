@@ -1,0 +1,797 @@
+[
+  {
+    "name": "רדיו חמש ישראל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=79",
+    "stream": "https://radio5.ecast.co.il/stream/live"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=1",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן 88",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=1",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=2",
+    "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו תשעים",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=2",
+    "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=3",
+    "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו לב המדינה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=3",
+    "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=4",
+    "stream": "https://102.livecdn.biz/102fm_mp3"
+  },
+  {
+    "name": "רדיו תל אביב 102FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=4",
+    "stream": "https://102.livecdn.biz/102fm_mp3"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=5",
+    "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+  },
+  {
+    "name": "רדיוס 100FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=5",
+    "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=6",
+    "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+  },
+  {
+    "name": "גלי צהל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=6",
+    "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=7",
+    "stream": "https://eco-live.mediacast.co.il/99fm_aac"
+  },
+  {
+    "name": "רדיו 99FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=7",
+    "stream": "https://eco-live.mediacast.co.il/99fm_aac"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=8",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+  },
+  {
+    "name": "גלגלצ",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=8",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=9",
+    "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו 103",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=9",
+    "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=10",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן ב",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=10",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=11",
+    "stream": "https://1075.livecdn.biz/radiohaifa"
+  },
+  {
+    "name": "רדיו חיפה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=11",
+    "stream": "https://1075.livecdn.biz/radiohaifa"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=12",
+    "stream": "https://liveradio.co.il/radiolove"
+  },
+  {
+    "name": "רדיו שירי אהבה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=12",
+    "stream": "https://liveradio.co.il/radiolove"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=13",
+    "stream": "http://www.menta-fm.co.il:8888/"
+  },
+  {
+    "name": "רדיו קול המזרח",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=13",
+    "stream": "http://www.menta-fm.co.il:8888/"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=14",
+    "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו דרום",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=14",
+    "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=15",
+    "stream": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו התחנה 101.5",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=15",
+    "stream": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=16",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן גימל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=16",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=17",
+    "stream": "https://icecast.live/yamfm"
+  },
+  {
+    "name": "רדיו קליק לים התיכון",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=17",
+    "stream": "https://icecast.live/yamfm"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=18",
+    "stream": "https://media-ssl.musicradio.com/ClassicFM"
+  },
+  {
+    "name": "Classic FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=18",
+    "stream": "https://media-ssl.musicradio.com/ClassicFM"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=19",
+    "stream": "http://106fm.livecdn.biz:7075/;stream.mp3"
+  },
+  {
+    "name": "קול הקמפוס 106FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=19",
+    "stream": "http://106fm.livecdn.biz:7075/;stream.mp3"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=20",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן מורשת",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=20",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=21",
+    "stream": "https://media2.93fm.co.il/live-new"
+  },
+  {
+    "name": "רדיו קול חי",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=21",
+    "stream": "https://media2.93fm.co.il/live-new"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=22",
+    "stream": "https://cdna.streamgates.net/Ashams/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו א-שמס - الشمس",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=22",
+    "stream": "https://cdna.streamgates.net/Ashams/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=23",
+    "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו קול רגע",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=23",
+    "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=24",
+    "stream": "https://rs.mizrahit.fm:7777/;"
+  },
+  {
+    "name": "רדיו נושמים מזרחית",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=24",
+    "stream": "https://rs.mizrahit.fm:7777/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=25",
+    "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו ירושלים",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=25",
+    "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=26",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן קול המוסיקה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=26",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=27",
+    "stream": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו קול הים האדום",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=27",
+    "stream": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=28",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן תרבות",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=28",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=29",
+    "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו גלי ישראל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=29",
+    "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=30",
+    "stream": "https://radio.streamgates.net/stream/yezreel"
+  },
+  {
+    "name": "רדיו קול יזרעאל 106FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=30",
+    "stream": "https://radio.streamgates.net/stream/yezreel"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=31",
+    "stream": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו קול ברמה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=31",
+    "stream": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=32",
+    "stream": "https://radio.streamgates.net/stream/kinneret"
+  },
+  {
+    "name": "רדיו קול הכנרת",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=32",
+    "stream": "https://radio.streamgates.net/stream/kinneret"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=33",
+    "stream": "http://liveradio.co.il:8070/;"
+  },
+  {
+    "name": "רדיו חולמים מזרחית",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=33",
+    "stream": "http://liveradio.co.il:8070/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=34",
+    "stream": "https://live.ecast.co.il/stream/sahar"
+  },
+  {
+    "name": "רדיו סהר",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=34",
+    "stream": "https://live.ecast.co.il/stream/sahar"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=35",
+    "stream": "https://radio.streamgates.net/stream/netanya"
+  },
+  {
+    "name": "רדיו קול נתניה 106FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=35",
+    "stream": "https://radio.streamgates.net/stream/netanya"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=36",
+    "stream": null
+  },
+  {
+    "name": "ערוץ הכנסת",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=36",
+    "stream": null
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=37",
+    "stream": "https://live.ecast.co.il/stream/radioneto1"
+  },
+  {
+    "name": "רדיו נטו",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=37",
+    "stream": "https://live.ecast.co.il/stream/radioneto1"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=38",
+    "stream": "https://ec1.yesstreaming.net:3815/stream?ver=258837"
+  },
+  {
+    "name": "רדיו חוף אילת",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=38",
+    "stream": "https://ec1.yesstreaming.net:3815/stream?ver=258837"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=39",
+    "stream": "https://radio.streamgates.net/stream/sol"
+  },
+  {
+    "name": "רדיו סול",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=39",
+    "stream": "https://radio.streamgates.net/stream/sol"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=40",
+    "stream": "http://radio-yasoo.ath.cx:7500/;"
+  },
+  {
+    "name": "רדיו יאסו",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=40",
+    "stream": "http://radio-yasoo.ath.cx:7500/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=41",
+    "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio"
+  },
+  {
+    "name": "רדיו מהות החיים",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=41",
+    "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=42",
+    "stream": "http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3"
+  },
+  {
+    "name": "רדיו קבלה FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=42",
+    "stream": "http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=43",
+    "stream": "https://radio.streamgates.net/stream/1036"
+  },
+  {
+    "name": "קול רמת השרון",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=43",
+    "stream": "https://radio.streamgates.net/stream/1036"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=44",
+    "stream": "https://liveradio.co.il:1060/waelhalabi/1/web"
+  },
+  {
+    "name": "רדיו אלכרמל (راديو الكرمل)",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=44",
+    "stream": "https://liveradio.co.il:1060/waelhalabi/1/web"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=45",
+    "stream": null
+  },
+  {
+    "name": "Первое радио 89.1FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=45",
+    "stream": null
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=46",
+    "stream": "https://1062onair.idc.ac.il/idc123.mp3"
+  },
+  {
+    "name": "הרדיו הבינתחומי",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=46",
+    "stream": "https://1062onair.idc.ac.il/idc123.mp3"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=47",
+    "stream": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio"
+  },
+  {
+    "name": "רדיו דרום 101.5",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=47",
+    "stream": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=48",
+    "stream": "https://diki.mediacast.co.il/diki"
+  },
+  {
+    "name": "רדיו שירי דיכאון",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=48",
+    "stream": "https://diki.mediacast.co.il/diki"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=49",
+    "stream": "http://www.radio-beat.com/server1"
+  },
+  {
+    "name": "רדיו ביט",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=49",
+    "stream": "http://www.radio-beat.com/server1"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=50",
+    "stream": "https://995.livecdn.biz/995fm"
+  },
+  {
+    "name": "רדיו חם אש",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=50",
+    "stream": "https://995.livecdn.biz/995fm"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=51",
+    "stream": "https://mzr.mediacast.co.il/mzradio"
+  },
+  {
+    "name": "רדיו מזרחית",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=51",
+    "stream": "https://mzr.mediacast.co.il/mzradio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=52",
+    "stream": "http://gb35.streamgates.net/ariel106fm/audio/icecast.audio"
+  },
+  {
+    "name": "רדיו קול אחר 106FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=52",
+    "stream": "http://gb35.streamgates.net/ariel106fm/audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=53",
+    "stream": "https://liveradio.co.il:9070/;"
+  },
+  {
+    "name": "רדיו קול המרכז",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=53",
+    "stream": "https://liveradio.co.il:9070/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=54",
+    "stream": "https://cast.ereznet.co.il/radio/8070/radio.mp3"
+  },
+  {
+    "name": "רדיו ברסלב - קול הנחל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=54",
+    "stream": "https://cast.ereznet.co.il/radio/8070/radio.mp3"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=55",
+    "stream": "https://icecast.live/proxy/livegreece/livegreece"
+  },
+  {
+    "name": "רדיו כחול יוון",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=55",
+    "stream": "https://icecast.live/proxy/livegreece/livegreece"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=56",
+    "stream": "http://185.80.220.12:8047/stream"
+  },
+  {
+    "name": "רדיו רן (פרסית)",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=56",
+    "stream": "http://185.80.220.12:8047/stream"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=57",
+    "stream": "https://liveradio.co.il:9089/;"
+  },
+  {
+    "name": "רדיו המזרח",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=57",
+    "stream": "https://liveradio.co.il:9089/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=58",
+    "stream": "https://radio.streamgates.net/stream/oranim"
+  },
+  {
+    "name": "רדיו אורנים",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=58",
+    "stream": "https://radio.streamgates.net/stream/oranim"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=59",
+    "stream": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+  },
+  {
+    "name": "רדיו הקצה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=59",
+    "stream": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=60",
+    "stream": "https://radio.streamgates.net/stream/galil"
+  },
+  {
+    "name": "רדיו קול הגליל העליון 105.3FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=60",
+    "stream": "https://radio.streamgates.net/stream/galil"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=61",
+    "stream": "https://liveradio.co.il:1040/;"
+  },
+  {
+    "name": "רדיו קצב ים תיכוני",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=61",
+    "stream": "https://liveradio.co.il:1040/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=62",
+    "stream": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "רדיו צפון 104.5",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=62",
+    "stream": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=63",
+    "stream": "https://jazzfm91.streamb.live/SB00009"
+  },
+  {
+    "name": "Jazz FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=63",
+    "stream": "https://jazzfm91.streamb.live/SB00009"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=64",
+    "stream": "https://liveradio.co.il/kolhagolan"
+  },
+  {
+    "name": "רדיו קול הגולן",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=64",
+    "stream": "https://liveradio.co.il/kolhagolan"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=65",
+    "stream": "https://s4.radio.co/s6765540c3/listen"
+  },
+  {
+    "name": "רדיו גלי אשקלונט",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=65",
+    "stream": "https://s4.radio.co/s6765540c3/listen"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=66",
+    "stream": "https://liveradio.co.il/wet"
+  },
+  {
+    "name": "רדיו מרטיט מיתר בלב",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=66",
+    "stream": "https://liveradio.co.il/wet"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=67",
+    "stream": "https://securestreams2.autopo.st:1242/live"
+  },
+  {
+    "name": "BeatFM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=67",
+    "stream": "https://securestreams2.autopo.st:1242/live"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=68",
+    "stream": "https://streaming.radio.co/sa06221901/listen"
+  },
+  {
+    "name": "עברי שש",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=68",
+    "stream": "https://streaming.radio.co/sa06221901/listen"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=69",
+    "stream": "https://icecast.live/proxy/up2dance/up2dance"
+  },
+  {
+    "name": "Up2Dance Radio",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=69",
+    "stream": "https://icecast.live/proxy/up2dance/up2dance"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=70",
+    "stream": "https://live.ecast.co.il/stream/69fm"
+  },
+  {
+    "name": "רדיו 69FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=70",
+    "stream": "https://live.ecast.co.il/stream/69fm"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=71",
+    "stream": "https://radio.streamgates.net/stream/1036kh"
+  },
+  {
+    "name": "רדיו קול השפלה",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=71",
+    "stream": "https://radio.streamgates.net/stream/1036kh"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=72",
+    "stream": "https://liveradio.co.il/radio_i"
+  },
+  {
+    "name": "רדיו קצב מזרחית",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=72",
+    "stream": "https://liveradio.co.il/radio_i"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=73",
+    "stream": "https://cdna.streamgates.net/TheBest/live/icecast.audio"
+  },
+  {
+    "name": "MUZIKA 106.4FM",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=73",
+    "stream": "https://cdna.streamgates.net/TheBest/live/icecast.audio"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=74",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite"
+  },
+  {
+    "name": "כאן רקע",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=74",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=75",
+    "stream": "https://icecast.live/proxy/zerock/zerock"
+  },
+  {
+    "name": "רדיו זה רוק",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=75",
+    "stream": "https://icecast.live/proxy/zerock/zerock"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=76",
+    "stream": "https://liveradio.co.il/salsa"
+  },
+  {
+    "name": "Radio Salsa Tel Aviv",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=76",
+    "stream": "https://liveradio.co.il/salsa"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=77",
+    "stream": "https://liveradio.co.il:8020/;"
+  },
+  {
+    "name": "רדיו חדש על הגל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=77",
+    "stream": "https://liveradio.co.il:8020/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=78",
+    "stream": "https://sweb.co.il:8888/;"
+  },
+  {
+    "name": "רדיו בריזר",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=78",
+    "stream": "https://sweb.co.il:8888/;"
+  },
+  {
+    "name": "ללא שם",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=79",
+    "stream": "https://radio5.ecast.co.il/stream/live"
+  },
+  {
+    "name": "רדיו חמש ישראל",
+    "url": "https://radio.coolsite.co.il/radio.php?radio=79",
+    "stream": "https://radio5.ecast.co.il/stream/live"
+  }
+]
