@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="סרטים", כאן 11
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&amp;fmp4
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="סרטים", כאן 11
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
 
 
 
