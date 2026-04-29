@@ -22,6 +22,8 @@ https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJh
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d1g1r11gk1vifo.cloudfront.net/560x350/keshet/uploads/page_image/file/537/Keshet12thumb_1546375498.jpg" group-title="idan_plus", קשת 12
 http://77.137.40.221:8000/play/a017
+#EXTINF:-1,group-title="idan_plus" tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png", SPORT5 LIVE
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 
 
 
