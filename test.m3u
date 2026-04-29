@@ -1,29 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", יש עדכון מהיר לתאריך 29/04/26
 PlayMedia(plugin://plugin.program.kodirealdebridisraelwizard/?mode=install&amp;action=quick_update&amp;name=%D7%A7%D7%95%D7%93%D7%99+%D7%A8%D7%99%D7%9C+%D7%93%D7%91%D7%A8%D7%99%D7%93+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;auto_quick_update=false)
-#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", כאן 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&amp;fmp4
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1527244331857453057/uqucorSk_400x400.jpg" group-title="idan_plus", ללא תקיעה בפרסומות HD רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&amp;fmp4
+
 #EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1527244331857453057/uqucorSk_400x400.jpg" group-title="idan_plus", רשת 13
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1527244331857453057/uqucorSk_400x400.jpg" group-title="idan_plus", רשת 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTM3U
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1527244331857453057/uqucorSk_400x400.jpg" group-title="idan_plus", רשת 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" group-title="idan_plus", I24News
 https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://d1g1r11gk1vifo.cloudfront.net/560x350/keshet/uploads/page_image/file/537/Keshet12thumb_1546375498.jpg" group-title="idan_plus", קשת 12
 http://77.137.40.221:8000/play/a017
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png" group-title="idan_plus", SPORT5 LIVE
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 
