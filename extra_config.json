@@ -1,0 +1,11 @@
+{
+    "script.skin.helper.colorpicker": true,
+    "plugin.video.idanplus": true,
+    "plugin.video.fenlight": false,
+    "plugin.video.mando": false,
+    "plugin.video.playlistloader": false,
+    "plugin.video.last_played": false,
+    "plugin.video.twilight": false,
+    "plugin.video.IdanIptv": false,
+    "plugin.video.myplaylist": false
+}
