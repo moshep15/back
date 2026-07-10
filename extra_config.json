@@ -3,6 +3,7 @@
     "plugin.video.idanplus": true,
     "plugin.video.fenlight": false,
     "plugin.video.mando": false,
+    "service.subtitles.kodipovilai": false,
     "plugin.video.playlistloader": false,
     "plugin.video.last_played": false,
     "plugin.video.twilight": false,
