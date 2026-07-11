@@ -8,7 +8,7 @@
     "plugin.video.last_played": false,
     "plugin.video.twilight": false,
     "plugin.video.IdanIptv": false,
-    "service.subtitles.All_Subs": false,
-    "service.subtitles.all_subs_plus": false,
+    "service.subtitles.All_Subs": true,
+    "service.subtitles.all_subs_plus": true,
     "plugin.video.myplaylist": false
 }
