@@ -13,5 +13,6 @@
     "service.subtitles.all_subs_plus": true,
     "repository.redwizard": true,
     "plugin.video.redlight": true,
+    "repository.eladrepo": "delete",
     "plugin.video.myplaylist": "delete"
 }
