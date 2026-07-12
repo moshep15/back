@@ -10,6 +10,6 @@
     "plugin.video.fen": true,
     "plugin.video.IdanIptv": false,
     "service.subtitles.All_Subs": true,
-    "service.subtitles.all_subs_plus": true,
+    "service.subtitles.all_subs_plus": "delete",
     "plugin.video.myplaylist": false
 }
