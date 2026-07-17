@@ -9,7 +9,7 @@
     "plugin.video.twilight": "delete",
     "plugin.video.fen": "delete",
     "plugin.video.IdanIptv": "delete",
-    "repository.subterra": true,
+    "repository.subterra": false,
     "script.subterra": false,
     "service.subtitles.All_Subs": true,
     "service.subtitles.all_subs_plus": true,
