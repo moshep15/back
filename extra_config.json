@@ -12,7 +12,7 @@
     "repository.subterra": true,
     "script.subterra": false,
     "service.subtitles.All_Subs": true,
-    "service.subtitles.all_subs_plus": "delete",
+    "service.subtitles.all_subs_plus": false,
     "repository.redwizard": true,
     "plugin.video.redlight": true,
     "repository.eladrepo": "delete",
