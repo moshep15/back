@@ -10,7 +10,6 @@
     "repository.kodinerds": true,
     "repository.subterra": false,
     "repository.redwizard": true,
-    "plugin.video.idanplus": true,
     "plugin.video.fenlight": "delete",
     "plugin.video.mando": "delete",
     "plugin.video.playlistloader": "delete",
