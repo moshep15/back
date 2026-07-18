@@ -3,7 +3,7 @@
     "plugin.video.idanplus": true,
     "plugin.video.fenlight": "delete",
     "plugin.video.mando": "delete",
-    "service.subtitles.kodipovilai": false,
+    "service.subtitles.kodipovilai": "delete",
     "plugin.video.playlistloader": "delete",
     "plugin.video.last_played": "delete",
     "plugin.video.twilight": "delete",
