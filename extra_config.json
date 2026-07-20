@@ -8,7 +8,7 @@
     "service.subtitles.wizdom": true,
     "repository.eladrepo": "delete",
     "repository.kodinerds": true,
-    "repository.subterra": false,
+    "repository.subterra": true,
     "repository.redwizard": true,
     "plugin.video.fenlight": "delete",
     "plugin.video.mando": "delete",
