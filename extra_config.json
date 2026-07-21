@@ -1,7 +1,7 @@
 {
     "script.skin.helper.colorpicker": "delete",
     "script.skin.helper.colorpicker.bg": true,
-    "script.subterra": false,
+    "script.subterra": true,
     "service.subtitles.kodipovilai": "delete",
     "service.subtitles.all_subs_plus": true,
     "service.subtitles.All_Subs": true,
