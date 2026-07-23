@@ -14,6 +14,7 @@
     "plugin.video.mando": "delete",
     "plugin.video.playlistloader": "delete",
     "plugin.video.last_played": "delete",
+    "plugin.video.playlistloader": true,
     "plugin.video.twilight": "delete",
     "plugin.video.fen": "delete",
     "plugin.video.IdanIptv": "delete",    
