@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="idan_plus", 27/06/26 יש עדכון מהיר
-PlayMedia("plugin://plugin.program.kodirealdebridisraelwizard/?mode=install&amp;action=quick_update&amp;name=%D7%A7%D7%95%D7%93%D7%99+%D7%A8%D7%99%D7%9C+%D7%93%D7%91%D7%A8%D7%99%D7%93+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;auto_quick_update=false")
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="tv", ערוץ 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="tv", ערוץ 13
+https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="tv", ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://scpg.tv/wp-content/uploads/2022/12/image-77-41.png" group-title="tv", ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
 
 
 
