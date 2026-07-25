@@ -6,6 +6,7 @@
     "service.subtitles.all_subs_plus": true,
     "service.subtitles.All_Subs": true,
     "service.subtitles.wizdom": true,
+    "service.subtitles.opensubtitles-com-dualsub": true,
     "repository.eladrepo": "delete",
     "repository.kodinerds": true,
     "repository.subterra": true,
