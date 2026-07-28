@@ -20,5 +20,5 @@
     "plugin.video.IdanIptv": "delete",    
     "plugin.video.redlight": true,
     "plugin.video.myplaylist": "delete",
-    "plugin.video.pov": "update"
+    "plugin.video.pov": "enable_auto_update"
 }
