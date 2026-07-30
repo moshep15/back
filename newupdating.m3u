@@ -7,8 +7,8 @@ https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/in
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="tv", ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="tv", ערוץ 13
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1280px-Keshet12_2018.svg.png" group-title="tv", קשת 12
+https://mako-streaming.akamaized.net/stream/hls/live/20000821/k12n12wad/index.m3u8?b-in-range=0-1800&hdnea=st%3D1785428565%7Eexp%3D1785429465%7Eacl%3D%2F*%7Ehmac%3Da3aa276235070e9bd81587946de689d160746417ee285c28b407fa26dcbe19e0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1280px-Keshet12_2018.svg.png" group-title="tv", קשת 12
 https://d2249b6f08tjt0.cloudfront.net/k12dvr/eyJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiXC9rMTJkdnJcL21hc3Rlci5tM3U4P2ItaW4tcmFuZ2U9MC0xODAwIiwidGltZXN0YW1wIjoxNzg1NDI4MzY4NTk5fQ.yNoxBIPhOKm4RbpbSfaDMUWPKGtCmQP6Z4P7vVXFiw4/playlist_2.m3u8?_uid=748b6ebf-2f9b-445e-80d2-b9f9d3b61ae0&rK=b7&_did=826a126b-a43a-4f96-83c6-1c70a76aa822
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/1280px-Kan11Logo.svg.png" group-title="tv", כאן 11
