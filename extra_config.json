@@ -1,7 +1,6 @@
 {
     "script.skin.helper.colorpicker": "delete",
     "script.skin.helper.colorpicker.bg": true,
-    "script.subterra": true,
     "script.module.chainscrapers": "delete",
     "script.module.gearsscrapers": "delete",
     "script.module.magneto": "delete",
