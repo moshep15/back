@@ -11,11 +11,11 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/in
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="tv", I24 חדשות
 https://fetcher-token-902812087252.me-west1.run.app/play/i24/he
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="tv", Fox News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News
 https://tvsen6.aynaott.com/foxnews/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="tv", Fox News 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 1
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 2
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 
 
