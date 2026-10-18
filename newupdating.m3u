@@ -17,5 +17,7 @@ https://tvsen6.aynaott.com/foxnews/tracks-v1a1/mono.ts.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 2
 https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 3
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
