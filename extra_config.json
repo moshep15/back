@@ -4,8 +4,6 @@
     "script.module.chainscrapers": "delete",
     "script.module.gearsscrapers": "delete",
     "script.module.magneto": "delete",
-    "service.subtitles.all_subs_plus": "delete",
-    "service.subtitles.All_Subs": true,
     "service.subtitles.wizdom": true,
     "service.subtitles.opensubtitles-com-dualsub": "delete",
     "repository.eladrepo": "delete",
