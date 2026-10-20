@@ -7,6 +7,10 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 3
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fatguy666/Sky-TV-Icons-2020/refs/heads/master/Sky%20News%20HD.png" group-title="tv", Sky News 1
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fatguy666/Sky-TV-Icons-2020/refs/heads/master/Sky%20News%20HD.png" group-title="tv", Sky News 2
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="tv", ערוץ 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="tv", ערוץ 13
