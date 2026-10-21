@@ -1,23 +1,10 @@
 {
-    "script.skin.helper.colorpicker": "delete",
     "script.skin.helper.colorpicker.bg": true,
-    "script.module.chainscrapers": "delete",
-    "script.module.gearsscrapers": "delete",
-    "script.module.magneto": "delete",
     "service.subtitles.wizdom": true,
     "script.subterra": true,
-    "service.subtitles.opensubtitles-com-dualsub": "delete",
-    "repository.eladrepo": "delete",
     "repository.kodinerds": true,
     "repository.redwizard": true,
-    "plugin.video.fenlight": "delete",
-    "plugin.video.redlight": "delete",
-    "plugin.video.mando": "delete",
-    "plugin.video.last_played": "delete",
-    "plugin.video.playlistloader": true,
-    "plugin.video.twilight": "delete",
-    "plugin.video.fen": "delete",
-    "plugin.video.IdanIptv": "delete",    
-    "plugin.video.redlight": true,
-    "plugin.video.myplaylist": "delete"
+    "plugin.video.playlistloader": true, 
+    "plugin.video.redlight": true
+
 }
