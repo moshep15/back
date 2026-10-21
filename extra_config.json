@@ -5,6 +5,7 @@
     "script.module.gearsscrapers": "delete",
     "script.module.magneto": "delete",
     "service.subtitles.wizdom": true,
+    "script.subterra": true,
     "service.subtitles.opensubtitles-com-dualsub": "delete",
     "repository.eladrepo": "delete",
     "repository.kodinerds": true,
