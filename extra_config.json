@@ -4,6 +4,7 @@
     "script.subterra": true,
     "repository.kodinerds": true,
     "repository.redwizard": true,
+    "service.subtitles.kodipovilai": true,
     "plugin.video.playlistloader": true
 
 }
