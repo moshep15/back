@@ -5,6 +5,7 @@
     "repository.kodinerds": true,
     "repository.redwizard": true,
     "service.subtitles.kodipovilai": true,
+    "service.subtitles.All_Subs": true,
     "plugin.video.playlistloader": true
 
 }
