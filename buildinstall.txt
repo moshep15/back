@@ -4,9 +4,9 @@ zip="https://www.dropbox.com/scl/fi/tyi01k1wiz2jii9y7wuxl/plugin.program.kodipov
 
 name="Kodi POV IL - FENtastic"
 version="0.1.16"
-url="https://www.dropbox.com/scl/fi/4y7uk9e2z9kkuy4d33rkz/Kodi21New.zip?rlkey=90x4ef01eqc7cq4329jj4j0eu&st=d3xqnck7&dl=1"
+url="https://www.dropbox.com/scl/fi/ywdi4upzr3odjaleupa6j/Kodi21New.zip?rlkey=23a7fco6v4b9ae9zuquumkvcl&st=c9go1wxt&dl=1"
 minor="https://"
-gui="https://www.dropbox.com/scl/fi/en03mqahsl3tf88w52he9/update.zip?rlkey=z00dqrmhnx9vyzvvpjcqrqzup&st=sw2hi7ez&dl=1"
+gui=""
 kodi="21.0"
 theme="http://"
 icon="https://github.com/MoranTheKing/Kodi-POV-IL/raw/main/wizard/assets/build_menu_screenshots/pov_il_square.png"
