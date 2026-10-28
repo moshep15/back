@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/26/03/768x432/skynews-live-watch_7186986.png" group-title="tv", Sky News 1
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News
-https://tvsen6.aynaott.com/foxnews/tracks-v1a1/mono.ts.m3u8
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 1
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 2
