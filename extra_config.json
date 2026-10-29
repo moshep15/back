@@ -2,8 +2,6 @@
     "script.skin.helper.colorpicker.bg": true,
     "service.subtitles.wizdom": "delete",
     "script.subterra": true,
-    "repository.kodinerds": true,
-    "repository.redwizard": true,
     "plugin.video.playlistloader": true
 
 }
