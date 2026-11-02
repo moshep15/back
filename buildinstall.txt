@@ -4,7 +4,7 @@ zip="https://www.dropbox.com/scl/fi/tyi01k1wiz2jii9y7wuxl/plugin.program.kodipov
 
 name="Kodi POV IL - FENtastic"
 version="0.1.16"
-url="https://www.dropbox.com/scl/fi/chp6vwuj7sttedad1mi03/Kodi21New.zip?rlkey=u6a294fs8forlkctajb82820f&st=dc65n9e4&dl=1"
+url="https://www.dropbox.com/scl/fi/u7kz7jvjhwyofywhvlrnb/Kodi21New.zip?rlkey=7loafh3ds34rb42eku50x0mvk&st=lt93hr6o&dl=1"
 minor="https://"
 gui="https://www.dropbox.com/scl/fi/g9jzpm2vy9qqsujm2ijcn/update.zip?rlkey=a0jaelkabx4z5skero4vvwrev&st=gap7ggjr&dl=1"
 kodi="21.0"
