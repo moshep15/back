@@ -15,7 +15,19 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4eEWXgExTlCViGhptfwYIdYg77ZVrdla84JTdfnbATnfe5-CYYdF1KRm&s=10" group-title="tv", beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://cdn.c21media.net/wp-content/uploads/2020/03/keshet-12-2018-logo-1.jpg" group-title="tv", קשת 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/archive/f/f3/20260407112918%21Reshet13Logo2025.svg" group-title="tv", רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EyWnETp495EItvJytHFGFWby9n9qGEwwS36jGRslwFWCZjJKUzU9JWvKIZD7J3_fDoUP7QqBSPyWED_r5LTa" group-title="tv", yes סרטים
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", ערוץ ים תיכוני
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", ויוה פרומיום
+http://stream.mcquack.net/43/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט דרמה
+http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט ZONE
+http://stream.mcquack.net/379/index.m3u8
 
 
