@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/26/03/768x432/skynews-live-watch_7186986.png" group-title="tv", Sky News 1
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 1
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 2
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GH02TvbK/vecteezy-fox-news-channel-logo-rounded-icon-67565499.png" group-title="tv", Fox News 3
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/75-750781_mtv-music-logo-mtv-live-hd-hd-png.png" group-title="tv", MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-ii-logo-png_seeklogo-327502.png" group-title="tv", NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4eEWXgExTlCViGhptfwYIdYg77ZVrdla84JTdfnbATnfe5-CYYdF1KRm&s=10" group-title="tv", beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4eEWXgExTlCViGhptfwYIdYg77ZVrdla84JTdfnbATnfe5-CYYdF1KRm&s=10" group-title="tv", beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.c21media.net/wp-content/uploads/2020/03/keshet-12-2018-logo-1.jpg" group-title="tv", קשת 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/archive/f/f3/20260407112918%21Reshet13Logo2025.svg" group-title="tv", רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/archive/f/f3/20260407112918%21Reshet13Logo2025.svg" group-title="tv", ערוץ 24
+http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EyWnETp495EItvJytHFGFWby9n9qGEwwS36jGRslwFWCZjJKUzU9JWvKIZD7J3_fDoUP7QqBSPyWED_r5LTa" group-title="tv", yes סרטים
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", ערוץ ים תיכוני
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", ויוה פרומיום
+http://stream.mcquack.net/43/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט דרמה
+http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט ZONE
+http://stream.mcquack.net/379/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט ZONE
+http://stream.mcquack.net/379/index.m3u8
+
+
+
