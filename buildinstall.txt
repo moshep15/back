@@ -6,7 +6,7 @@ name="Kodi POV IL - FENtastic"
 version="0.1.16"
 url="https://www.dropbox.com/scl/fi/ek3tfr94plq1yrj4ietbn/Kodi21New.zip?rlkey=1ntl4g485whe9k5l0939zr214&st=krxix2yi&dl=1"
 minor="https://"
-gui="https://www.dropbox.com/scl/fi/4tepo4d40xlc3add79wkg/update.zip?rlkey=i296yq8ynkdrcssh8nttcf11a&st=soqf06es&dl=1
+gui="https://www.dropbox.com/scl/fi/4tepo4d40xlc3add79wkg/update.zip?rlkey=i296yq8ynkdrcssh8nttcf11a&st=soqf06es&dl=1"
 kodi="21.0"
 theme="http://"
 icon="https://github.com/MoranTheKing/Kodi-POV-IL/raw/main/wizard/assets/build_menu_screenshots/pov_il_square.png"
