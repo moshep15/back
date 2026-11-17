@@ -1,6 +1,6 @@
 id="plugin.program.kodipovilwizard"
 version="0.1.49"
-zip="https://raw.githubusercontent.com/MoranTheKing/Kodi-POV-IL/main/wizard/assets/build.txt"
+zip="https://raw.githubusercontent.com/moshep15/back/refs/heads/master/plugin.program.kodipovilwizard-0.1.49.zip"
 
 name="Kodi POV IL - FENtastic"
 version="0.1.179"
