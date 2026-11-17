@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/MoranTheKing/Kodi-POV-IL/main/wizard/asse
 
 name="Kodi POV IL - FENtastic"
 version="0.1.179"
-url="https://fv5-3.files.fm/down.php?i=2scjmgpayr6gzs8p&n=Kodi21New.zip"
+url="https://fv5-3.files.fm/down.php?i=b8jgzccns8xjhe35&n=Kodi21New.zip"
 minor="https://"
 gui=""
 kodi="21.0"
