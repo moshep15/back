@@ -2,6 +2,7 @@
     "script.skin.helper.colorpicker.bg": true,
     "service.subtitles.wizdom": "delete",
     "script.subterra": true,
+    "script.auto.subtitles": true,
     "plugin.video.playlistloader": true
 
 }
