@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/moshep15/back/refs/heads/master/plugin.pr
 
 name="Kodi POV IL - FENtastic"
 version="0.1.179"
-url="https://fv5-3.files.fm/down.php?i=b8jgzccns8xjhe35&n=Kodi21New.zip"
+url="https://fv5-3.files.fm/down.php?i=7x9ve55ukz5f8mm6&n=Kodi21New.zip"
 minor="https://"
 gui=""
 kodi="21.0"
