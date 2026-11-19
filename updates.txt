@@ -1,4 +1,4 @@
-version=1.2
-link=https://www.dropbox.com/scl/fi/lixh9e6d7ao5cdbfyh1zs/test_update.zip?rlkey=ig6bzb9n72bgylht4dyh0l7js&st=j03pmtqv&dl=1
-title=מה חדש בגרסה 1.2
-message=מספר עדכונים חדשים
+version=1.3
+link=https://www.dropbox.com/scl/fi/l05ck1gmz9gl66msgslku/test_update.zip?rlkey=1z4m2dtdhsj7ubdwryn0zqknx&st=208jyvtj&dl=1
+title=מה חדש בגרסה 1.3
+message=עדכונים חדשים
