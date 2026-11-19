@@ -1,4 +1,4 @@
 version=1.9
-link=https://www.dropbox.com/scl/fi/l05ck1gmz9gl66msgslku/test_update.zip?rlkey=1z4m2dtdhsj7ubdwryn0zqknx&st=s8e6y987&dl=1
+link=https://www.dropbox.com/scl/fi/s6johbhtov4a8bcg5xo5f/update.zip?rlkey=jecd64fjjnl209yozexw52pu0&st=z66erbkd&dl=1
 title=מה חדש בגרסה 1.4
 message=עדכונים חדשים
