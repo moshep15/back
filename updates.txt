@@ -1,4 +1,4 @@
 version=2.0
-link=https://www.dropbox.com/scl/fi/c29ed48w79j4fqcqipy35/test_update.zip?rlkey=b7c9bme53woyzawpyb1632epw&st=8vyy6d5t&dl=1
+link=https://www.dropbox.com/scl/fi/3nb5yzxzgt4cho3rf1im3/test_update.zip?rlkey=vml2z44p3ok33f5if7dmu6vyv&st=opt3c8le&dl=1
 title=מה חדש בגרסה 2.0
 message=תיקון ללוח שידורים
