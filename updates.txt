@@ -1,4 +1,4 @@
-version=1.9
-link=https://www.dropbox.com/scl/fi/jw1rtolc8q0ka22xpkd3z/update.zip?rlkey=ux6jtnrsysi1ouo6bs9ozn1hv&st=c5tlqf0k&dl=1
-title=מה חדש בגרסה 1.4
-message=עדכונים חדשים
+version=2.0
+link=https://www.dropbox.com/scl/fi/3g6ra1dtmfj8clwb8yy1i/test_update.zip?rlkey=cb6uklfhnf82h7xrdu0iomqvn&st=wjgd41gc&dl=1
+title=מה חדש בגרסה 2.0
+message=תיקון ללוח שידורים
