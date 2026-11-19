@@ -1,4 +1,4 @@
 version=1.0
-link=https://www.dropbox.com/scl/fi/lixh9e6d7ao5cdbfyh1zs/test_update.zip?rlkey=ig6bzb9n72bgylht4dyh0l7js&st=j03pmtqv&dl=0
+link=https://www.dropbox.com/scl/fi/lixh9e6d7ao5cdbfyh1zs/test_update.zip?rlkey=ig6bzb9n72bgylht4dyh0l7js&st=j03pmtqv&dl=1
 title=מה חדש בגרסה 1.0
 message=עודכנו התפריטים הראשיים ושופרה מהירות הטעינה.
