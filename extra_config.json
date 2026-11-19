@@ -3,6 +3,7 @@
     "service.subtitles.wizdom": "delete",
     "script.subterra": true,
     "script.auto.subtitles": true,
+    "service.github.notifier": true,
     "plugin.video.playlistloader": true
 
 }
