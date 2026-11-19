@@ -1,4 +1,4 @@
-version=1.6
+version=1.7
 link=https://www.dropbox.com/scl/fi/l05ck1gmz9gl66msgslku/test_update.zip?rlkey=1z4m2dtdhsj7ubdwryn0zqknx&st=s8e6y987&dl=1
 title=מה חדש בגרסה 1.4
 message=עדכונים חדשים
