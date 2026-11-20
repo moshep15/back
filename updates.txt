@@ -1,4 +1,4 @@
-version=2.3
-link=https://www.dropbox.com/scl/fi/ekpwktqs95a5hwx49mnac/test_update.zip?rlkey=r3zitvkjagu63rxqkzgx1qqbz&st=tgdpe4ce&dl=1
-title=מה חדש בגרסה 2.3
+version=2.4
+link=https://www.dropbox.com/scl/fi/2li440z9ql830be469kuu/test_update.zip?rlkey=xykczpnaibws4o4a1dk1ztyh2&st=kawmcfml&dl=1
+title=מה חדש בגרסה 2.4
 message=עדכון עיצוב
