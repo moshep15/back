@@ -1,1 +1,2 @@
 שימו לב לאחר העדכון הזה , מהעדכון הבא לא תקפוץ לכם הודעת עדכון יותר, כל העדכונים יתבצעו ברקע בלי שתשימו לב והמערכת תרענן את עצמה לאחר העדכון
+you must update the system, after you done all the updates will be on silence mode thats mean the update will work in background you wont even notice
