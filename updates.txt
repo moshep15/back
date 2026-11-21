@@ -1,4 +1,4 @@
 version=2.5
-link=https://www.dropbox.com/scl/fi/dhpkc9993oxpry02y6wrf/test_update.zip?rlkey=87pzn8y4wlby1jep07rx4v95n&st=tbz490ke&dl=1
+link=https://www.dropbox.com/scl/fi/za7v7z2oi3udah3tb0gks/test_update.zip?rlkey=pyxfrwchnih9ujs7p1nc35kd6&st=tx5ozp9e&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כתוביות
