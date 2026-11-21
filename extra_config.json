@@ -5,6 +5,7 @@
     "script.auto.subtitles": true,
     "service.github.notifier": true,
     "service.subtitles.kodipovilai": true,
+    "plugin.video.youtube": true,
     "plugin.video.playlistloader": true
 
 }
