@@ -1,4 +1,4 @@
-version=2.6
+version=2.7
 link=https://www.dropbox.com/scl/fi/plm42va6fconl38ul8hye/test_update.zip?rlkey=9ewai5nvcw4kpbsjsc8xpa82w&st=re3kkb63&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
