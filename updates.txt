@@ -1,4 +1,4 @@
 version=2.5
 link=https://www.dropbox.com/scl/fi/dhpkc9993oxpry02y6wrf/test_update.zip?rlkey=87pzn8y4wlby1jep07rx4v95n&st=tbz490ke&dl=1
-title=מה חדש בגרסה 2.5
+title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כתוביות
