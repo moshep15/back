@@ -1,4 +1,4 @@
-version=2.5
+version=2.6
 link=https://www.dropbox.com/scl/fi/u712cujz419hr9fewxej4/test_update.zip?rlkey=lslb72le8ekom562k8drsrgka&st=0ngekmb9&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
-message=עדכון כתוביות
+message=עדכון כללי
