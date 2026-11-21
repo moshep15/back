@@ -1,4 +1,4 @@
 version=2.5
-link=https://www.dropbox.com/scl/fi/pnxcvir51rn4br0za6qd8/test_update.zip?rlkey=m4tpufksosbhc7az3nf5rbggc&st=irncgfg3&dl=1
+link=https://www.dropbox.com/scl/fi/4yrw1weacm3fx765i0279/test_update.zip?rlkey=mj9wr2djgeqbikymvba8l6udr&st=a8kziczv&dl=1
 title=מה חדש בגרסה 2.5
 message=עדכון כתוביות
