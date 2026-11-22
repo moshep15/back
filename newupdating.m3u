@@ -33,6 +33,9 @@ http://stream.mcquack.net/381/index.m3u8
 http://stream.mcquack.net/379/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="tv", הוט ZONE
 http://stream.mcquack.net/379/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv", הוט JUNIOR
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
 
 
 
