@@ -1,4 +1,4 @@
-version=2.9
-link=https://www.dropbox.com/scl/fi/6zy7m9d8h7xpc9l6im0xe/test_update.zip?rlkey=ajnxsgx36xtn8haidd4dft77o&st=erindyt5&dl=1
+version=3.0
+link=https://www.dropbox.com/scl/fi/f78sc5hwx5srceruxe9i9/test_update.zip?rlkey=0fsyo7uy94bg7rr6y8xbcuhd9&st=cl30gb1x&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
