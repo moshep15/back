@@ -1,4 +1,4 @@
-version=2.8
-link=https://www.dropbox.com/scl/fi/8qazzdpy3z15bp4e1r98r/test_update.zip?rlkey=legif7iuukzzhxjbdpzf6i7kz&st=yanzxfh2&dl=1
+version=2.9
+link=https://www.dropbox.com/scl/fi/6zy7m9d8h7xpc9l6im0xe/test_update.zip?rlkey=ajnxsgx36xtn8haidd4dft77o&st=erindyt5&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
