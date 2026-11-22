@@ -1,4 +1,4 @@
 version=2.7
-link=https://www.dropbox.com/scl/fi/arm3qq3bcr4x8r1106z93/test_update.zip?rlkey=0wgcrh0k6o9yk8czjnz3bo6gl&st=j0trnszi&dl=1
+link=https://www.dropbox.com/scl/fi/l8hdexaweim1y1o2sjkfh/test_update.zip?rlkey=882iz7vc7yxb69ayzq5nr18t2&st=gxwt2qz5&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
