@@ -6,6 +6,7 @@
     "service.github.notifier": true,
     "service.subtitles.kodipovilai": true,
     "plugin.video.youtube": true,
+    "script.skin.info.service": true,
     "plugin.video.playlistloader": true
 
 }
