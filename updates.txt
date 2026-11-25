@@ -1,4 +1,4 @@
 version=3.1
-link=https://www.dropbox.com/scl/fi/3yx0ssdlrffah88ffjo54/update.zip?rlkey=kc6iez2suh2jbslwdkq3nwdr4&st=6wnpgc8m&dl=1
+link=https://www.dropbox.com/scl/fi/isd8me1nr3on9x76qlw6c/update.zip?rlkey=ted2snt0x7nmsdl9tgreg6bvy&st=qpld4gzh&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
