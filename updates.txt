@@ -1,4 +1,4 @@
 version=3.6
-link=https://www.dropbox.com/scl/fi/eiwgelko6rhibthzph156/update.zip?rlkey=v0uldmjgu9dbgj9d5399zpoaf&st=8hw8z9rs&dl=1
+link=https://www.dropbox.com/scl/fi/b01nkxfrjplk2wi9e5y28/update.zip?rlkey=wfy1dw8h1ns50yvz47pgz1n01&st=2wpja7iz&dl=1
 title=הסתיים העדכון אנא המתן כמה שניות לרענון המערכת
 message=עדכון כללי
